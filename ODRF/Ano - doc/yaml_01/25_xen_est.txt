@@ -1,0 +1,96 @@
+- ID:  182.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Koosha Delshad,técnico do Comercial Atlético Clube
+  DATA: 01/02/2023
+  JOGO: Comercial x River
+  CAMPEONATO: Piauiense
+  ONDE: Estádio Deusdeth de Melo
+  CIDADE: Campo Maior/PI 
+  FATO: Em nota, o treinador Koosha Delshad, do Comercial-PI, relatou ter recebido ofensas xenofóbicas como “homem bomba” e “terrorista” em sua partida de estreia por parte de torcedores do clube.
+  DESDOBRAMENTO: O treinador relatou que os torcedores também disseram que ele colocaria uma bomba em campo e que as ofensas começaram um dia antes nas redes sociais. Ele pediu que medidas cabíveis fossem tomadas. Koosha Delshad renunciou ao cargo. Em nota publicada nas redes sociais, o clube repudiou os atos dos torcedores.
+  COMO TERMINOU: Não foram encontradas informações se o caso teve sequência.
+- ID:  183.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Delegação do Sport Clube do Recife
+  DATA: 24/05/2023
+  JOGO: Criciúma x Sport
+  CAMPEONATO: Brasileiro - Série B
+  ONDE: Estádio Heriberto Hülse 
+  CIDADE: Criciúma/SC
+  FATO: A diretoria do Sport relatou insultos xenofóbicos por parte da torcida do Criciúma. O clube registrou imagens do ocorrido,onde um torcedor do Criciúma foi flagrado gritando “Brasil é Sul”.
+  DESDOBRAMENTO: O caso foi comunicado ao delegado da partida, mas o ato não foi relatado na súmula. Em nota, o Criciúma repudiou “qualquer ato de discriminação”. O Sport encaminhou uma denúncia com as imagens à Justiça Desportiva.
+  COMO TERMINOU: A Comissão Disciplinar do STJD multou o Criciúma em R$ 2 mil por infração ao Art. 243-G do CBJD.
+- ID:  184.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Emerson Jose De Almeida Pires, técnico do São Raimundo Esporte Clube
+  DATA: 30/07/2023
+  JOGO: São Raimundo X Unidos do Alvorada
+  CAMPEONATO: Amazonense Série B
+  ONDE: Estádio Municipal Jornalista Carlos Zamith
+  CIDADE: Manaus/AM
+  FATO: Emerson Almeida, técnico do São Raimundo, acusou Marinho, treinador do Alvorada, de chamá-lo de “paraense safado”.
+  DESDOBRAMENTO: Marinho negou as acusações e afirmou que tomaria as medidas cabíveis junto ao clube para que Emerson Almeida responda na justiça. O caso não foi relatado em súmula.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID:  185.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Delegação do Nacional Futebol Clube
+  DATA: 14/08/2023
+  JOGO: Bahia de Feira X Nacional
+  CAMPEONATO: Brasileiro - Série D
+  ONDE: Estádio Professor Jodilton Souza
+  CIDADE: Feira de Santana/BA
+  FATO: Parte da torcida do Bahia de Feira proferiu ofensas xenofóbicas à delegação do Nacional, com insultos como “índio” e “Aqui não é mato não”.
+  DESDOBRAMENTO: Em nota, o Nacional repudiou o episódio. O ato não foi relatado na súmula da partida.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  186.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Delegação do Sousa Esporte Clube
+  DATA: 26/08/2023
+  JOGO: Sousa x Ferroviária
+  CAMPEONATO: Brasileiro - Série D
+  ONDE: Estádio Governador Antônio Mariz
+  CIDADE: Souza/PB
+  FATO: Segundo relato da delegação do Souza, parte da torcida da Ferroviária proferiu ofensas xenofóbicas como “miseráveis” e “mortos de fome” ao banco de reservas e chamou o lateral-esquerdo Erick Maceió de “índio”.
+  DESDOBRAMENTO: Aldeone Abrantes, presidente do Souza, informou que o clube analisaria se entraria com uma denúncia junto à CBF, pois os atos não teriam sido registrados em imagens e afirmou que um integrante da equipe de arbitragem teria ouvido os insultos, mas o ato não foi relatado na súmula. Nas redes sociais, ambos os clubes emitiram uma nota condenando o episódio.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID:  187.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Botafogo Futebol Clube
+  DATA: 10/09/2023
+  JOGO: Volta Redonda x Botafogo-PB
+  CAMPEONATO: Brasileiro - Série C
+  ONDE: Estádio Sylvio Raulino de Oliveira
+  CIDADE: Volta Redonda/RJ
+  FATO: Parte da torcida do Volta Redonda entoou cânticos de cunho xenofóbico, referindo-se a torcida do Botafogo-PB como “paraíba”.
+  DESDOBRAMENTO: O ato não foi registrado na súmula da partida. Em nota nas redes sociais, o Botafogo-PB repudiou o caso. A Federação Paraibana de Futebol (FPF-PB) também se manifestou, condenando os cânticos discriminatórios. O Botafogo-PB apresentou uma notícia de infração à Justiça Desportiva, e o Volta Redonda foi denunciado por infração ao Art. 243-G, § 2º do CBJD.
+  COMO TERMINOU: A Comissão Disciplinar do STJD puniu o Volta Redonda com uma multa de R$ 4 mil pelos cânticos homofóbicos e xenofóbicos ocorridos na mesma partida.
+- ID:  188.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Fortaleza Esporte Clube
+  DATA: 26/09/2023
+  JOGO: Corinthians x Fortaleza 
+  CAMPEONATO: Copa Sul-Americana -
+  ONDE: Neo Química Arena
+  CIDADE: São Paulo/SP
+  FATO: Um grupo de torcedores do Corinthians fez gestos insinuando que os torcedores do Fortaleza têm “cabeça grande”.
+  DESDOBRAMENTO: Um vídeo que registrou o momento viralizou nas redes sociais.Os clubes não se manifestaram sobre o episódio.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  248.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Cânticos proferidos contra brasileiros
+  DATA: 08/10/2023
+  JOGO: Real Valladolid x Mirandés
+  CAMPEONATO: Segunda Divisão Espanhola
+  ONDE: Estádio José Zorrilla 
+  CIDADE: Valladoid/ESPANHA
+  FATO: Parte da torcida do Valladolid proferiu o cântico “fora, brasileiros” durante a partida contra o Mirandés.
+  DESDOBRAMENTO: Em nota divulgada nas redes sociais, Ronaldo Fenômeno, sócio majoritário e presidente do clube, condenou os cânticos e afirmou que o clube colaboraria com a LaLiga e autoridades para identificar os responsáveis. Segundo a imprensa espanhola os cânticos teriam sido dirigidos a Ronaldo.
+  COMO TERMINOU: Não foram encontradas outras informações sobre a continuidade do caso.

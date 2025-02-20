@@ -1,0 +1,10 @@
+- ID: 173.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Comentário homofóbico, relacionado ao São PauloFutebol Clube
+  DATA: 25/07/2023
+  ONDE: CT da Ponte Preta
+  CIDADE: Campinas/SP
+  FATO: Durante a apresentação da Ponte Preta, o técnico Pintado disse “João (Brigatti), não sei se é bom ficar muito pertinho. Eu joguei no São Paulo.”
+  DESDOBRAMENTO: O vídeo com a frase viralizou nas redes sociais. A Ponte Preta excluiu do vídeo da apresentação o trecho com o comentário. O técnico disse que o comentário foi uma referência à rivalidade com João Brigatti na época em que ambos eram jogadores.
+  COMO TERMINOU: O caso não teve desdobramentos.

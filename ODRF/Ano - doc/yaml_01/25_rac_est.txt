@@ -1,0 +1,1440 @@
+- ID: 01.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Victor Eduardo Rocha,   atleta de futebol amador
+  DATA: 22/01/2023
+  JOGO: Sem Identificação 
+  CAMPEONATO: Sem Identificação
+  ONDE: Quadra de Futebol
+  CIDADE: Belo Horizonte/MG
+  FATO: Vitor, atleta amador, relatou que ao sair de campo ouviu o xingamento “macaco“, proferido por uma mulher que estava na arquibancada.
+  DESDOBRAMENTO: Após ouvir o xingamento, o atleta acionou a Polícia Militar. A mulher foi encaminhada até a delegacia, e durante depoimento, confessou que chamou o atleta de macaco, por achar que se tratava do apelido do mesmo, o que foi negado pelo atleta e testemunhas. A mulher foi presa em flagrante e encaminhada para o Presídio de Vespasiano, na Região Metropolitana de Belo Horizonte.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a sequência do caso.
+- ID: 02.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Rodolfo dos Santos de Jesus,  atleta do Doce Mel Esporte Clube
+  DATA: 26/01/2023
+  JOGO: EC Vitória x Doce Mel
+  CAMPEONATO: Campeonato Baiano
+  ONDE: Estádio Manoel Barradas (Barradão)
+  CIDADE: Salvador/BA
+  FATO: Rodolfo, goleiro do Doce Mel foi chamado de “macaco” por um torcedor do Vitória, um áudio com a ofensa foi captado durante transmissão da TVE Bahia.
+  DESDOBRAMENTO: Em entrevista, o goleiro disse que escutou as ofensas racistas e no segundo tempo da partida chamou o árbitro questionando se o mesmo teria ouvido as ofensas vindas da arquibancada, o mesmo disse que não era para o atleta parar, pois iria atrapalhar o seu trabalho e para dar continuidade no jogo. O Doce Mel não se manifestou sobre o caso. Em nota, o Vitória repudiou o caso e informou que estava trabalhando para identificar o torcedor. A Federação Baiana de Futebol também se manifestou repudiando o caso. O caso não foi registrado na súmula da partida.
+  COMO TERMINOU: Não foram encontradas informações de que o atleta tenha registrado boletim de ocorrência. Apesar das notícias veiculadas pela mídia sobre a absolvição do Vitória da acusação de racismo, apenas a decisão do julgamento pelo Tribunal de Justiça Desportiva do Futebol da Bahia (TJDF-BA) em relação ao ato homofóbico ocorrido na mesma partida foi encontrada.
+- ID: 03.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: André Henrique, repórter da Rádio Palmeira FM
+  DATA: 29/01/2023
+  JOGO: CSE x Cruzeiro-AL  
+  CAMPEONATO: Alagoano
+  ONDE: Estádio Juca Sampaio
+  CIDADE: Palmeira dos índios/AL
+  FATO: Segundo o repórter, André Henrique, no momento em que entrevistava o técnico  Jelson Marcelino, do Cruzeiro de Arapiraca, um torcedor do CSE teria o ofendido com as   palavras “o que você tá olhando, seu negro, filho da p...”. 
+  DESDOBRAMENTO: O torcedor fugiu sem ter sido identificado após proferir as ofensas. O incidente foi relatado ao delegado da partida e registrado na súmula; além disso, um   boletim de ocorrência foi feito pelo repórter. A Associação de Cronistas Esportivos de Alagoas (ACEA) emitiu uma nota repudiando o ocorrido, e a Federação Alagoana de Futebol prometeu agir para investigar o caso O CSE foi denunciado por infração ao Art.243-G do CBJD.
+  COMO TERMINOU: Por infração ao Art. 243-G do CBJD, o Tribunal de Justiça Desportiva do Futebol de Alagoas (TJD-AL) aplicou uma multa de R$ 1.300 ao CSE e ordenou que o clube realizasse ações de conscientização com a frase “Contra o Racismo” durante seus jogos no Campeonato Alagoano Série A e na Copa Alagoas 2023.
+- ID: 04.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Preparador físico do Bandeirante R.F.C
+  DATA: 29/01/2023
+  JOGO: Palmeirinhas RS x Bandeirante SC
+  CAMPEONATO: Copa de Futebol Pequeno Gigante Sub-17
+  ONDE: Campo do Clube Oriente
+  CIDADE: Campo Bom/RS
+  FATO: O preparador físico do Bandeirante Sub-17 foi alvo de insultos racistas por parte da torcida do Palmeirinhas-RS.
+  DESDOBRAMENTO: Em nota divulgada nas redes sociais, o clube denunciou os ataques racistas. A SULICAMPE, liga responsável pela organização da Copa de Futebol Pequeno Gigante, não se manifestou sobre o caso. Além disso, o incidente não foi registrado na súmula.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre o caso.
+- ID: 05.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Cláudio Rafael Ribeiro,assistente de arbitragem
+  DATA: 02/02/2023
+  JOGO: Barretos X São José EC
+  CAMPEONATO: Paulista A3
+  ONDE: Estádio Municipal Antônio Gomes Martins
+  CIDADE: Barretos/RS
+  FATO: O árbitro assistente, Cláudio Rafael Ribeiro, relatou que durante o primeiro tempo, um torcedor do Barretos que estava na arquibancada, gritou três vezes “negrinho   safado olha aqui”.
+  DESDOBRAMENTO: O caso foi relatado na súmula da partida. Durante o intervalo, junto aos policiais, Claúdio identificou o autor das ofensas. Após o término do jogo, tanto o   autor quanto a vítima e testemunhas foram conduzidos à delegacia. Lá, o suposto autor negou ter proferido palavras racistas contra o árbitro assistente e apontou o verdadeiro   autor das ofensas, o que foi corroborado pelas testemunhas. Um boletim de ocorrência foi registrado. Em nota, o clube repudiou o caso Barretos foi denunciado por infração ao   Art.243-G, § 2º do CBJD.
+  COMO TERMINOU: O Tribunal de Justiça Desportiva do Estado de São Paulo (TJD-SP) impôs uma multa de R$ 5 mil reais ao Barretos e determinou a perda de um mando de campo por infração ao Art.243-G, § 2º do CBJD. No entanto, após recurso, o clube foi absolvido da punição.
+- ID: 06.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Antonio Muniz (Toni Bahêa), jornalista da TV Bahêa
+  DATA: 14/02/2023
+  JOGO: Bahia x Fortaleza  
+  CAMPEONATO: Copa do Nordeste
+  ONDE: Arena Fonte Nova
+  CIDADE: Salvador/BA
+  FATO: O jornalista Toni Bahêa, estava cobrindo a partida à beira do gramado, quando um torcedor do Bahia perguntou se Toni, que usa dreadlocks, estava com piolho. 
+  DESDOBRAMENTO: O jornalista gravou a situação e acionou a polícia que, encaminhou o acusado até a delegacia do estádio, onde foi registrado um boletim de ocorrência, após, o acusado foi liberado. Em nota, o Bahia divulgou uma nota de repúdio e informou que o departamento jurídico do clube iria acompanhar o caso.
+  COMO TERMINOU: Não foram encontradas mais informações se o caso teve sequência. No que diz respeito ao boletim de ocorrência (BO), sendo um caso de natureza criminal, o processo é mantido em sigilo judicial, impossibilitando a obtenção de informações sobre o seu andamento.
+- ID: 07.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atletas da Sociedade Esportiva e Recreativa Caxias do Sul 
+  DATA: 16/02/2023
+  JOGO: Novo Hamburgo X Caxias
+  CAMPEONATO: Gaúcho
+  ONDE: Estádio do Vale
+  CIDADE: Novo Hamburgo/RS 
+  FATO: Durante pausa na partida, os atletas do banco de reservas do Caxias relataram ao quarto árbitro que ofensas racistas teriam sido proferidas por torcedores do Novo Hamburgo.
+  DESDOBRAMENTO: De acordo com a súmula da partida, os jogadores relataram ter ouvido as palavras “bando de macacos”. O jogo foi interrompido por três minutos na tentativa de identificar o responsável, porém nenhum torcedor foi identificado. Em uma entrevista coletiva, o técnico do Caxias, Thiago Carvalho, mencionou que um torcedor teria fugido do local onde as ofensas foram proferidas. O Novo Hamburgo anunciou que tomaria medidas para identificar e banir o torcedor responsável.
+  COMO TERMINOU: O Tribunal de Justiça Desportiva do Rio Grande do Sul (TJD-RS) aplicou uma multa de R$ 10 mil ao Novo Hamburgo por violação ao Art. 243-G, §2º do CBJD. Após recurso, por maioria dos votos, a multa foi reduzida para R$ 5 mil.
+- ID: 08.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Douglas Matheus do Nascimento e Thales Natanael Lira de Matos,atletas do Centro Sportivo Alagoano (CSA) 
+  DATA: 17/02/2023
+  JOGO: Fortaleza x CSA
+  CAMPEONATO: Copa do Nordeste
+  ONDE: Estádio Presidente Vargas
+  CIDADE: Fortaleza/CE
+  FATO: Os atletas do CSA, Douglas e Thales denunciaram que enquanto aqueciam no intervalo da partida, foram chamados de “cabelo de vassoura” por torcedores do Fortaleza.
+  DESDOBRAMENTO: O caso foi reportado ao delegado da partida e registrado na súmula. De acordo com relatos, a Polícia foi até a arquibancada, porém não conseguiu identificar os agressores. Após o término do jogo, os jogadores registraram um boletim de ocorrência. O presidente do Fortaleza, Marcelo Paz, condenou o incidente, e em uma declaração oficial, o clube afirmou que continuaria buscando identificar os responsáveis pelas agressões.
+  COMO TERMINOU: Apesar do registro em súmula, não foram encontradas informações de que o caso tenha sido julgado pelo STJD. Em relação ao BO, por ser um caso do âmbito criminal, ele corre em segredo de justiça, sem ter como obter informações do seu desenrolar.
+- ID: 09.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atletas do Coxim, Atlético Clube
+  DATA: 18/02/2023
+  JOGO: Costa Rica x Coxim 
+  CAMPEONATO: Sul-Mato-Grossense
+  ONDE: Estádio Laerte Paes Coelho
+  CIDADE: Costa Rica/ MS
+  FATO: Marcelo Yatecola, presidente do Coxim, denunciou que teria ocorrido um episódio de injúria racial contra atletas do clube, no jogo contra o Costa Rica. 
+  DESDOBRAMENTO: O episódio ocorreu após uma discussão entre jogadores, dirigentes do Coxim e a arbitragem, resultando na intervenção da polícia para dispersar a confusão. Conforme relatado pelo presidente do Coxim, um policial teria apontado a arma em direção a alguns jogadores. O jogador do Coxim, Richard, alegou ter sido insultado com a expressão “seu preto do car**” pelo policial. O presidente do clube informou que um boletim de ocorrência foi registrado.
+  COMO TERMINOU: Em relação ao boletim de ocorrência, por ser um caso do âmbito criminal, ele corre em segredo de justiça, sem ter como obter informações do seu desenrolar.
+- ID: 10.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Clube Atlético Mineiro
+  DATA: 22/02/2023
+  JOGO: Carabobo x Atlético-MG
+  CAMPEONATO: Copa Libertadores da América
+  ONDE: Estádio Olímpico da Universidade Central da Venezuela
+  CIDADE: Caracas/VENEZUELA
+  FATO: A delegação do Atlético-MG foi recebida com gritos de “macacos”, proferidos por alguns torcedores do Carabobo, na chegada ao Estádio Olímpico UCV. O clube denunciou o caso através de sua rede social, onde publicou um vídeo com as ofensas .
+  DESDOBRAMENTO: O Atlético-MG informou que o diretor de futebol do clube registrou uma reclamação junto ao delegado da partida. Em nota publicada nas redes sociais, a CONMEBOL condenou os ataques racistas. O zagueiro Jemerson, do Atlético-MG, exigiu respostas das autoridades diante do ocorrido. A Confederação Brasileira de Futebol (CBF) expressou solidariedade ao Atlético-MG e defendeu punições aos responsáveis pelas ofensas em um ofício enviado à CONMEBOL. O Carabobo emitiu uma nota oficial condenando o ato e realizou uma campanha contra o racismo para conscientizar seus torcedores no jogo seguinte pelo Campeonato Venezuelano. A CONMEBOL abriu um processo disciplinar para investigar o caso.
+  COMO TERMINOU: A Comissão Disciplinar da CONMEBOL aplicou uma multa de US$ 100 mil dólares ao Carabobo por violação do Art.15.2 do Código Disciplinar da entidade.
+- ID: 11.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedor do Clube Atlético Mineiro
+  DATA: 01/03/2023
+  JOGO: Atlético-MG x Carabobo
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio Governador Magalhães   Pinto (Mineirão)
+  CIDADE: Belo Horizonte/MG
+  FATO: Um torcedor do Atlético-MG, relatou que durante uma discussão uma mulher   não identificada, teria feito um gesto racista,   passando os dedos no braço. Ele afirmou que   perguntou à mulher “Você é racista?” e, ao   perceber que estava sendo filmada, ela teria   ficado em silêncio.
+  DESDOBRAMENTO: O ato foi gravado em   um vídeo e divulgado nas redes sociais. Segundo o relato do torcedor, o Atlético-MG   entrou em contato solicitando o boletim de   ocorrência. O torcedor afirmou que no dia   seguinte foi até a delegacia de sua cidade, Betim, para fazer o boletim de ocorrência, mas   os policiais informaram que o sistema estava   fora do ar e pediram que ele retornasse em   outro horário.
+  COMO TERMINOU: Não foram encontradas mais informações sobre o caso, tão   pouco se o torcedor registrou Boletim de   Ocorrência (BO).
+- ID: 12.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Renan Henrique do Carmo,   preparador físico do Audax Rio   de Janeiro Esporte Clube
+  DATA: 03/03/2023
+  JOGO: Portuguesa-RJ X   Audax Rio
+  CAMPEONATO: Carioca Série A - 
+  ONDE: Estádio Luso-Brasileiro
+  CIDADE: Rio de   Janeiro/RJ
+  FATO: Renan, preparador físico do Audax,   relatou que um torcedor da Portuguesa o   chamou de “preto de mer**” e fez comentários racistas sobre o seu cabelo.
+  DESDOBRAMENTO: Segundo Renan, o   incidente ocorreu no final do jogo, quando o   torcedor estava ofendendo Leandro, goleiro   do Audax. O preparador físico pediu que os   familiares próximos não fossem insultados,   foi quando o torcedor proferiu ofensas racistas. O caso foi registrado na súmula da   partida pelo árbitro. Conforme relatado, o   preparador físico se dirigiu ao policiamento   presente no estádio para denunciar o incidente. O torcedor foi identificado e encaminhado para a delegacia. Em uma nota oficial,   o Audax repudiou as ofensas racistas e expressou gratidão à Portuguesa e aos torcedores que ajudaram a identificar o acusado.
+  COMO TERMINOU: Inicialmente, a Associação Atlética Portuguesa foi condenada   pelo Tribunal de Justiça Desportiva do Futebol do Rio de Janeiro (TJD-RJ) por infração ao   Art. 243-G do CBJD, resultando na imposição   de uma multa de R$ 10 mil e na proibição do   acesso do torcedor ao estádio do clube por   720 dias. Após a interposição de um recurso,   o clube foi absolvido. O BO corre em segredo   de justiça por ser um caso do âmbito criminal, sem informações do desenrolar.
+- ID: 13.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Windson Airez Neves,   atleta do Ypiranga Futebol Clube
+  DATA: 04/03/2023
+  JOGO: Caxias x Ypiranga
+  CAMPEONATO: Gaúcho
+  ONDE: Estádio   Francisco Stédile (Centenário)
+  CIDADE: Caxias  do Sul/RS
+  FATO: Aos 31 minutos do primeiro tempo,   o jogo entre Caxias e Ypiranga foi interrompido, após Marcão, massagista do Ypiranga,   comunicar ao árbitro que um torcedor do   Caxias teria proferido ofensas racistas contra   um jogador do Ypiranga.
+  DESDOBRAMENTO: A partida foi interrompida por sete minutos. O caso foi documentado na súmula do jogo. O torcedor   envolvido foi identificado e conduzido à delegacia para prestar depoimento, e um boletim   de ocorrência foi registrado. Após o término   da partida, Marcão preferiu não comentar   sobre o caso. Na súmula, o árbitro Roger   Goulart registrou que as ofensas foram dirigidas a Marcão. Em uma declaração oficial,   o Ypiranga afirmou que o zagueiro Windson   foi a vítima das ofensas e condenou o ato.   O Caxias anunciou em nota que cooperaria   com as autoridades para esclarecer o incidente. O Caxias foi denunciado por infração   ao Art.243-G, § 2º do CBJD.
+  COMO TERMINOU: Em relação ao boletim   de ocorrência, por ser um caso do âmbito criminal, ele corre em segredo de justiça, sem   ter como obter informações do seu desenrolar. O Caxias foi absolvido por unanimidade   pelo Tribunal de Justiça Desportiva do Rio   Grande do Sul (TJD-RS).
+- ID: 14.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Hélio Cezar Pinto Dos Anjos,   técnico da Associação   Atlética Ponte Preta
+  DATA: 07/03/2023
+  JOGO: Brasil de Pelotas x   Ponte Preta
+  CAMPEONATO: Copa do Brasil - 
+  ONDE: Estádio Bento Freitas
+  CIDADE: Pelotas/  RS
+  FATO: Hélio dos Anjos, técnico da Ponte   Preta, relatou ter sido vítima de ofensa racista em jogo contra o Brasil de Pelotas, no   retorno das equipes para o segundo tempo.
+  DESDOBRAMENTO: Conforme registrado   na súmula, Hélio relatou ao árbitro Felipe   Fernandes de Lima ter sido chamado de “negão filho da p…” por um torcedor do Brasil   de Pelotas. A Brigada Militar foi acionada e   solicitou a identificação do torcedor ao treinador, que não conseguiu identificá-lo, e a   partida prosseguiu. Em uma entrevista após   o jogo, o técnico afirmou ter sido vítima de   racismo e declarou que não procuraria a Polícia Civil por “não adiantar”. Em resposta à   imprensa, a Ponte Preta informou que não   faria nenhuma representação sobre o caso,   a pedido do próprio técnico. A CBF encaminhou a denúncia ao setor de Compliance da   entidade e ao Superior Tribunal de Justiça   Desportiva (STJD).
+  COMO TERMINOU: Apesar do incidente ter   sido registrado na súmula, foram encontradas informações apenas sobre o julgamento   pelo STJD do caso de homofobia, que ocorreu   na mesma partida.
+- ID: 15.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Halbert Luis Moraes Baia,   árbitro
+  DATA: 11/03/2023
+  JOGO: Nacional AM x Manaus  
+  CAMPEONATO: Amazonense
+  ONDE: Estádio   Ismael Benigno
+  CIDADE: Manaus/AM
+  FATO: Um torcedor do Nacional teria proferido ao árbitro Halbert Luis, as palavras   “seu safado, nego vagabundo, seu macaco,   seu filho da p***”.
+  DESDOBRAMENTO: O caso foi registrado   em súmula pelo quarto árbitro Victor Hugo   de Lima. Victor relatou que tentou identificar   o torcedor, mas o mesmo fugiu. Em nota, o   Nacional e a Federação Amazonense de Futebol (FAF) repudiaram o ato. O Nacional foi   denunciado à Justiça Desportiva por infração   ao Art. 243 G § 2º do CBJD.
+  COMO TERMINOU: O Nacional foi condenado pelo Tribunal de Justiça Desportiva   do Amazonas (TJD-AM) ao pagamento de   uma multa de R$ 80 mil e a cumprir uma   pena pedagógica, entrando em campo com   cartazes ou faixas contra o racismo nos jogos   subsequentes. O Nacional recorreu ao STJD,   que inicialmente reduziu a multa para R$ 20   mil. No entanto, após novo recurso, o Pleno   do STJD aumentou a multa para R$ 30 mil.
+- ID: 16.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Josinaldo Bento de Oliveira   Júnior (Juninho),   atleta do Projeto Bola no Pé
+  DATA: 12/03/2023
+  JOGO: Projeto Bola no Pé x   Sem Identificação
+  CAMPEONATO: Amador - 
+  ONDE: Sem identificação
+  CIDADE: São José de   Espinharas/PB
+  FATO: Juninho, relatou que foi chamado de   “macaco” e “preto” por um atleta do time   adversário, durante partida em um campeonato de futebol amador.
+  DESDOBRAMENTO: Chico de Miron, diretor do time, afirmou que o caso foi levado   a Polícia Militar que fazia a segurança no   local, mas um policial teria desencorajado a   denúncia. Nas redes sociais, atletas do projeto fizeram uma postagem se solidarizando   com Juninho e pedindo respeito.
+  COMO TERMINOU: Não foram encontradas informações da sequência do caso.
+- ID: 17.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Matheus Guilherme   Montagnine,   atleta do Barretos Esporte Clube
+  DATA: 18/03/2023
+  JOGO: Red Bull Bragantino   II X Barretos
+  CAMPEONATO: Paulista Série A3 
+  ONDE: Estádio Nabi Abi Chedid (Nabizão)
+  CIDADE: Bragança Paulista/SP
+  FATO: Durante a partida, Matheus, atacante do Barretos, foi alvo de ofensas proferidas   por uma torcedora do Red Bull Bragantino II.
+  DESDOBRAMENTO: Aos quarenta minutos   do segundo tempo, o jogo foi interrompido   depois que o quarto árbitro relatou ao árbitro   Ricardo Bittencourt da Silva ter ouvido gritos   de “seu macaco” direcionados a Matheus. O   incidente foi registrado na súmula da partida.   De acordo com o relato, a autora (D.C.S.M)   da ofensa foi identificada pela Polícia Militar.   O Red Bull Bragantino II foi denunciado por   infração ao Art. 243-G, § 2º e § 3º do CBJD.
+  COMO TERMINOU: O RB Bragantino II   foi multado em R$ 3 mil pelo Tribunal de   Justiça Desportiva de São Paulo (TJD-SP) por   infração ao Art. 243-G, § 2º e § 3º do CBJD.   Em relação ao boletim de ocorrência, por ser   um caso do âmbito criminal, ele corre em   segredo de justiça, sem ter como obter informações do seu desenrolar.”
+- ID: 18.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Wadson Félix de   Macedo (Dadinho),   atleta do Estrela Dalva Futebol Clube
+  DATA: 26/03/2023
+  JOGO: Estrela Dalva F.C x Nacional F.C
+  CAMPEONATO: Zé Camelo
+  ONDE:  Sem identificação
+  CIDADE: Luziânia/GO
+  FATO: Dadinho, meio-campo do Estrela Dalva, time amador, foi chamado de “macaco”   por uma torcedora do Nacional F.C.
+  DESDOBRAMENTO: Em relato, Dadinho   disse que após ser ofendido, perguntou para   torcedora se estava falando com ele, a mesma confirmou e perguntou se o atleta queria   banana. No final da partida o atleta contou   que foi até a torcedora, pedindo respeito.   Em nota nas redes sociais, o Estrela Dalva e   o Nacional F.C repudiaram o ato.
+  COMO TERMINOU: Não foram encontradas informações de sequência do caso,   tão pouco se o atleta registrou Boletim de   Ocorrência (BO).
+- ID: 19.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Lucas Luiz da Silva,   atleta do Camboriú Futebol Clube
+  DATA: 31/03/2023
+  JOGO: Chapecoense x Camboriú
+  CAMPEONATO: Catarinense Sub-20   - Série A
+  ONDE: CT Água Amarela
+  CIDADE:  Chapecó/SC
+  FATO: Em nota, divulgada nas redes sociais,   o Camboriú denunciou que o jogador Lucas   foi alvo de injúrias raciais durante jogo da   categoria sub-20 contra a Chapecoense, por   parte de pessoas que estavam assistindo à   partida do lado de fora do campo.
+  DESDOBRAMENTO: Ainda em nota, o Camboriú repudiou o caso, prestou apoio ao atleta   e informou que um boletim de ocorrência foi   registrado. No BO, Lucas relatou que foi chamado de “negão”, “preto” e “macaco” e que   os agressores eram funcionários da Chapecoense. Ele também mencionou que a equipe   de arbitragem foi informada do ocorrido e   prometeu registrar o incidente na súmula. O caso não foi registrado na súmula da partida.   Após a denúncia, a Chapecoense emitiu uma   nota no seu site, reforçando o compromisso   do combate ao racismo e disse que trabalharia   junto às autoridades para identificar o responsável. Procurada pela imprensa para comentar   o relato do atleta, a Chapecoense informou   que abriria um procedimento interno para   apurar se algum funcionário do clube estava   envolvido no caso, e se confirmado, tomaria   medidas administrativas.
+  COMO TERMINOU: Em relação ao Boletim de Ocorrência, por ser um caso do   âmbito criminal, ele corre em segredo de   justiça, sem ter como obter informações do   seu desenrolar.
+- ID: 20.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Fortaleza   Esporte Clube
+  DATA: 01/04/2023
+  JOGO: Fortaleza x Ceará  
+  CAMPEONATO: Cearense
+  ONDE: Estádio   Governador Plácido Castelo (Arena Castelão)
+  CIDADE: Fortaleza/CE
+  FATO: Um vídeo postado e viralizado nas   redes sociais flagrou um homem na torcida do Ceará fazendo gestos com as mãos,   semelhantes à imitação de um macaco. Em   um segundo vídeo, é possível ver o homem   sendo retirado da arquibancada pela polícia.
+  DESDOBRAMENTO: O Ceará divulgou uma   nota repudiando o ato, informando que o   torcedor, que não fazia parte do quadro de   sócios, foi identificado e seria impedido de   comprar ingressos para os jogos do clube.   A Secretaria da Segurança Pública e Defesa   Social do Ceará comunicou que, durante a   partida, a Polícia Militar recebeu uma denúncia de que um homem reproduziu gestos de   conotação racista, e que o mesmo foi identificado e conduzido até a delegacia, onde   prestou esclarecimentos. A Polícia Civil abriu   uma investigação para apurar os fatos.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.   Por ser um caso do âmbito criminal, ele corre   em segredo de justiça, sem ter como obter   informações do seu desenrolar.
+- ID: 21.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atleta sub-14 do Vila Ingleses
+  DATA: 07/04/2023
+  JOGO: Vila Ingleses x   Racing - ARG
+  CAMPEONATO: Sem identificação
+  ONDE: Sem identificação
+  CIDADE:  Florianópolis/SC
+  FATO: Cláudio Carvalho, treinador do Vila   Ingleses, relatou que durante a comemoração do gol na frente do alambrado, um   homem na torcida adversária apontou para   um dos atletas e proferiu ofensas racistas.
+  DESDOBRAMENTO: Após o incidente,   Cláudio solicitou ao pai de um dos jogadores   que denunciasse o caso à polícia. Segundo a   Polícia Militar, testemunhas afirmaram que   o homem fez gestos imitando um macaco   e gritou “mono” (macaco em espanhol) na   direção de um dos atletas. As autoridades realizaram buscas no local, porém o agressor   não foi encontrado. Um boletim de ocorrência foi registrado.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a sequência do caso Em relação ao boletim de ocorrência,   por ser um caso do âmbito criminal, ele corre   em segredo de justiça, sem ter como obter   informações do seu desenrolar.
+- ID: 22.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Santos   Futebol Clube
+  DATA: 16/04/2023
+  JOGO: Grêmio x Santos - 
+  CAMPEONATO: Brasileiro - Série A
+  ONDE:  Estádio Alfredo Jaconi
+  CIDADE: Caxias do Sul/RS
+  FATO: Um torcedor do Grêmio teria feito o   gesto de passar a mão no braço, indicando a   cor da pele, para dois torcedores do Santos.
+  DESDOBRAMENTO: O torcedor foi retirado   das arquibancadas por seguranças do estádio e detido pela Brigada Militar. O Grêmio   afirmou que identificou o torcedor, que não   é sócio do clube e afirmou que acompanhou as vítimas até a delegacia, prestando   a assistência necessária.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre o caso.
+- ID: 23.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:   Ângelo Gabriel Borges   Damaceno e Messias   Rodrigues da Silva Júnior,   atletas do Santos Futebol Clube
+  DATA: 20/04/2023
+  JOGO: Santos x Audax   Italiano
+  CAMPEONATO: Copa Sul-Americana 
+  ONDE: Estádio Urbano Caldeira (Vila Belmiro) - 
+  CIDADE: Santos/SP
+  FATO: Os jogadores do Santos, Ângelo e   Messias foram chamados de “macaco” por   um torcedor do Santos durante a descida   para o vestiário.
+  DESDOBRAMENTO: O ato foi flagrado   por uma torcedora do Santos e divulgado   nas redes sociais. Em entrevista ao GE, ela   relatou que procurou a polícia, que se ofereceu para levá-la à delegacia mais próxima   para registrar queixa. O autor da ofensa não   foi identificado e não foi aberto boletim de   ocorrência. Em nota, o Santos repudiou o caso    e informou que analisaria as imagens de   segurança da Vila Belmiro para identificar o   acusado e encaminhar as autoridades. A Comissão Disciplinar da CONMEBOL abriu um   expediente disciplinar para analisar o caso.
+  COMO TERMINOU: A Comissão Disciplinar da CONMEBOL condenou o Santos ao   pagamento de multa de US$ 50 mil dólares.
+- ID: 24.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atleta de time amador
+  DATA: 30/04/2023
+  JOGO: Sem identificação - 
+  CAMPEONATO: Sem identificação
+  ONDE: Sem   identificação
+  CIDADE: Betim/MG
+  FATO: Um atleta de um time amador de Betim relatou que foi chamado de “mussum”   por atleta do time adversário, durante partida de futebol. 
+  DESDOBRAMENTO: No final da partida,   uma confusão iniciou e a Polícia Militar foi   acionada. O suspeito foi preso em flagrante,   aos policiais o mesmo admitiu as ofensas.   Um dia após a prisão o acusado foi liberado.   Um inquérito foi instaurado pela Polícia Civil.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a investigação   do caso. Por ser um caso do âmbito criminal, ele corre em segredo de justiça, sem ter   como obter informações do seu desenrolar.
+- ID: 25.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Sport Clube   Internacional
+  DATA: 03/05/2023
+  JOGO: Internacional x Nacional
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio José Pinheiro Borda   (Beira-Rio)
+  CIDADE: Porto Alegre/RS
+  FATO: Um torcedor do Nacional na arquibancada do estádio Beira-Rio foi flagrado   imitando um macaco em direção à torcida   do Internacional.
+  DESDOBRAMENTO: O flagrante foi registrado por vídeo e divulgado nas redes sociais. O torcedor foi afastado do alambrado   do estádio Beira-Rio pelos seguranças, mas   permaneceu na torcida. A CONMEBOL registrou o caso no relatório disciplinar da partida. 
+  COMO TERMINOU: A CONMEBOL puniu   o Nacional ao pagamento de multa de US$   100 mil dólares.
+- ID: 26.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Clube de   Regatas do Flamengo
+  DATA: 04/05/2023
+  JOGO: Racing x Flamengo  
+  CAMPEONATO: Copa Libertadores da América
+  ONDE: Estádio Presidente Perón
+  CIDADE:  Buenos Aires/ ARGENTINA
+  FATO: Um torcedor do Racing foi flagrado   fazendo gestos de macaco em direção à torcida do Flamengo.
+  DESDOBRAMENTO: O vídeo foi registrado   por um torcedor do Flamengo que estava no   estádio. Em entrevista, o torcedor, que mora   na Argentina, relatou que mostrou o vídeo   a um policial que estava na arquibancada, o   policial disse que não poderia fazer nada e o   orientou a ir a uma delegacia fora do estádio.   Um dia depois do jogo, o torcedor prestou   depoimento e fez boletim de ocorrência. A   CONMEBOL informou que abriria um expediente disciplinar para apurar o caso. O Flamengo informou que iria monitorar o caso   e aguardar as autoridades oficiais.
+  COMO TERMINOU: O Racing foi punido   pela CONMEBOL ao pagamento de multa   de US$ 100 mil dólares.
+- ID: 27.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Clube de   Regatas do Flamengo
+  DATA: 07/05/2023
+  JOGO: Athletico-PR x Flamengo
+  CAMPEONATO: Brasileiro - Série A - 
+  ONDE: Estádio Mário Celso Petraglia (Ligga Arena) 
+  CIDADE: Curitiba/PR
+  FATO: Um torcedor do Athletico fez gestos   de macaco em direção à torcida do Flamengo.O ato foi filmado e publicado nas   redes sociais.
+  DESDOBRAMENTO: O Athletico abriu uma   investigação interna. Após, o clube informou   em nota que o torcedor foi identificado, que   o mesmo não seria sócio do clube e imagens    e informações seriam encaminhadas as autoridade competentes. O clube disse ainda   que caso condenado, o torcedor poderia sofrer punições administrativas. A Polícia Civil   do Paraná abriu inquérito e o torcedor foi   indiciado por crime de racismo. O Athletico   foi denunciado pela Justiça Desportiva por   infração ao Art. 243-G do CBJD.
+  COMO TERMINOU: O processo criminal   foi arquivado pela Justiça do Paraná. Após   um acordo com o Athletico na esfera administrativa, o torcedor pagou o equivalente a   cinco cestas básicas (R$ 3.400) e foi proibido   de participar de qualquer evento relacionado   ao clube por 18 meses, além de ser impedido   de adquirir, utilizar ingressos, serviços e produtos do clube. O STJD absolveu o Athletico   quanto à imputação do Art. 243-G do CBJD.   A Procuradoria da entidade recorreu, mas o   Tribunal Pleno considerou que o recurso foi   apresentado fora do prazo legal, mantendo   a decisão inicial.
+- ID: 28.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Tomas Almino Bastos Silva,   atleta do Centro Sportivo Alagoano
+  DATA: 07/05/2023
+  JOGO: Ypiranga x CSA
+  CAMPEONATO: Brasileiro - Série B
+  ONDE:  Estádio Colosso da Lagoa
+  CIDADE: Erechim/RS
+  FATO: Thomas Bastos, meio-campo do CSA,   denunciou ao árbitro da partida que foi chamado de “macaco” por uma torcedora do   Ypiranga. 
+  DESDOBRAMENTO: Conforme registrado   em súmula pelo árbitro Luiz Augusto Silveira Tisne, aos 37 minutos do primeiro tempo,   o jogador relatou que ao se posicionar para   cobrança de escanteio, uma torcedora do   Ypiranga proferiu a frase “vai logo, macaco”.   A partida ficou paralisada por 2 minutos e   retornou após a torcedora ser identificada e   retirada da arquibancada pela brigada militar. Um Boletim de Ocorrência foi registrado.   A Polícia Civil do Rio Grande do Sul iniciou   uma investigação do caso. Nas redes sociais,   o CSA condenou o ato. Em nota, o Ypiranga   repudiou o caso. O Ypiranga foi denunciado   pela Justiça Desportiva por infração ao Art.   243-G § 2º e § 3º do CBJD.
+  COMO TERMINOU: O Ypiranga foi absolvido pelo STJD quanto à imputação do Art.   243-G § 2º e § 3º. Após recurso, o Pleno do   STJD manteve a absolvição. Em relação ao   boletim de ocorrência, por ser um caso do   âmbito criminal, ele corre em segredo de   justiça, sem ter como obter informações do   seu desenrolar.
+- ID: 29.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Rafael Ramos de Lima,   atleta do Hercílio Luz Futebol Clube
+  DATA: 11/05/2023
+  JOGO: Aimoré x Hercílio Luz 
+  CAMPEONATO: Brasileiro - Série D
+  ONDE: Estádio João Corrêa da Silveira (Cristo Rei)
+  CIDADE:  São Leopoldo/RS
+  FATO: Rafael Lima, zagueiro do Hercílio   Luz, relatou que no momento em que as   equipes entraram em campo, um torcedor   do Aimoré gritou “vai entregar o jogo aqui,   negão”.
+  DESDOBRAMENTO: O árbitro que estava   ao seu lado, questionou se o atleta teria ouvido a ofensa, o mesmo confirmou. O caso foi   registrado na súmula da partida. O torcedor   não foi identificado. Após o final da partida, Rafael Lima registrou boletim de ocorrência. Em nota, o Hercílio Luz e o Aimoré   repudiaram o ato. O Aimoré foi denunciado por infração ao Art.243-G do CBJD, pela   Justiça Desportiva.
+  COMO TERMINOU: Em relação ao boletim   de ocorrência, por ser um caso do âmbito criminal, ele corre em segredo de justiça, sem   ter como obter informações do seu desenrolar. A Comissão Disciplinar do STJD absolveu   o Aimoré quanto à imputação do Art. 243-G   do CBJD. No recurso, o Pleno do STJD manteve a absolvição.
+- ID: 30.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Bryan Giovani da Costa,   atleta do Hercílio Luz Futebol Clube
+  DATA: 12/05/2023
+  JOGO: Hercílio Luz x Joinville
+  CAMPEONATO: Catarinense Sub-20 - Série   A
+  ONDE: Campo de Futebol SERI
+  CIDADE:  Gravatal/SC
+  FATO: O atacante do Hercílio Luz, Bryan,   informou ao árbitro da partida que foi chamado de “macaco” pelo lateral direito do   Joinville, Thiago.
+  DESDOBRAMENTO: Em súmula, o árbitro   Claudir José Herdt disse que não presenciou   o ato, que aos 41 minutos do segundo tempo foi procurado por Bryan, que relatou a   ofensa. Após o final da partida, houve um   tumulto entre as equipes. A diretoria do Hercílio Luz acionou a polícia militar, e os atletas   foram conduzidos para delegacia. Um boletim de ocorrência foi registrado. Thiago foi   denunciado à Justiça Desportiva por infração   ao Art. 243-G do CBJD.
+  COMO TERMINOU: Thiago Coutinho do   Vale Nascimento, atleta do Joinville, foi absolvido pela Comissão Disciplinar do Tribunal   de Justiça Desportiva de Santa Catarina da   imputação do Art. 243-G do CBJD. Não foram encontradas informações sobre recurso   contra a decisão. Em relação ao boletim de   ocorrência, por ser um caso do âmbito criminal, ele corre em segredo de justiça, sem ter   como obter informações do seu desenrolar.
+- ID: 31.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Diego Lino De Carvalho   (Diego Petrin),   atleta do Varginha Esporte Clube
+  DATA: 13/05/2023
+  JOGO: URT X Varginha 
+  CAMPEONATO: Mineiro Módulo II
+  ONDE: Estádio Zama Maciel
+  CIDADE: Pato de Minas/MG
+  FATO: O lateral-esquerdo Diego Petrin, do   Varginha, relatou a Francielly Lima de Castro,   quarta árbitra, que foi chamado de “macaco”   por um torcedor da URT.
+  DESDOBRAMENTO: Na súmula, o árbitro   Hieger Túlio Cardoso, informou que a partida foi paralisada por dois minutos após   ser notificado do caso pela quarta árbitra.   Ainda segundo registro, a polícia militar foi   acionada e o torcedor conduzido a delegacia   para prestar esclarecimentos. Um boletim   de ocorrência foi registrado. No registro,   consta que o autor era portador de necessidades especiais, estava acompanhado do   seu representante legal e que admitiu ter   proferido a ofensa. Em nota, o Varginha lamentou o ocorrido e afirmou que prestaria   apoio jurídico e psicológico ao jogador, a URT   repudiou o caso nas redes sociais. A URT foi   denunciada à Justiça Desportiva por infração   ao Art.243-G, §2 do CBJD.
+  COMO TERMINOU: Por unanimidade, a   Comissão Disciplinar do TJD-MG condenou   a URT ao pagamento de multa de R$ 1.000   e determinou a suspensão do torcedor identificado de ingressar no Estádio Zama Maciel   720 dias. Em comunicado, a URT informou   que não iria recorrer da decisão.
+- ID: 32.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Moisés Júnior, massagista do Guarany Futebol Clube
+  DATA: 13/05/2023
+  JOGO: Lajeadense x Guarany 
+  CAMPEONATO: Gaúcho - Série A2
+  ONDE: Estádio Alviazul
+  CIDADE: Lajeado/RS
+  FATO: Em uma nota de repúdio publicada   em seu Instagram, o Guarany relatou que   o massagista do clube, Moisés Júnior, foi   vítima de injúria racial por parte da torcida   do Lajeadense.
+  DESDOBRAMENTO: Ainda em nota, o clube informou que um boletim de ocorrência   foi formalizado e que o incidente foi comunicado ao árbitro da partida. Na súmula, o   árbitro Igor Irving Balke registrou que o preparador físico do Guarany relatou ter ouvido   ofensas raciais dirigidas aos membros da sua   comissão pela torcida do Lajeadense. O árbitro afirmou que não presenciou nenhuma   ofensa e que solicitou ao preparador que   identificasse o autor das ofensas, porém   este não conseguiu fazê-lo. O Lajeadense   emitiu uma nota de repúdio condenando o   incidente e informou que tomaria providências administrativas. 
+  COMO TERMINOU: Apesar do registro em   súmula, não foram encontradas informações de julgamento pelo Tribunal de Justiça   Desportiva do Rio Grande do Sul (TJD-RS).   Por ser um caso do âmbito criminal, o boletim de ocorrência corre em segredo de   justiça, sem ter como obter informações do   seu desenrolar.
+- ID: 33.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atleta de futebol amador
+  DATA: 14/05/2023
+  JOGO: Sem identificação - 
+  CAMPEONATO: Municipal de São Pedro do Sul -   Série A
+  ONDE: Estádio Municipal Bertholdo Henrique von Muhen
+  CIDADE: São Pedro do Sul/RS
+  FATO: Durante uma partida do Campeonato   Municipal de São Pedro do Sul, uma mulher   teria chamado o goleiro de um dos times de   “macaco”. 
+  DESDOBRAMENTO: A Brigada Militar foi   acionada e após ser identificada por testemunhas, a mulher foi presa em flagrante.   A vítima foi conduzida até a delegacia para   prestar depoimento. No dia seguinte, após   audiência de custódia, a mulher recebeu   liberdade provisória. Uma investigação foi   aberta pela polícia civil. Em nota, o Departamento de Esportes da prefeitura de São   Pedro do Sul afirmou que o ato “foi um caso   isolado”.
+  COMO TERMINOU: Não foram encontradas mais informações sobre o caso. Por ser   um caso do âmbito criminal, o caso corre   em segredo de justiça, sem ter como obter   informações do seu desenrolar.
+- ID: 34.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Ramon Tressoldi Netto,   atleta do Clube Esportivo Lajeadense
+  DATA: 17/05/2023
+  JOGO: Inter - SM X Lajeadense 
+  CAMPEONATO: Gaúcho - Série A2
+  ONDE: Estádio Presidente Vargas
+  CIDADE: Santa Maria/RS
+  FATO: Em nota publicada no Instagram, o   atacante do Lajeadense, Ramon Tressoldi   relatou que torcedores do Inter-SM se dirigiram a ele imitando gestos de macaco   quando ele encostava na bola. 
+  DESDOBRAMENTO: Conforme registrado na súmula da partida pelo árbitro Allan   Ricardo Freitas da Rosa Azevedo, o jogador   relatou que foi chamado de “negão macaco”   pela torcida do Inter-SM ao quarto árbitro,   Matheus Souza Costa. O árbitro também   afirmou que o jogador foi orientado pelo   quarto árbitro a registrar um boletim de   ocorrência, mas teria respondido “então   deixa”. No dia seguinte, Ramon informou   através de sua rede social que registrou um   boletim de ocorrência. Em nota, o Inter-SM   declarou desconhecer o caso e afirmou que   nenhuma denúncia foi recebida pelo clube   durante a partida. O clube ainda reiterou seu   repúdio a atos racistas.
+  COMO TERMINOU: Por ser um caso do   âmbito criminal, o boletim de ocorrência   corre em segredo de justiça, sem ter como se   obter informações do seu desenrolar. Apesar   do registro em súmula, não foram encontradas informações de julgamento pelo TJD-RS.
+- ID: 35.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Jean Gonçalves Silva,   atleta do Clube do Remo
+  DATA: 18/05/2023
+  JOGO: Remo x Águia de Marabá
+  CAMPEONATO: Paraense
+  ONDE: Estádio   Evandro de Almeida
+  CIDADE: Belém do Pará/PA
+  FATO: Conforme uma testemunha, um torcedor do Remo, teria proferido a Jean Silva,   atacante do clube “Jean, seu macaco, você   não merece estar jogando no Remo”. 
+  DESDOBRAMENTO: O caso foi denunciado   à Polícia Militar, tanto o acusado quanto o   denunciante foram encaminhados para a delegacia. Nas redes sociais, o Remo repudiou   o ato. O caso não foi registrado na súmula.   Em nota de repúdio, a Federação Paraense de   Futebol (FPF) informou que não foi comunicada sobre o caso durante a partida.
+  COMO TERMINOU: Não foram encontradas informações sobre julgamento pelo   Tribunal de Justiça Desportiva do Pará (TJD-PA), nem sobre o registro de boletim de   ocorrência pelo atleta.
+- ID: 36.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Caíque Luiz Santos   da Purificação,   atleta do Ypiranga Futebol Clube
+  DATA: 20/05/2023
+  JOGO: Altos x Ypiranga - 
+  CAMPEONATO: Brasileiro - Série C
+  ONDE: Estádio Lindolfo Monteiro (Lindolfinho)
+  CIDADE:  Teresina/PI
+  FATO: Caíque, goleiro do Ypiranga, acionou   a arbitragem durante a partida para denunciar que foi chamado de “uva preta” por um   torcedor do Altos.
+  DESDOBRAMENTO: Conforme relatado   pelo árbitro na súmula da partida, a polícia   militar foi acionada e retirou o torcedor da   arquibancada. O torcedor (F.C.S) foi identificado, autuado por injúria racial e encaminhado à Central de Flagrantes de Teresina,   acompanhado de uma testemunha. Caíque   e Fábio Gomes de Sousa, quarto árbitro, foram à Central de Flagrantes após o final da   partida para prestar depoimento. Em entrevista, Sérgio Soares, técnico do Altos, apoiou   o jogador. Nas redes sociais, tanto o Altos   quanto o Ypiranga repudiaram o ocorrido.   Após audiência de custódia, foi concedida liberdade provisória ao torcedor (F.C.S), com   medidas cautelares, como a proibição de frequentar estádios por seis meses. O Altos foi   denunciado pela Justiça Desportiva.
+  COMO TERMINOU: Por ser um caso de âmbito criminal, o boletim de ocorrência corre   em segredo de justiça, impossibilitando obter   informações sobre seu desenrolar. O Altos   foi multado em R$ 30 mil pelo STJD e penalizado com a obrigação de proibir o torcedor   identificado de frequentar o estádio por 720   dias devido à infração ao Art. 243-G do CBJD.
+- ID: 37.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Ângelo Gabriel Borges   Damaceno e Joaquim   Henrique Pereira Silva,   atletas do Santos Futebol Clube
+  DATA: 24/05/2023
+  JOGO: Audax Italiano x   Santos
+  CAMPEONATO: Copa Sul-Americana
+  ONDE: Estádio El Teniente
+  CIDADE: Rancagua/  CHILE
+  FATO: Em nota, divulgada nas redes sociais,   o Santos denunciou que o atacante Ângelo e   o zagueiro Joaquim, foram alvos de insultos   e gestos racistas por parte dos torcedores do   Audax Italiano.
+  DESDOBRAMENTO: Em entrevista, após a   partida, Ângelo, relatou que um torcedor do   Audax o chamou de “macaco” e fez gestos   imitando o animal, no momento em que saia   pela lateral do campo. Conforme a denúncia   do Santos, Joaquim teria sido insultado pelos   torcedores no  4º andar do estádio. O Santos informou   que os casos foram relatados ao delegado   da partida. As ofensas foram registradas na   súmula da partida.
+  COMO TERMINOU: A CONMEBOL abriu   um expediente disciplinar para investigar o caso, que foi arquivado por falta de provas.
+- ID: 38.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atletas da Sociedade   Esportiva Palmeiras 
+  DATA: 24/05/2023
+  JOGO: Cerro Porteño x Palmeiras
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio General Pablo Rojas - 
+  CIDADE: Assunção/PARAGUAI
+  FATO: Em um vídeo publicado nas redes   sociais, um torcedor do Cerro Porteño grava   os jogadores reservas do Palmeiras durante o aquecimento, enquanto os chama de   “macacos”.
+  DESDOBRAMENTO: O Palmeiras apresentou uma denúncia à CONMEBOL pedindo   punição ao Cerro Porteño, no pedido o clube   solicitou reincidência, pelo caso de racismo   ocorrido em 2022 contra torcedores palmeirenses. A CONMEBOL abriu um expediente   disciplinar para apurar o caso.
+  COMO TERMINOU: A CONMEBOL multou o Cerro Porteño em US$ 100 mil dólares,   determinou o fechamento de 50% da arquibancada norte-baixa do Estádio General   Pablo Rojas para próxima partida do clube   em competições sul-americanas e a realização da campanha de conscientização nas   redes sociais oficiais do clube e no estádio   com exibição da frase “Basta de Racismo”.
+- ID: 39.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Club   Cerro Porteño
+  DATA: 24/05/2023
+  JOGO: Cerro Porteño x Palmeiras
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio General Pablo Rojas 
+  CIDADE: Assunção/PARAGUAI
+  FATO: Bruno Tabata, meia-atacante do Palmeiras, foi punido com quatro meses de suspensão pelo Tribunal Disciplinar da CONMEBOL por suposto ato racista praticado contra   torcedores do Cerro Porteño.
+  DESDOBRAMENTO: Em vídeo de defesa   enviado pelo Palmeiras à CONMEBOL, Tabata disse que ele e os atletas reservas do   Palmeiras foram chamados de “macacos”   por torcedores do Cerro Porteño e ao ouvir   as ofensas, alegou ter imitado gesto de macaco para denunciar o racismo da torcida.   Alegando erro da entidade na análise do caso, o Palmeiras recorreu da decisão.
+  COMO TERMINOU: A CONMEBOL manteve a suspensão de quatro meses ao jogador   em competições da entidade.
+- ID: 40.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atleta de Futebol Amador
+  DATA: 24/05/2023
+  JOGO: Sem identificação 
+  CAMPEONATO: Sem identificação
+  ONDE: Sem   identificação
+  CIDADE: Marília/SP
+  FATO: Durante uma partida de futebol amador, em meio a uma briga entre os atletas,   um jogador foi acusado de chamar outro de   “preto”.
+  DESDOBRAMENTO: A Polícia Militar foi   acionada e os envolvidos foram levados à   Central de Polícia Judiciária de Marília. O   acusado, G.O.C., foi preso em flagrante   por injúria racial e liberado após audiência   de custódia.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre o caso.
+- ID: 41.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Selton Luiz Ferreira   dos Santos,   atleta de futebol amador
+  DATA: 26/05/2023
+  JOGO: Sem identificação 
+  CAMPEONATO: Regional de Futebol Suíço - 
+  ONDE: Sem identificação
+  CIDADE: Sandovalina/  SP
+  FATO: O atleta Selton relatou que, durante a   partida, uma mulher teria proferido ofensas   relacionadas ao seu cabelo.
+  DESDOBRAMENTO: O atleta tomou conhecimento do caso após a partida, através   de relatos de pessoas que presenciaram a   ofensa. Um boletim de ocorrência foi registrado, e a polícia iniciou a investigação   do caso. O advogado da acusada negou   que ela tenha praticado os atos. Em nota,   a Prefeitura de Sandovalina, organizadora   do campeonato, repudiou o ato. A mulher   foi denunciada pelo MP-SP por injúria racial.   Em audiência, a acusada negou ter proferido palavras racistas e uma das testemunhas   confirmou as ofensas.
+  COMO TERMINOU: A mulher foi condenada por injúria racial, não foram encontradas informações se a mesma entrou   com recurso.
+- ID: 42.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Victor Bruno Anastacio   Ribeiro (Victor Bruno) e   Yuri Mazoleni Esteves,   atletas do Sport Clube Aguaí
+  DATA: 27/05/2023
+  JOGO: Mogi Mirim X Aguaí 
+  CAMPEONATO: Paulista Sub-17
+  ONDE: Estádio   Vail Chaves
+  CIDADE: Mogi Mirim/SP
+  FATO: Durante a paralisação da partida, os   jogadores Victor Bruno e Yuri, do Aguaí, denunciaram ao árbitro que foram chamados   de “macaco” por Mateus Augusto, atleta do   Mogi Mirim.
+  DESDOBRAMENTO: O caso foi registrado   na súmula pelo árbitro Diego Augusto Fagundes. Não há informações de que os atletas tenham registrado boletim de ocorrência.   Matheus Augusto foi denunciado pela Justiça   Desportiva com base no Art. 243-G do CBJD.
+  COMO TERMINOU: Mateus Augusto Linhares Moreira, atleta do Mogi Mirim, foi   punido pelo STJD com dez partidas de suspensão por infração ao Art. 243-G do CBJD,   devido à reincidência. No entanto, a pena foi   reduzida para cinco partidas, em razão do   benefício previsto no Art. 182 do CBJD.
+- ID: 43.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Waldson Simões   Viana (Waldson),   goleiro do Princesa do   Solimões Esporte Clube
+  DATA: 28/05/2023
+  JOGO: Princesa x São Raimundo
+  CAMPEONATO: Brasileiro - Série D  
+  ONDE: Estádio Olímpico Municipal Gilberto   Mestrinho (Gilbertão)
+  CIDADE: Manacapuru/AM
+  FATO: Um torcedor do Princesa acusou o árbitro Matheus de Moraes Silva de racismo.   Segundo registrado na súmula, o torcedor   teria proferido as palavras “árbitro racista,   por isso que não deu a falta em cima do nosso goleiro.”
+  DESDOBRAMENTO: O caso foi informado   ao árbitro pelo assistente Uesclei Regison.   Ainda na súmula, o árbitro relatou que o   torcedor não foi identificado. Os clubes não   se manifestaram sobre o caso.
+  COMO TERMINOU: O caso não   teve sequência.
+- ID: 44.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Jean Lopes Dias,   árbitro
+  DATA: 28/05/2023
+  JOGO: UA Barbarense X Velo   Clube
+  CAMPEONATO: Paulista - Sub 13
+  ONDE:  Estádio Antônio Lins Ribeiro Guimarães
+  CIDADE:  Santa Bárbara d’Oeste/SP
+  FATO: O árbitro da partida, Jean Lopes Dias,   registrou em súmula que um torcedor do   Velo Clube dirigiu a ele as seguintes palavras  “Seu pau de fumo! Tinha que ser preto! Apita   essa porra direito seu macaco!”.
+  DESDOBRAMENTO: Segundo o registro,   após comunicar o caso à quarta árbitra, Roberta Alessandra Maia Soares, membros da   equipe de arbitragem, o delegado da partida   e um representante da equipe do Velo Clube   se dirigiram até a arquibancada, mas o torcedor não estava no local. Após o final da   partida, membros do Velo Clube acompanhados pela Guarda Municipal se dirigiram   até o árbitro com o suposto autor da ofensa,   porém o árbitro afirmou que não se tratava   da mesma pessoa. O Velo foi denunciado à   Justiça Desportiva por infração ao Art. 243-G   do CBJD.
+  COMO TERMINOU: O Velo Clube foi punido pelo TJD-SP com uma multa de R$ 5 mil   por infração ao Art. 243-G combinado com   o Art. 182 do CBJD.
+- ID: 45.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedor da Associação   Desportiva Confiança
+  DATA: 04/06/2023
+  JOGO: Confiança x Amazonas FC
+  CAMPEONATO: Brasileiro - Série C  
+  ONDE: Estádio Lourival Baptista (Batistão)
+  CIDADE: Aracaju/SE
+  FATO: Um torcedor do Confiança relatou   que um segurança do estádio o chamou de   “preto safado” durante uma discussão.
+  DESDOBRAMENTO: A Polícia Militar foi   acionada, e os envolvidos foram encaminhados para a delegacia para prestarem depoimento. Em nota, o Confiança repudiou o   ato e informou que as autoridades estavam   apurando o caso. O incidente não foi registrado na súmula da partida.
+  COMO TERMINOU: Não foram encontradas mais informações sobre o andamento   do caso.
+- ID: 46.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Santos   Futebol Clube
+  DATA: 06/06/2023
+  JOGO: Santos x Newell’s   Old Boys
+  CAMPEONATO: Copa Sul-Americana 
+  ONDE: Estádio Urbano Caldeira (Vila Belmiro) - 
+  CIDADE: Santos/SP
+  FATO: Torcedores do Newell’s Old Boys   foram flagrados fazendo gestos racistas na   arquibancada da Vila Belmiro.
+  DESDOBRAMENTO: Um homem abriu   uma imagem de uma banana no celular e   mostrou para torcedores do Santos e uma   mulher fez gestos imitando um macaco.   Torcedores do Santos registraram os atos e   denunciaram nas redes sociais. A CONMEBOL abriu processo disciplinar para investigar   o caso.
+  COMO TERMINOU: A CONMEBOL multou   o Newell’s Old Boys em US$ 100 mil dólares   e condenou o clube a realizar campanha de   combate ao racismo no jogo seguinte em   competição da entidade com a mensagem   “Basta de Racismo”.
+- ID: 47.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Jackson Rodrigues da Silva,   árbitro
+  DATA: 07/06/2023
+  JOGO: Novo Hamburgo   x Concórdia
+  CAMPEONATO: Brasileiro - Série D
+  ONDE: Estádio do Vale
+  CIDADE: Novo   Hamburgo/RS 
+  FATO: Conforme registrado na súmula da   partida pelo árbitro Jackson Rodrigues da   Silva, após o final do jogo no vestiário, Vinicius Hansen, vice-presidente do Novo Hamburgo, proferiu as seguintes palavras “Seu   vagabundo, ladrão! Veio do Acre, que nem   tem futebol. Está acostumado a apitar só   jogo de índio. Veio para nos roubar.”
+  DESDOBRAMENTO: Ainda segundo o registro, mesmo com a presença da Brigada   Militar, as ofensas continuaram “Vai apitar   jogo de índio lá no Acre, lá nem tem futebol,   seu sem vergonha.” O árbitro relatou que se   sentiu ofendido. Não foram encontradas informações sobre o registro de um boletim de   ocorrência por parte do árbitro. Vinicius Hansen foi denunciado pela Justiça Desportiva.
+  COMO TERMINOU: O Superior Tribunal   de Justiça Desportiva (STJD) puniu Vinicius   Hansen, Vinicius Hansen, vice-presidente   do Novo Hamburgo com suspensão de 120   dias e multa de R$ 5 mil por infração ao Art.   243-G do CBJD.
+- ID: 48.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Fluminense   Football Club
+  DATA: 07/06/2023
+  JOGO: River Plate x Fluminense 
+  CAMPEONATO: Copa Libertadores da América - 
+  ONDE: Estádio Monumental de Núñez
+  CIDADE:  Buenos Aires/ARGENTINA
+  FATO: Torcedores do River Plate imitaram   macacos na chegada do ônibus que transportava a torcida do Fluminense ao estádio   Monumental de Núñez.
+  DESDOBRAMENTO: O ato foi registrado e   divulgado nas redes sociais por uma torcedora   do Fluminense. Nas redes sociais, o Ministro da   Justiça, Flávio Dino, informou que pediria atuação das autoridades argentinas após o episódio.   Em comunicado nas redes sociais, o Fluminense   repudiou o ato e pediu que medidas fossem tomadas. Em ofício encaminhado ao Ministério   da Justiça Brasileiro, o Instituto Nacional contra   a Discriminação, Xenofobia e Racismo da Argentina (Inadi) informou que incluiria o River   Plate ao programa “Desportes sin discriminación” e exigiu do clube que providências fossem   tomadas. Através do seu site, o River Plate informou que identificou os torcedores responsáveis   por “gestos xenófobos”, que os puniria e informou que uma campanha de conscientização   seria realizada nos canais oficiais.
+  COMO TERMINOU: O River Plate foi punido   pela CONMEBOL ao pagamento de multa   de US$ 100 mil dólares e condenado a reduzir 50% da capacidade do setor centenário   alta do Estádio Monumental de Núñez no   jogo seguinte como mandante e a realizar a   campanha de conscientização com a mensagem “Basta de Racismo” no estádio e nas   redes sociais.
+- ID: 49.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Sport   Club Internacional
+  DATA: 07/06/2023
+  JOGO: Nacional x Internacional
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio Gran Parque Central - 
+  CIDADE: Montevidéu/URUGUAI
+  FATO: Um torcedor do Nacional foi filmando imitando um macaco em direção à torcida do Internacional na arquibancada do   Estádio Gran Parque Central.
+  DESDOBRAMENTO: O registro foi feito por   integrantes da delegação do Internacional.   As imagens foram entregues à CONMEBOL.   O Nacional identificou o torcedor e retirou   do estádio junto do seu responsável por ser   menor de idade.
+  COMO TERMINOU: A Comissão Disciplinar   da CONMEBOL multou o Nacional em US$   100 mil dólares e determinou que o clube   realizasse campanha de conscientização no   jogo seguinte como mandante em competição da entidade no Estádio Gran Parque   Central e nas redes sociais do clube com a   mensagem “Basta de Racismo”.
+- ID: 50.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Fernando Carlos   Miranda Teixeira,   atleta do Nação Esportes
+  DATA: 08/06/2023
+  JOGO: Juventus x Nação - 
+  CAMPEONATO: Catarinense - Série B
+  ONDE:  Estádio João Marcatto
+  CIDADE: Jaraguá do Sul/  SC
+  FATO: Fernando, zagueiro do Nação, denunciou ao árbitro da partida que foi chamado   de “macaco” por um torcedor do Juventus.
+  DESDOBRAMENTO: Conforme registrado   em súmula pelo árbitro Tiago Soares dos   Santos, após o relato de Fernando, a partida foi paralisada, o torcedor foi identificado   pelo jogador e retirado da arquibancada pela   Polícia Militar. Um boletim de ocorrência foi   registrado. Nas redes sociais, tanto o Nação   quanto o Juventus se manifestaram repudiando o caso.
+  COMO TERMINOU: Apesar do registro em   súmula, não foram encontradas informações de que o caso tenha sido analisado pelo   Tribunal de Justiça Desportiva do Futebol de   Santa Catarina (TJD-SC). Em relação ao boletim de ocorrência, por se tratar de um caso   de âmbito criminal, ele corre em segredo de   justiça, impedindo a obtenção de informações sobre seu desenrolar.
+- ID: 51.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Gabriel,   atleta do Avaí F.C
+  DATA: 10/06/2023
+  JOGO: Avaí F.C X Jardim   Atlântico
+  CAMPEONATO: Municipal de Escolinhas de Futebol Sub-17
+  ONDE: CT do União 
+  CIDADE: Rondonópolis/MT
+  FATO: Durante uma jogada na linha de fundo, Gabriel, jogador sub-17 do Avaí F.C., foi   chamado de “macaco” por um homem que   assistia à partida.
+  DESDOBRAMENTO: O atleta denunciou o caso ao seu treinador, que informou o árbitro. A partida foi paralisada, e o torcedor foi   identificado e expulso do CT por torcedores   e atletas do time.
+  COMO TERMINOU: Não foram encontradas informações de que o atleta tenha registrado boletim de ocorrência ou qualquer   informação sobre o caso.
+- ID: 52.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Éverson Felipe Marques Pires,   atleta do Clube Atlético Mineiro
+  DATA: 27/06/2023
+  JOGO: Libertad x Atlético -MG
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio Defensores del Chaco  
+  CIDADE: Assunção/PARAGUAI
+  FATO: O goleiro Éverson, do Atlético-MG,   estava dando entrevista no gramado após o  final do jogo quando um torcedor do Libertad, o chamou de “macaco” e fez gestos com   os braços imitando o animal.
+  DESDOBRAMENTO: A diretoria do Atlético-MG entregou as imagens com atos ao   delegado da partida. O incidente foi registrado na súmula da partida. Em entrevista, o   goleiro pediu punições mais severas da CONMEBOL e cogitou ir até a delegacia registrar   ocorrência, o que não foi possível devido ao   horário do voo da delegação para retornar   ao Brasil. Em nota, o Atlético-MG repudiou o   ato e pediu punições mais severas nos casos   de racismo. A CONMEBOL abriu um expediente disciplinar para investigar o caso.
+  COMO TERMINOU: O Libertad foi punido   pela CONMEBOL com multa de US$ 100 mil   dólares e ordenado a realizar campanha de   conscientização na partida seguinte como   mandante em competição da entidade nas   redes sociais oficiais do clube e no estádio   com a frase “Basta de Racismo”.
+- ID: 53.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Pedro Henrique Vieira   Costa (Pedro Costa),   atleta do Tombense Futebol Clube
+  DATA: 27/06/2023
+  JOGO: Vila Nova x Tombense
+  CAMPEONATO: Brasileiro - Série B
+  ONDE:  Estádio Onésio Brasileiro Alvarenga
+  CIDADE:  Goiânia/GO
+  FATO: Apontado na direção de jogadores   do Vila Nova, Pedro Costa, lateral do Tombense, deixou o campo ao final do primeiro tempo alegando ter sido chamado de   “crioulo sujo”.
+  DESDOBRAMENTO: Procurado após o retorno para o segundo tempo e ao final da   partida, Pedro Costa optou por não comentar sobre o incidente. O episódio foi registrado na súmula da partida pelo árbitro Arthur   Gomes Rabelo. Na súmula, consta que o jogador do Tombense informou ao árbitro que   o volante Sousa, do Vila Nova, teria proferido a ofensa. Em um vídeo divulgado no site   do Vila Nova, Sousa negou a acusação. Em   entrevista, Pedro Costa afirmou que iria registrar um boletim de ocorrência, não foram   encontradas informações de que o atleta   tenha feito o registro. Sousa foi denunciado   pela Justiça Desportiva por infração ao Art.   243-G do CBJD.
+  COMO TERMINOU: O atleta Van Basty   Sousa e Silva (Sousa) do Vila Nova foi punido por infração ao Art. 243-G do CBJD com   suspensão de cinco partidas e multa de R$ 5   mil. Após a homologação da transação disciplinar (acordo) pelo Pleno do STJD, a punição   foi convertida para o pagamento de doação   de R$ 15 mil para instituições carentes cadastradas no STJD e de R$ 15 mil para a CBF.
+- ID: 54.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: João Gabriel Ferreira   Gomes (João Gabriel),   atleta do Clube Andraus Brasil
+  DATA: 02/07/2023
+  JOGO: Iguaçu x Andraus 
+  CAMPEONATO: Paranaense - Segunda Divisão  
+  ONDE: Estádio Municipal Antiocho Pereira
+  CIDADE: União da Vitória/PR
+  FATO: João Gabriel, meio-campo do Andraus,   relatou ter sido alvo de ofensas racistas ao deixar o campo após uma substituição, por parte   de um homem vestindo uniforme do Iguaçu e   um colete de imprensa.
+  DESDOBRAMENTO: O jogador comunicou   o incidente ao árbitro, o que resultou na paralisação da partida. A Polícia Militar foi acionada, mas o autor das ofensas não foi encontrado. Na súmula, o árbitro Leonardo Ferreira   Lima registrou que o atleta afirmou ter sido   chamado de “macaco” por torcedores do   Iguaçu. Um boletim de ocorrência foi registrado, no qual o jogador alegou que o autor das   ofensas seria Rodrigo Bostelmann, dirigente   do Iguaçu, identificado pelo atleta, através de   fotos publicadas nas redes sociais. A Polícia   Civil iniciou uma investigação sobre o caso.  Em nota, a Federação Paranaense de Futebol informou que acompanhava a apuração   dos fatos pelas autoridades, e a Associação   Atlética Iguaçu declarou repúdio a qualquer   forma de discriminação. Por meio de uma   nota, o dirigente do Iguaçu negou ter praticado a ofensa.
+  COMO TERMINOU: Rodrigo Bostelmann,   dirigente do Iguaçu foi denunciado por infração ao Art. 243-G do CDJB e absolvido pelo   Tribunal de Justiça Desportiva do Paraná (TJD   - PR).
+- ID: 55.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Mateus William Sabino   Silva (Sabino),   atleta do Betim Futebol
+  DATA: 09/05/2023
+  JOGO: URT x Betim
+  CAMPEONATO: Mineiro Módulo II
+  ONDE: Estádio   Zama Maciel
+  CIDADE: Patos de Minas/MG
+  FATO: Sabino, volante do Betim, relatou ao   quarto árbitro ter sido alvo de insultos racistas por parte de torcedores da URT.
+  DESDOBRAMENTO: O caso foi registrado   em súmula, de acordo com o registro, o autor da ofensa não foi identificado. Segundo   a Polícia Militar de Minas Gerais, o autor   foi identificado no estádio Zama Maciel. A   Federação Mineira de Futebol declarou que   estava investigando o incidente em colaboração com os clubes. Em uma nota oficial, o   Betim condenou o ocorrido. Por outro lado,   em comunicado, a URT negou as acusações   feitas por Sabino, afirmando que o jogador   teria “plantado” o caso. Não foram encontradas informações de que o jogador tenha   registrado boletim de ocorrência.
+  COMO TERMINOU: Apesar do registro em   súmula, não foram encontradas informações de que o caso tenha sido julgado pelo   Tribunal de Justiça Desportiva de Minas Gerais (TJD-MG).
+- ID: 56.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Sport Clube   Corinthians Paulista
+  DATA: 11/07/2023
+  JOGO: Corinthians x Universitario
+  CAMPEONATO: Copa Sul-Americana
+  ONDE: Neo Química Arena
+  CIDADE: São   Paulo/SP
+  FATO: Sebastian Avellino Vargas, preparador   físico do Universitario foi detido pela polícia,   após acusação de ter proferido a palavra   “macaco” e ter feito gestos racistas em direção à torcida do Corinthians.
+  DESDOBRAMENTO: Sebastian foi levado pelos policiais militares até a delegacia do estádio   para prestar depoimento, onde negou os atos.   Dois torcedores do Corinthians e um gandula   prestaram depoimento como testemunhas. O   preparador físico teve prisão em flagrante decretada e foi transferido para 65º DP. Após audiência   de custódia, a prisão em flagrante foi convertida   em preventiva. Em nota, o Universitario disse que   a prisão foi arbitrária. A defesa citou a falta de   imagens no inquérito para pedir liberdade, mas   foi negada. A Polícia Civil inclui na investigação   vídeos cedidos pela administração da Neo Química Arena e outro publicado nas redes sociais.   Após denúncia do Ministério Público, a Justiça de   São Paulo tornou Sebastian réu e concedeu liberdade provisória ao mesmo. A CONMEBOL abriu   expediente disciplinar para investigar o caso.
+  COMO TERMINOU: Esportivamente, Sebastian foi punido pela CONMEBOL com 10 partidas de suspensão. Pela Justiça de São Paulo,   foi condenado por racismo com pena de dois   anos de reclusão, mas a punição foi substituída pelo pagamento de dois salários mínimos a   uma instituição social. Não foram encontradas   informações se a defesa recorreu.
+- ID: 57.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Gabriel Barbosa   Almeida (Gabigol),   atleta do Clube de Regatas   do Flamengo
+  DATA: 12/07/2023
+  JOGO: Athletico-PR X Flamengo
+  CAMPEONATO: Copa do Brasil
+  ONDE:  Estádio Mário Celso Petraglia (Ligga Arena)
+  CIDADE: Curitiba/PR
+  FATO: Durante a comemoração da classificação pelos jogadores do Flamengo, o atacante Gabigol foi alvo de um insulto racista,   sendo chamado de “macaco” por um torcedor do Atlético.
+  DESDOBRAMENTO: Um vídeo que capturou o incidente foi divulgado no X (antigo   Twitter) pelo perfil Coluna do Fla. O caso   não foi registrado em súmula, e não há informações sobre ele ter sido levado ao conhecimento do Superior Tribunal de Justiça   Desportiva (STJD) ou dos clubes envolvidos.
+  COMO TERMINOU: O caso não   teve sequência.
+- ID: 58.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Ideilon Helton Alves Lima,   árbitro assistente
+  DATA: 15/07/2023
+  JOGO: Parnahyba x Atlético-CE
+  CAMPEONATO: Brasileiro - Série D
+  ONDE:  Estádio Pedro Alelaf (Mão Santa)
+  CIDADE: Parnaíba - PI
+  FATO: Ideilton Helton Alves Lima, quarto   árbitro da partida, foi alvo de um insulto   racista, sendo chamado de “chimpanzé” por   um torcedor.
+  DESDOBRAMENTO: Ideilton solicitou a interrupção do jogo, acionou a Polícia Militar e   identificou o autor da ofensa. O indivíduo foi   detido e, após o término da partida, foi encaminhado para a Central de Flagrantes, onde   prestou depoimento. O quarto árbitro registrou um boletim de ocorrência. O caso foi registrado na súmula da partida. O Parnahyba-  -PI foi denunciado pela Justiça Desportiva.
+  COMO TERMINOU: O Parnahyba-PI foi absolvido pelo Superior Tribunal de Justiça Desportiva (STJD) quanto à imputação do Art.   243-G do CBJD. No que diz respeito ao boletim de ocorrência, dado que se trata de um   assunto de natureza criminal, o processo segue em segredo de justiça, impossibilitando o   acesso a informações sobre seu andamento.
+- ID: 59.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Delegação do Sport Club   Corinthians Paulista 
+  DATA: 
+  JOGO: Universitario x Corinthians
+  CAMPEONATO: Copa Sul-Americana
+  ONDE: Estádio   Monumental “U”
+  CIDADE: Lima/PERU
+  FATO: Um grupo de torcedores do Universitario proferiu sons de macacos na   chegada da delegação do Corinthians ao   estádio Monumental.
+  DESDOBRAMENTO: As imagens gravadas   e divulgadas pelo canal Meu timão viralizaram nas redes sociais. A CONMEBOL e os   clubes não se manifestaram sobre o caso.
+  COMO TERMINOU: O Universitario foi   punido pela CONMEBOL com multa em   US$ 100 mil dólares e condenado a realizar   campanha de combate ao racismo no jogo   seguinte em competição da entidade com a   mensagem “Basta de Racismo”.
+- ID: 60.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Bryan Grabriel Fernandes,   Wellissol Santos de Oliveira   e Bruno Gabriel Ferreira   De Souza Lopes Da Silva,   atletas e preparador físico do   Independente Futebol São Joseense
+  DATA: 22/07/2023
+  JOGO: Caxias x São Joseense 
+  CAMPEONATO: Brasileiro - Série D
+  ONDE:  Estádio Francisco Stédile (Centenário)
+  CIDADE:  Caxias do Sul/RS
+  FATO: Os jogadores Brayan e Wellissol, e o   preparador físico Bruno Souza, do São Joseense, foram chamados de “macaco” por um   torcedor do Caxias. Os jogadores e o preparador físico acionaram a Brigada Militar para   denunciar a ofensa.
+  DESDOBRAMENTO: O torcedor foi identificado e encaminhado a delegacia, o mesmo   prestou depoimento e foi liberado. O caso   foi registrado pela polícia como suspeita de   injúria racial. Em nota o São Joseense repudiou o caso e informou que após a partida,   as vítimas foram conduzidas até a delegacia,   onde foi registrado um boletim de ocorrência. Em nota, o Caxias repudiou o ato e informou que estava à disposição das autoridades   para auxiliar no esclarecimento dos fatos. O caso não foi registrado na súmula da partida.
+  COMO TERMINOU: Não foram encontradas informações de que o caso tenha sido   noticiado à Justiça Desportiva. Em relação ao   boletim de ocorrência, por se tratar de um caso de âmbito criminal, corre em segredo   de justiça, impossibilitando a obtenção de   informações sobre seu desenrolar.
+- ID: 61.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Leonardo Caetano Silva   (Leozinho) e Ronaldo   Carvalho De Almeida,   atleta e massagista do   Hercílio Luz Futebol Clube
+  DATA: 29/07/2023
+  JOGO: Ferroviária x Hercílio   Luz
+  CAMPEONATO: Brasileiro - Série D
+  ONDE:  Estádio Dr. Adhemar Pereira de Barros (Fonte Luminosa)
+  CIDADE: Araraquara/SP
+  FATO: Conforme registrado na súmula pelo   árbitro Rafael Martins Diniz, ao final da partida, o massagista do Hercílio Luz, Ronaldo   Carvalho, relatou à equipe de arbitragem   e ao policiamento que escoltava a equipe   que um torcedor da Ferroviária teria proferido as palavras “negrinho sujo” a ele e ao   jogador Leozinho.
+  DESDOBRAMENTO: Ainda segundo o registro, o árbitro afirmou que, ao questionar   se se sentiram ofendidos, o jogador negou.   Ainda em campo, o massagista informou à   equipe de arbitragem, ao delegado da partida e ao policiamento que se sentiu ofendido.   No entanto, ao chegar no vestiário, Ronaldo   Carvalho informou à equipe de arbitragem   que não se sentiu ofendido. A Ferroviária foi   denunciada pela Justiça Desportiva.
+  COMO TERMINOU: O Superior Tribunal   de Justiça Desportiva (STJD) absolveu a Ferroviária quanto à imputação ao Art. 243-G   do CBJD.
+- ID: 62.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Sport   Club Internacional 
+  DATA: 01/08/2023
+  JOGO: River Plate x Internacional
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio Monumental de Núñez 
+  CIDADE: Buenos Aires/ARGENTINA
+  FATO: Um torcedor do River mostrou um   celular com a mensagem “macacos em uma   jaula” para a torcida do Inter.
+  DESDOBRAMENTO: O ato foi gravado por   torcedores do Inter e denunciado nas redes   sociais. Durante a partida, o telão do estádio exibiu a mensagem “basta de racismo”   e um dos setores estava com a capacidade   reduzida com uma faixa exibindo a mesma   mensagem, devido à punição aplicada ao   River por gestos racistas por parte de alguns   torcedores em jogo contra o Fluminense.   Não foram encontradas informações se o caso foi registrado em súmula ou denunciado ao Comitê Disciplinar da CONMEBOL. Os   clubes e a CONMEBOL não se manifestaram   sobre o caso.
+  COMO TERMINOU: Não foram encontradas informações de que a CONMEBOL tenha   levado o caso a análise e/ou julgamento.
+- ID: 63.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atletas da Escola Indígena   Índio Gustavo Alfredo
+  DATA: 04/08/2023
+  JOGO: Escola Indígena Índio   Gustavo Alfredo x Escola Monteiro Lobato
+  CAMPEONATO: Jogos Escolares de Roraima
+  ONDE:  Estádio Canarinho
+  CIDADE: Sem identificação/  RR
+  FATO: Jogadores indígenas da Escola Indígena Índio Gustavo Alfredo foram alvo de   insultos como “vai fazer farinha” e “aqui não   é lugar de índio” por parte dos torcedores da   Escola Monteiro Lobato durante uma partida   pelos Jogos Escolares de Roraima.
+  DESDOBRAMENTO: No jogo seguinte, os   jogadores levaram cartazes pedindo respeito,   e outros alunos na torcida carregaram cartazes com frases como “Não à discriminação”   e “Não ao racismo”. Em nota, a Secretaria   Estadual de Educação (Seed) repudiou o   ocorrido, afirmando que se tratava de um   “episódio isolado” e que tomaria medidas   junto às escolas envolvidas.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a sequência   do caso.
+- ID: 64.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Jeferson de Araujo   de Carvalho,   atleta do São Bernardo Futebol Clube
+  DATA: 06/08/2023
+  JOGO: Operário x São   Bernardo
+  CAMPEONATO: Brasileiro - Série C 
+  ONDE: Estádio Germano Krüger
+  CIDADE: Ponta   Grossa/ PR
+  FATO: Jerfenson, lateral direito do São Bernardo, denunciou ao árbitro que foi chamado   de “macaco” por um torcedor localizado na   direção da torcida do Operário. Conforme   registro em súmula, foi seguido o protocolo   de racismo, a partida foi paralisada por sete   minutos e a torcida foi advertida pelo sistema de som do estádio.
+  DESDOBRAMENTO: Ainda segundo a súmula, o atleta foi encaminhado ao chefe da   polícia, onde relatou a ofensa, e após o fim da   partida registrou um boletim de ocorrência.   Em nota, os clubes repudiaram o episódio. O   Operário afirmou que estava analisando as   imagens da partida e as disponibilizou às autoridades, ao atleta e ao São Bernardo para   ajudar na identificação do torcedor. A Polícia   Civil iniciou uma investigação com a análise   das imagens, mas o autor da ofensa não foi   identificado. O Operário foi denunciado pela   Justiça Desportiva
+  COMO TERMINOU: O clube foi absolvido   pelo STJD quanto à imputação ao Art. 243-G   do CBJD por falta de provas que comprovem   a infração disciplinar. Após recurso da procuradoria, a absolvição foi mantida.
+- ID: 65.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Sport Club   Corinthians Paulista
+  DATA: 08/08/2023
+  JOGO: Newells Old Boys x   Corinthians
+  CAMPEONATO: Estádio Marcelo   Bielsa
+  ONDE: Copa Sul-Americana
+  CIDADE:  Rosário/ARGENTINA
+  FATO: Torcedores do Newell’s Old Boys foram filmados proferindo a palavra “macaco”   e imitando gestos do animal em direção à   torcida do Corinthians.
+  DESDOBRAMENTO: O ato foi registrado   e denunciado nas redes sociais por um torcedor do Corinthians. Em nota, nas redes   sociais, o Corinthians repudiou o caso. Não   foram encontradas informações se o caso foi   registrado na súmula da partida.
+  COMO TERMINOU: A CONMEBOL multou   o Newell’s Old Boys em US$ 130 mil dólares   e condenou o clube a realizar a campanha   de combate ao racismo no jogo seguinte em   competição da entidade com a mensagem   “Basta de Racismo”.
+- ID: 66.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Policiais militares   e seguranças do   estádio Maracanã 
+  DATA: 08/08/2023
+  JOGO: Fluminense x Argentino Juniors
+  CAMPEONATO: Copa Libertadores   da América
+  ONDE: Estádio Jornalista Mário Filho   (Estádio Maracanã)
+  CIDADE: Rio de Janeiro/RJ
+  FATO: Três torcedores do Argentinos Juniors   foram presos em flagrante por racismo no estádio Maracanã. Os torcedores teriam chamado   policiais militares e seguranças do estádio de   “macaquitos”. 
+  DESDOBRAMENTO: O caso ocorreu quando   policiais militares e seguranças do estádio tentavam conter uma briga na torcida do Argetinos   Juniors. Segundo relato de um policial militar,   um dos torcedores o chamou de “macaquito” e   fez gestos que imitavam macaco. Os torcedores   foram detidos e levados para Vara de Execuções   Penais do estádio. Após audiência de custódia,   a prisão em flagrante foi substituída pelo cumprimento de medidas cautelares proibição de   se ausentar do país, com entrega do passaporte, proibição de frequentar eventos esportivos e   comparecimento mensal em juízo para informar   e justificar suas atividades.
+  COMO TERMINOU: Em nova audiência, os   torcedores aceitaram a proposta de acordo de   não persecução penal oferecida pelo Ministério   Público. Foi estabelecido o pagamento de prestação pecuniária no valor de R$ 1.950 (R$ 650 para   cada um) a favor da instituição Colibri e os três se   comprometeram a não comparecer em território   brasileiro para assistir a jogos de futebol pelo período de três anos.
+- ID: 67.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do São   Paulo Futebol Clube 
+  DATA: 10/08/2023
+  JOGO: São Paulo x San Lorenzo
+  CAMPEONATO: Copa Sul-Americana  
+  ONDE: Estádio Cícero Pompeu de Toledo (MorumBIS)
+  CIDADE: São Paulo/SP
+  FATO: Um torcedor do San Lorenzo foi filmado imitando um macaco apontando em   direção a torcedores do São Paulo, após, uma   banana foi arremessada e atingiu uma criança de 12 anos.
+  DESDOBRAMENTO: O menino foi à polícia   com o pai prestar queixa do ato. Imagens do   torcedor imitando um macaco foram apresentadas à polícia. O torcedor foi conduzido   até a delegacia do estádio. Em depoimento, o   torcedor disse que se arrependeu de ter realizado o gesto e negou que tenha jogado a banana. O torcedor foi preso em flagrante. Em   nota, o San Lorenzo repudiou o ato. Após audiência de custódia, a prisão em flagrante foi   convertida para prisão preventiva. O Ministério da Justiça e o Ministério da Igualdade Racial   do Brasil, informaram que enviaram um ofício   à CONMEBOL cobrando punição após o caso.   O San Lorenzo, via comunicado, informou que   o torcedor foi solto e permaneceria no Brasil,   enquanto estivesse respondendo o processo.
+  COMO TERMINOU: Não foram encontradas   mais informações sobre a sequência do caso   na Justiça. Esportivamente, o San Lorenzo foi   condenado pela CONMEBOL no expediente   disciplinar (CS.O.155-23) ao pagamento de   multa de US$ 100 mil dólares e condenado   a realizar campanha de combate ao racismo   no jogo seguinte em competição da entidade   com a mensagem “Basta de Racismo”.
+- ID: 68.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do São   Paulo Futebol Clube
+  DATA: 10/08/2023
+  JOGO: São Paulo x San Lorenzo
+  CAMPEONATO: Copa Sul-Americana  
+  ONDE: Estádio Cícero Pompeu de Toledo (MorumBIS)
+  CIDADE: São Paulo/SP
+  FATO: Um homem em um dos camarotes   destinado à diretoria do San Lorenzo mostrou uma foto de um macaco e realizou   gestos imitando o animal para torcedores   do São Paulo.
+  DESDOBRAMENTO: Imagens do ato foram   registradas por torcedores de São Paulo e   apresentadas à polícia. O homem foi detido   e preso em flagrante por racismo. Em depoimento, ele negou as acusações. Em nota, o   San Lorenzo repudiou o ato e negou que o   acusado fosse dirigente do clube. Após audiência de custódia, a prisão em flagrante foi   convertida para prisão preventiva. O Ministério da Justiça e o Ministério da Igualdade   Racial do Brasil, informaram que enviaram   um ofício a CONMEBOL cobrando punição   após o caso. Após sete dias preso, o homem   recebeu o direito de responder em liberdade, sendo proibido de deixar São Paulo e frequentar estádios de futebol.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a sequência do caso na Justiça. Esportivamente, o San Lorenzo foi condenado pela CONMEBOL no   expediente disciplinar (CS.O.155-23) ao pagamento de multa de US$ 100 mil dólares e   condenado a realizar campanha de combate   ao racismo no jogo seguinte em competição   da entidade com a mensagem “Basta de Racismo”.
+- ID: 69.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Uesclei Regison Pereira   dos Santos,   árbitro assistente 
+  DATA: 12/08/2023
+  JOGO: Aparecidense X   Confiança
+  CAMPEONATO: Brasileiro - Série   C
+  ONDE: Estádio Municipal Annibal Batista de   Toledo
+  CIDADE: Aparecida de Goiânia/GO
+  FATO: Conforme relatado na súmula da   partida, o árbitro assistente Uesclei Regison   Pereira dos Santos comunicou ao árbitro que   uma pessoa localizada na arquibancada da   torcida do Aparecidense lhe dirigiu a frase   “seu macaquinho, seu macaco, é você mesmo seu macaco.”
+  DESDOBRAMENTO: Ainda segundo o registro, a polícia foi acionada, mas o autor da   ofensa não foi identificado. A Aparecidense   foi denunciada pela Justiça Desportiva.
+  COMO TERMINOU: O Superior Tribunal   de Justiça Desportiva (STJD) puniu a Aparecidense por infração ao Art. 243-G do CBJD   com a perda de um mando de campo e uma   multa de R$ 20 mil.
+- ID: 70.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Jean Carlos de Queiroz Sena,   atleta de futebol amador 
+  DATA: 20/08/2023
+  JOGO: Santa Fé x Red Soccer  
+  CAMPEONATO: Campeonato Amador
+  ONDE:  Campo de futebol - sem identificação
+  CIDADE:  Limeira/SP
+  FATO: Durante uma partida entre Santa Fé e   Red Soccer, um homem que assistia ao jogo   chamou Jean, goleiro do Santa Fé, de “gorila”.
+  DESDOBRAMENTO: A Guarda Municipal   foi acionada e o homem foi encaminhado   para a delegacia. Em depoimento, ele disse   que gritou ao goleiro “sai de cima dele, gorila” e afirmou que não teve a intenção de   ofender. Após o depoimento, foi decretada   a prisão em flagrante, e após a audiência de   custódia, foi concedida liberdade provisória   com cumprimento de medidas cautelares,   como a proibição de frequentar lugares com   aglomeração de pessoas no período noturno.
+  COMO TERMINOU: O torcedor foi condenado a uma pena de dois anos de reclusão,   convertida ao pagamento de uma multa de   um salário mínimo e à prestação de serviços comunitários em entidades que lutam   contra o racismo. Não foram encontradas   informações de que o torcedor tenha entrado com recurso.
+- ID: 71.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Raimundo José   Chagas Araujo,   árbitro 
+  DATA: 26/08/2023
+  JOGO: Pinheiro X Maranhão 
+  CAMPEONATO: Maranhense Sub 19
+  ONDE:  Estádio Municipal Costa Rodrigues
+  CIDADE:  Pinheiro/MA
+  FATO: O árbitro Raimundo José Chagas   Araújo foi chamado de “macaco” por um   torcedor durante a partida entre Pinheiro   e Maranhão.
+  DESDOBRAMENTO: Segundo o boletim   de ocorrência registrado, o torcedor proferiu   ofensas do início ao fim do jogo. Após o término da partida, Raimundo acionou a Guarda Municipal para relatar o caso e identificar   o torcedor, mas ele já havia saído do estádio.   Nas redes sociais, Pinheiro emitiu uma nota   repudiando o incidente. O caso não foi registrado na súmula da partida.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre o caso. 
+- ID: 72.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atleta do Juventude   de Taquari 
+  DATA: 27/08/2023
+  JOGO: Ecas de Imigrante x   Juventude de Taquari
+  CAMPEONATO: Regional   Aslivata – Copa Certel/Sicredi Série A
+  ONDE:  Sem identificação
+  CIDADE: Imigrante/RS
+  FATO: Após o final da partida entre Ecas de   Imigrante e Juventude de Taquari, Iura Vogel,   dirigente e segurança do Ecas, e um atleta   do Juventude de Taquari tiveram uma discussão, durante a qual o dirigente teria proferido   ofensas racistas ao jogador.
+  DESDOBRAMENTO: O caso foi relatado na   súmula da partida. Em entrevista, o presidente do Juventude de Taquari informou que   o atleta optou por não registrar um boletim   de ocorrência para não prejudicar o Ecas. O   presidente do Ecas afirmou que, após uma   reunião, Iura foi excluído da diretoria. Iura reconheceu a discussão, mas negou as ofensas   raciais ao jogador. Nas redes sociais, a Associação de Ligas do Vale do Taquari (Aslivata),   organizadora do campeonato, publicou uma   nota de repúdio. Os clubes também publicaram nota repudiando o caso.
+  COMO TERMINOU: A Associação de Ligas do Vale do Taquari excluiu Iura Vogel   do campeonato e aplicou uma multa de R$   1.320 ao Ecas.
+- ID: 73.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedor do Esporte   Clube Vitória
+  DATA: 27/08/2023
+  JOGO: Atlético-GO X EC Vitória
+  CAMPEONATO: Brasileiro - Série B
+  ONDE:  Estádio Antônio Accioly
+  CIDADE: Goiânia/GO
+  FATO: Um torcedor do Vitória, acusou um   torcedor do Atlético-GO, de fazer gestos racistas com a mão e o braço e de chamá-lo de   “preto” e “macaco”.
+  DESDOBRAMENTO: A Polícia Militar foi   acionada e testemunhas confirmaram a   acusação. J.P.C., torcedor do Atlético-GO,   chegou a fugir do local, mas foi encontrado   pelos policiais e encaminhado à Central de   Flagrante, onde teve a prisão decretada. O   torcedor do Vitória registrou um boletim de   ocorrência. Em nota, o Vitória lamentou o  episódio. Após a audiência de custódia, foi   concedida liberdade provisória ao torcedor   do Atlético-GO. O caso não foi registrado   em súmula.
+  COMO TERMINOU: Não foram encontradas mais informações sobre o caso. Por ser   um caso de âmbito criminal, o mesmo corre   em segredo de justiça, impossibilitando obter   informações sobre seu desenrolar.
+- ID: 74.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Fluminense   Football Club
+  DATA: 31/08/2023
+  JOGO: Olimpia x Fluminense  
+  CAMPEONATO: Copa Libertadores da América  
+  ONDE: Estádio Defensores del Chaco
+  CIDADE: Assunção/Paraguai
+  FATO: Torcedores do Olimpia foram flagrados imitando macacos em direção aos torcedores do Fluminense no estádio Defensores   del Chaco.
+  DESDOBRAMENTO: Os torcedores do   Fluminense responderam chamando os   torcedores do Olimpia de racistas. Não foram encontradas informações se o caso foi   registrado no relatório disciplinar da partida.   A CONMEBOL e os clubes não se manifestaram sobre o caso.
+  COMO TERMINOU: O Olimpia foi condenado pela CONMEBOL ao pagamento   de multa de US$ 100 mil dólares, ao fechamento parcial de uma parte da arquibancada   no jogo seguinte como mandante em competições da entidade e a realizar campanha   de conscientização nas redes sociais oficiais   do clube e no estádio com a frase “Basta de   Racismo”.
+- ID: 75.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Renata Silva Vieira,   presidente do Camarões Esporte   Clube do Quilombola dos Arturos
+  DATA: 03/09/2023
+  JOGO: Camarões Esporte   Clube x Recanto Azul
+  CAMPEONATO: Campeonato de Futebol Amador
+  ONDE: Complexo Esportivo Cesu Amazonas
+  CIDADE: Contagem/MG
+  FATO: Renata, integrante da Comunidade   Quilombola dos Arturos e presidente do   time da comunidade Camarões Esporte   Clube, denunciou ter sido chamada de “neguinha” e de “Zumbi dos Palmares” por uma   torcedora do time Recanto Azul durante   uma partida de futebol amador.
+  DESDOBRAMENTO: A Guarda Municipal   foi acionada e a torcedora foi encaminhada   para a delegacia. Em nota, a Polícia Civil informou que a suspeita foi liberada “por não   haver indícios suficientes que confirmassem   a intenção de praticar o crime de injúria”, e   que o caso continuaria sendo investigado.   Renata registrou uma denúncia junto ao   Ministério Público.
+  COMO TERMINOU: Não foram encontradas mais informações sobre o caso. Por se   tratar de um caso de âmbito criminal, o caso   corre em segredo de justiça, impossibilitando   obter informações sobre seu desenrolar.
+- ID: 76.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Jonas J. Anunciação,   árbitro assistente 
+  DATA: 03/09/2023
+  JOGO: Conceição do Coité   x Barrocas
+  CAMPEONATO: Campeonato Intermunicipal
+  ONDE: Estádio Diovando Carneiro   Cunha
+  CIDADE: Conceição do Coité/BA
+  FATO: O massagista da equipe de Conceição   do Coité, Pedro S. de Melo, teria dirigido ao   árbitro assistente Jonas J. Anunciação a frase “Seu preto de merda, é você mesmo seu   macaco, pode olhar pra mim.”
+  DESDOBRAMENTO: O caso foi registrado   na súmula da partida. O massagista foi denunciado à Justiça Desportiva.
+  COMO TERMINOU: O TJD-BA aplicou a   Pedro S. de Melo, massagista da Conceição   do Coité, uma pena de suspensão de 10 partidas e uma multa de R$ 50 mil. No entanto,   essas penas foram reduzidas pela metade,   sendo fixadas em 5 partidas de suspensão e   uma multa de R$ 25 mil, por infração ao Art.   243-G combinado com o Art. 182 do CBJD. O   tribunal decidiu ainda encaminhar uma cópia   do processo à Polícia Civil e ao Ministério Público do Estado da Bahia para investigação.
+- ID: 77.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Árbitro de Futebol Amador 
+  DATA: 10/09/2023
+  JOGO: Pé Na Porta x Nem   Lá Nem Cá
+  CAMPEONATO: ADN Champions   Cup
+  ONDE: Estádio Municipal Tonico Varella 
+  CIDADE: Ribeirão Bonito/SP
+  FATO: Após a marcação de uma falta para   o time Pé Na Porta, um atleta teria dito ao   árbitro “nego safado, preto vagabundo”.
+  DESDOBRAMENTO: O árbitro registrou   um boletim de ocorrência, e a Polícia Civil   iniciou uma investigação do caso.
+  COMO TERMINOU: Não foram encontradas mais informações sobre o caso. Por ser   um caso de âmbito criminal, o mesmo corre   em segredo de justiça, impossibilitando obter   informações sobre seu desenrolar.
+- ID: 78.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  João Rafael Clemência,   atleta do Botafogo de Santiago
+  DATA: 10/09/2023
+  JOGO: Botafogo de Santiago x Ipiranga
+  CAMPEONATO: Intermunicipal de   Futebol Amador Sub-20
+  ONDE: Estádio Manoel   Alves
+  CIDADE: Pescaria Brava/SC
+  FATO: Uma torcedora do Ipiranga, da Barranca do Siqueiro, teria dito a João Rafael,   jogador do Botafogo de Santiago “Você vai   apanhar aqui, seu negro.” A partida chegou   a ficar paralisada por dez minutos.
+  DESDOBRAMENTO: O atleta registrou um   boletim de ocorrência. A Associação Intermunicipal de Futebol (AIF), organizadora do   campeonato, emitiu uma nota sobre o caso   e se solidarizou com o jogador. O Botafogo   também se manifestou, repudiando o incidente através de uma nota publicada no   Instagram do clube.
+  COMO TERMINOU: Não foram encontradas mais informações se o caso teve sequência. Em relação ao boletim de ocorrência   (BO), sendo um caso de natureza criminal, o   processo é mantido em sigilo judicial, impossibilitando a obtenção de informações sobre   o seu andamento.
+- ID: 79.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:   Myllene Batista Belém,   atleta do Sobradinho Esporte Clube
+  DATA: 16/09/2023
+  JOGO: Ceilândia X Sobradinho
+  CAMPEONATO: Brasiliense de Futebol   Feminino (Candango Feminino)
+  ONDE: Estádio   Maria de Lourdes Abadia (Abadião)
+  CIDADE:  Ceilândia/DF
+  FATO: Um homem localizado na torcida   do Ceilândia, se referiu a Myllene, goleira do   Sobradinho, de “cabelo de boneca” e “cabelo   de barbante”.
+  DESDOBRAMENTO: A atleta relatou a   ofensa ao árbitro Matheus de Moraes e a   partida foi paralisada. A polícia foi acionada,   mas o autor da ofensa já havia saído do local.   A atleta registrou um boletim de ocorrência,   e o caso foi anotado na súmula da partida.   Em nota, o Sobradinho se solidarizou com   a atleta e repudiou o ato. A Federação de   Futebol do Distrito Federal afirmou que seguiu todos os procedimentos necessários e   repudiou atos de discriminação e violência no   esporte e na sociedade. Após investigação,   o acusado foi identificado pela Polícia Civil.
+  COMO TERMINOU: Apesar do registro em   súmula, não foram encontradas informações de que o caso tenha sido julgado pelo   Tribunal de Justiça Desportiva do Distrito   Federal (TJD-DF). Em relação ao boletim de   ocorrência, por ser um caso do âmbito criminal, ele corre em segredo de justiça, sem ter   como obter informações do seu desenrolar.
+- ID: 80.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Jeder Valtemir   Jardim da Silva,   atleta do Esporte Clube Pelotas 
+  DATA: 20/09/2023
+  JOGO: São Luiz X Pelotas
+  CAMPEONATO: Copa FGF
+  ONDE: Estádio 19 de   outubro
+  CIDADE: Ijuí/RS
+  FATO: Jeder, jogador do Pelotas, comunicou   ao árbitro da partida que foi chamado de   “macaco” por um torcedor do São Luiz.
+  DESDOBRAMENTO: A partida foi paralisada e a Brigada Militar foi acionada. O torcedor foi identificado, encaminhado à delegacia   e liberado após prestar depoimento. Após o   final da partida, Jeder também foi à delegacia, onde registrou um boletim de ocorrência,   e em suas redes sociais repudiou o caso. Em   nota, o São Luiz declarou “expressar sua mais   profunda consternação e repúdio diante de   mais um incidente de racismo”. O São Luiz   foi denunciado pela Justiça Desportiva.
+  COMO TERMINOU: O São Luiz foi condenado pelo TJD-RS por infração ao Art. 243-G   do CBJD, recebendo uma multa de R$ 1.000   e a obrigação de impedir o torcedor identificado de acessar o estádio por 720 dias. Em   relação ao boletim de ocorrência, por ser   um caso do âmbito criminal, ele corre em   segredo de justiça, sem ter como obter informações do seu desenrolar.
+- ID: 81.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Wendel Loureiro Cabral,   árbitro
+  DATA: 22/09/2023
+  JOGO: Porto Vitoria F.C. x S.C.   Capixaba
+  CAMPEONATO: Copa Espírito Santo   Sub 20
+  ONDE: Estádio Pedro Maria Nelli
+  CIDADE: Serra/ES
+  FATO: O árbitro Wendell Cabral teria sido   chamado de “macaco” por um homem que   estava assistindo à partida, enquanto os times   retornavam do intervalo. Conforme registrado   na súmula da partida, a quarta árbitra Vanessa   de Souza relatou ao árbitro que um torcedor dirigiu a ele as frases “vou representar contra esse   preto” e “esse nego não apita porra nenhuma!”.
+  DESDOBRAMENTO: Ainda segundo o registro, a partida foi paralisada e a polícia foi acionada. O homem foi identificado como Fabrício   Rodrigues, treinador da equipe profissional do   Sport-ES. Antes da chegada da polícia, Fabrício se retirou do local. O árbitro registrou um   boletim de ocorrência. Em nota, a Comissão   Estadual de Arbitragem da Federação de Futebol do Estado do Espírito Santo repudiou o caso. Tanto Fabrício quanto o Sport-ES foram   denunciados à Justiça Desportiva.
+  COMO TERMINOU: O TJD-ES condenou o   Sport-ES e Fabrício Júlio Rodrigues, treinador   da equipe, a uma multa de R$ 2 mil e a uma   suspensão de 200 dias por infração ao Art.   243-G do CBJD. Após recurso, Fabrício e o clube foram absolvidos. Em relação ao boletim de   ocorrência, por ser um caso de âmbito criminal,   ele corre em segredo de justiça, sem possibilidade de obter informações sobre seu desenrolar.
+- ID: 82.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Alexandre Silva   Moreira Junior,   atleta do Esporte Clube Villa Real
+  DATA: 23/09/2023
+  JOGO: Guarani x Villa Real 
+  CAMPEONATO: Mineiro - Segunda Divisão 
+  ONDE: Estádio Waldemar Teixeira de Faria (Farião) 
+  CIDADE: Divinópolis/MG
+  FATO: Alexandre, atacante do Villa Real,   relatou ao árbitro da partida que foi alvo de   ofensas racistas por parte de um torcedor.
+  DESDOBRAMENTO: O jogo foi paralisado,   e o torcedor foi identificado e encaminhado   à delegacia. Após prestar depoimento, ele foi   liberado por falta de provas. O caso foi registrado na súmula da partida. Em nota, o Villa   repudiou o episódio e manifestou apoio ao   atleta. O Guarani também emitiu uma nota   condenando o ocorrido. A Federação Mineira   de Futebol repudiou a situação e demonstrou apoio ao jogador. A Polícia Civil de Minas   Gerais abriu um inquérito para apurar o caso.
+  COMO TERMINOU: Apesar do registro em   súmula, não foram encontradas informações de que o caso tenha sido julgado pelo   Tribunal de Justiça Desportiva de Minas Gerais (TJD-MG). Em relação ao inquérito, por   ser um caso do âmbito criminal, ele corre   em segredo de justiça, sem ter como obter   informações do seu desenrolar. 
+- ID: 83.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Kleber Richter,   assistente de arbitragem
+  DATA: 24/09/2023
+  JOGO: Atlético Catarinense   x Vila Nova
+  CAMPEONATO: Municipal de Florianópolis
+  ONDE: Estádio da Gruta (Trindade)
+  CIDADE: Florianópolis/SC 
+  FATO: O árbitro assistente Kleber Richter foi   ofendido com a frase “Negão cor de pneu,   shampoo de pneu e suco de pneu” por Zigomar Varela Chaves, diretor patrimonial do   Atlético Catarinense.
+  DESDOBRAMENTO: Segundo registro na   súmula, a partida foi paralisada e a polícia militar acionada. Com base nos relatos de testemunhas, Zigomar Varela Chaves foi preso em   flagrante e encaminhado à delegacia. O árbitro   assistente também foi à delegacia, e registrou   boletim de ocorrência. A partida foi suspensa.   Em nota, o SINAFESC se colocou à disposição e   manifestou solidariedade ao árbitro assistente.   Após o incidente, diversos jogos das categorias   de base apresentaram manifestações de apoio   ao árbitro. A Liga Florianopolitana de Futebol   (LIFF), que administra as competições amadoras de Florianópolis, paralisou o campeonato   e iniciou uma investigação do caso. O Atlético   Catarinense e o diretor patrimonial do clube   foram denunciados à Justiça Desportiva.
+  COMO TERMINOU: O TJD-SC absolveu o   Clube Atlético Catarinense e condenou Zigomar Varela Chaves a uma multa de R$ 10   mil, 360 dias de suspensão de suas atividades   como dirigente, e proibição de frequentar o   estádio por 720 dias por infração ao Art. 243-G   do CBJD. Após recurso, a condenação de Zigomar foi reduzida para uma multa de R$ 6 mil   e 360 dias de suspensão.
+- ID: 84.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Luciano Justo,   árbitro 
+  DATA: 24/09/2023
+  JOGO: Liverpool x Tocos - 
+  CAMPEONATO: Copa Ouro
+  ONDE: Campo   São José
+  CIDADE: Campos dos Goytacazes/RJ
+  FATO: Ao marcar um pênalti para o time   do Tocos, o árbitro Luciano Justo foi chamado de “negro, macaco” por um torcedor   do Liverpool.
+  DESDOBRAMENTO: Após o episódio, jogadores e torcedores do Tocos apoiaram o árbitro. Luciano encerrou a partida e se dirigiu   à delegacia de Goytacazes, mas a equipe da   Polícia Militar não compareceu ao local, pois   a viatura disponível estava atendendo outra   ocorrência. No dia seguinte, o árbitro registrou um boletim de ocorrência. Em nota, a   Coordenação Geral da Copa Ouro repudiou   o incidente.
+  COMO TERMINOU: Após o julgamento da   súmula pela Coordenação Geral, o Liverpool   foi declarado perdedor pelo placar de 3x0 e   punido com a perda de um mando de campo. Em relação ao boletim de ocorrência, por   ser um caso do âmbito criminal, ele corre em segredo de justiça, sem ter como obter informações do seu desenrolar.
+- ID: 85.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:   Lucas Gomes Alves de França,   atleta sub-13 do Santos Futebol Clube 
+  DATA: 24/09/2023
+  JOGO: Santos X Itapirense  
+  CAMPEONATO: Campeonato Paulista - Sub   13
+  ONDE: CT Rei Pelé - Campo I
+  CIDADE:  Santos/SP
+  FATO: Durante a cobrança de um arremesso   lateral, o jogador do Santos, Lucas, foi ofendido com um grito de “vai jogar, neguinho”   por parte da torcida do Itapirense.
+  DESDOBRAMENTO: Conforme relatado   na súmula, o árbitro paralisou a partida   e pediu que a torcida cessasse as ofensas   racistas. A Itapirense foi denunciada pela   Justiça Desportiva.
+  COMO TERMINOU: O TJD-SP aplicou uma   multa de R$ 5 mil a Itapirense por infração do   Art. 243, § 2º, combinado com o Art. 182 do   CBJD. Não foram encontradas informações   se o clube recorreu da decisão.
+- ID: 86.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Daniel Oliveira Cardoso,   atleta da Sociedade Esportiva   e Recreativa Cruz Alta
+  DATA: 27/09/2023
+  JOGO: Elite x Cruz Alta 
+  CAMPEONATO: Gaúcho Série B
+  ONDE: Estádio Carlos Wilson Schroeder
+  CIDADE: Santo   Ângelo/RS
+  FATO: Após o final da partida, o jogador   Daniel, do Cruz Alta, relatou ao árbitro   que foi chamado de “macaco” por Vinicius   Monego Matos, técnico do Elite, durante   uma discussão.
+  DESDOBRAMENTO: De acordo com a   súmula da partida, após o relato, a Brigada   Militar foi acionada e os envolvidos foram   encaminhados à delegacia. O técnico do Elite negou a ofensa. Um boletim de ocorrência   foi registrado. Em entrevista, Daniel afirmou   que outros atletas teriam ouvido a ofensa e   que seu companheiro de equipe chegou a   pegar o celular para registrar o momento,   mas foi impedido por jogadores do Elite. O   técnico do Elite foi denunciado à Justiça Desportiva por infração ao Art. 243-G do CBJD.
+  COMO TERMINOU: O TJD-RS, absolveu   o técnico do Elite, Vinicius Monego Matos,   quanto à imputação do Art. 243-G do CBJD.   Em relação ao boletim de ocorrência, por ser   um caso do âmbito criminal, ele corre em   segredo de justiça, sem ter como obter informações do seu desenrolar.
+- ID: 87.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Torcedores da Sociedade   Esportiva Palmeiras
+  DATA: 28/09/2023
+  JOGO: Boca Junior x Palmeiras
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio La Bombonera
+  CIDADE: Buenos Aires/ARGENTINA
+  FATO: Um torcedor do Boca Juniors foi filmado com um celular com a palavra “macaco” apontado ao setor dos torcedores   do Palmeiras.
+  DESDOBRAMENTO: O vídeo foi gravado   por torcedores do Palmeiras e divulgado nas   redes sociais. Não foram encontradas informações se o caso foi registrado no relatório   disciplinar da partida. O Palmeiras encaminhou as imagens do ato à CONMEBOL para   denunciar o caso.
+  COMO TERMINOU: O Boca Junior foi punido pela CONMEBOL com a redução parcial   de um dos setores do estádio, multa de US$   100 mil dólares e determinado a realizar   campanha de conscientização no jogo seguinte como mandante nas redes sociais   oficiais do clube e no estádio com exibição   da frase “Basta de Racismo”.
+- ID: 88.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Torcedores do Club   Athletico Paranaense 
+  DATA: 01/10/2023
+  JOGO: Coritiba x Athletico-PR  
+  CAMPEONATO: Brasileiro Série A
+  ONDE: Estádio Major Antônio Couto Pereira (Couto Pereira)  
+  CIDADE: Paraná/PR
+  FATO: Um vídeo divulgado nas redes sociais   flagrou dois torcedores do Coritiba imitando   um macaco em direção à torcida do Atlético   nas arquibancadas.
+  DESDOBRAMENTO: A Delegacia Móvel de   Atendimento ao Futebol e Eventos (Demafe) iniciou uma investigação após receber as   imagens através das redes sociais. Em nota,   o Coritiba repudiou o caso e afirmou que   “essas condutas são incompatíveis com os   valores e a história do clube”. A Polícia Civil identificou e denunciou os torcedores. O   Coritiba foi denunciado à Justiça Desportiva.
+  COMO TERMINOU: Após a conclusão do   inquérito, o Coritiba proibiu os torcedores   de ingressarem no Estádio Couto Pereira   por dois anos e excluiu um dos torcedores   que era sócio do quadro associativo. O STJD   multou o Coritiba em R$ 9.300 por infração   ao Art. 243-G, §2º do CBJD. Após recurso da   procuradoria, a multa foi aumentada para   R$25 mil pelo Tribunal Pleno. Em relação a   denúncia pela Polícia Civil, por ser um caso   do âmbito criminal, ele corre em segredo de   justiça, sem ter como obter informações do   seu desenrolar.
+- ID: 89.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Cláudio Guimarães   Rosa (Teco),   atleta do Esporte Clube Estudiantes 
+  DATA: 01/10/2023
+  JOGO: EC Brasil x EC Estudiantes
+  CAMPEONATO: Regional Aslivata –   Copa Certel/Sicredi Série A
+  ONDE: Sem identificação
+  CIDADE: Marques de Souza/RS
+  FATO: Teco, zagueiro do Estudiantes de   Conventos, afirmou ter sido ofendido com   os termos “toma, preto sujo” e “nego sujo”   por torcedores do Brasil.
+  DESDOBRAMENTO: O jogador registrou   um boletim de ocorrência. Em nota, o Estudiantes repudiou o caso e notificou a Aslivata, organizadora da competição, para apurar   o ocorrido e tomar as devidas providências   legais. A Aslivata lamentou o episódio e   afirmou que “à entidade cabe penalizar de   acordo com o regulamento oficial”. De acordo com o Art. 47 do regulamento da competição, a responsabilidade de identificação   de qualquer ato de racismo cabe aos clubes,   e a punição ocorrerá em caso de relatório   do árbitro identificando o clube. O episódio, no entanto, não foi relatado na súmula   da partida.
+  COMO TERMINOU: Não foram encontradas mais informações sobre o caso. Em   relação ao boletim de ocorrência, por ser   um caso do âmbito criminal, ele corre em   segredo de justiça, sem ter como obter informações do seu desenrolar.
+- ID: 90.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  João Fabrício Cardoso   Dornelles,   árbitro assistente
+  DATA: 04/10/2023
+  JOGO: Rio Grande x Farroupilha
+  CAMPEONATO: Gaúcho Série B
+  ONDE:  Estádio Arthur Lawson
+  CIDADE: Rio Grande/RS
+  FATO: João Fabrício Cardoso Dornelles, árbitro assistente, relatou ao árbitro da partida   que Jean, jogador do Farroupilha, lhe dirigiu   a frase “nego tem é que trabalhar na obra”.
+  DESDOBRAMENTO: De acordo com o registro na súmula, após o final da partida, o   árbitro assistente foi até o policiamento para   denunciar o episódio. O jogador e o árbitro   assistente foram encaminhados à delegacia,   onde foi registrado um boletim de ocorrência. Jean foi preso em flagrante e liberado no   dia seguinte para responder em liberdade,   após decisão judicial. Jean foi denunciado   pela Justiça Desportiva.
+  COMO TERMINOU: Em relação ao boletim   de ocorrência, por ser um caso do âmbito criminal, ele corre em segredo de justiça, sem   ter como obter informações do seu desenrolar. O TJD-RS condenou o atleta Jean Roberto   Souza da Silva, do Farroupilha, à suspensão   de cinco partidas e multa de R$ 100 por infração ao Art. 243-G do CBJD.
+- ID: 91.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Torcedores da Sociedade   Esportiva Palmeiras 
+  DATA: 05/10/2023
+  JOGO: Palmeiras x Boca   Juniors
+  CAMPEONATO: Copa Libertadores da   América
+  ONDE: Estádio Allianz Parque
+  CIDADE: São Paulo/SP
+  FATO: Um jornalista argentino que estava   na tribuna de imprensa do estádio Allianz   Parque foi acusado de fazer gestos racistas e jogar uma banana contra torcedores   do Palmeiras.
+  DESDOBRAMENTO: O jornalista argentino foi conduzido pela Polícia Militar, prestou   depoimento no Juizado Especial Criminal e   negou o ato. Torcedores do Palmeiras ouvidos como testemunhas confirmaram a acusação. Em entrevista, um jornalista brasileiro   defendeu o argentino e relatou que a banana foi jogada por um torcedor do Palmeiras.   Um inquérito foi instaurado para investigar   o caso.
+  COMO TERMINOU: As imagens apresentadas como prova e imagens do monitoramento do estádio foram consideradas   inconclusivas. O jornalista foi liberado por   falta de provas. 
+- ID: 92.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO:  Atletas do Esporte   Clube Bahia
+  DATA: 14/10/2023
+  JOGO: Bahia x Seleção de   Juatuba
+  CAMPEONATO: Copa Brasileirinho - 
+  ONDE: Sem identificação
+  CIDADE: Juatuba/MG
+  FATO: Em um vídeo divulgado nas redes sociais, é possível ouvir pessoas que assistiam   à partida imitando sons de macacos direcionados ao time sub-14 do Bahia e chamando   os atletas de “macaco”.
+  DESDOBRAMENTO: Em nota de repúdio,   publicada nas redes sociais e no site do clube, o Bahia afirmou que tomaria as medidas   cabíveis e que os atletas estavam sendo assistidos pela equipe psicossocial do clube.
+  COMO TERMINOU: Não foram encontradas outras informações sobre a sequência   do caso.
+- ID: 93.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Fabio Tomaz,   árbitro
+  DATA: 21/10/2023
+  JOGO: Juventude X São Lourenço
+  CAMPEONATO:
+  ONDE: Campo do Juventude
+  CIDADE: Cachoeira do Sul/RS
+  FATO: Durante uma partida de futebol   amador, um membro da diretoria do time   São Lourenço chamou o árbitro Fábio de   “macaco”.
+  DESDOBRAMENTO: A partida foi paralisada. O árbitro identificou o autor da ofensa e   chamou a Brigada Militar, que prendeu o indivíduo em flagrante. Tanto o árbitro quanto   as testemunhas compareceram à delegacia   de polícia para prestar depoimento. Após   prestar depoimento, o autor da ofensa foi   encaminhado ao Presídio Estadual de Cachoeira do Sul.
+  COMO TERMINOU: Por ser um caso do   âmbito criminal, ele corre em segredo de   justiça, sem ter como obter informações do   seu desenrolar.
+- ID: 94.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedor do Clube Atlético   Mineiro e Torcedor do   Cruzeiro Esporte Clube 
+  DATA: 22/10/2023
+  JOGO: Atlético-MG x Cruzeiro
+  CAMPEONATO: Brasileiro - Série A
+  ONDE:  Arena MRV
+  CIDADE: Belo Horizonte/MG
+  FATO: Um torcedor do Atlético-MG, identificado como C.G.P.M, gravou um torcedor   do Cruzeiro apontando para a própria pele   e fazendo um sinal negativo com as mãos.   C.G.P.M afirmou que o torcedor disse “olha   a minha cor, eu não sou preto”.
+  DESDOBRAMENTO: C.G.P.M registrou um   boletim de ocorrência e entregou o vídeo à   polícia. A Polícia Civil iniciou uma investigação. Após a repercussão do caso, um grupo de amigos, torcedores cruzeirenses que  estavam ao lado do homem acusado, procurou a imprensa e relatou que o torcedor   do atlético (C.G.P.M), fez gestos imitando   um macaco, para um adolesente de 16 anos   que estava com o grupo, e após perceber   que estava sendo filmado, C.G.P.M acusou   o torcedor do cruzeiro de racismo, ainda de   acordo com torcedores cruzeirenses, o torcedor do cruzeiro acusado de racismo apontou para a pele e fazia sinal negativo dizendo   “Racismo não”. Em nota, a Arena MRV afirmou que as imagens estavam à disposição  das autoridades.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre o caso.   Em relação à investigação policial, por se tratar de um caso de âmbito criminal, ele corre   em segredo de justiça, impossibilitando o   acesso às informações sobre seu desenrolar.
+- ID: 95.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Iasmin Vitoria Paixão   Bonfim e Stephanie   de Brito Cerqueira,   atletas do Grêmio FootBall Porto Alegrense 
+  DATA: 31/10/2023
+  JOGO: Grêmio x Avaí Kindermann
+  CAMPEONATO: Brasil Ladies Cup  
+  ONDE: Estádio Jorge de Biasi
+  CIDADE: Novo   Horizonte/SP
+  FATO: Durante uma live da zagueira Duda   Pedra com as jogadoras Stephanie Brito e   Iasmin Paixão, Yura Tittow, técnico do time   sub-20 do Grêmio disse ao ver as atletas  “liga a luz”.
+  DESDOBRAMENTO: O vídeo repercutiu nas   redes sociais. Em nota, o Grêmio repudiou   o ato. Em uma publicação no Instagram,   o técnico pediu desculpas a “todos que se   sentiram atingidos de alguma forma” e afirmou que “atitudes como essa não condizem   com quem eu sou”. O clube informou que o   assunto estava sendo tratado internamente pelo Conselho de Administração e pelo   departamento jurídico.
+  COMO TERMINOU: O técnico Yura Tittow   foi demitido pelo Grêmio. 
+- ID: 96.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Fluminense   Football Club 
+  DATA: 03/11/2023
+  JOGO: Boca Juniors x Fluminense
+  CAMPEONATO: Copa Libertadores - 
+  ONDE: Estádio Jornalista Mário Filho (Maracanã) 
+  CIDADE: Rio de Janeiro/RJ
+  FATO: Durante uma transmissão ao vivo do   canal TN da Argentina, um torcedor do Boca   Juniors fez gestos imitando um macaco na   entrada do estádio Maracanã, referindo-se   aos torcedores do Fluminense.
+  DESDOBRAMENTO: O caso não teve outros desdobramentos
+  COMO TERMINOU: O caso não   teve sequência.
+- ID: 97.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Fiscal da Federação   Gaúcha de Futebol 
+  DATA: 04/11/2023
+  JOGO: Futebol com Vida x   Riograndense
+  CAMPEONATO: Gaúcho Série B 
+  ONDE: Estádio Dirceu de Castro (Arena Cruzeiro) 
+  CIDADE: Cachoeirinha/RS
+  FATO: Em uma publicação no Instagram,   a Federação Gaúcha de Futebol denunciou   um caso de racismo. Segundo a entidade, um   torcedor do Riograndense proferiu palavras   racistas contra um fiscal da FGF.
+  DESDOBRAMENTO: O torcedor foi identificado e encaminhado à delegacia, acompanhado pela vítima. O fiscal registrou um   boletim de ocorrência. O caso foi relatado   na súmula da partida. O Riograndense foi denunciado por infração ao Art. 243-G, §§2º e   3º c/c Art. 170, VII do CBJD.
+  COMO TERMINOU: O TJD-RS condenou o   Riograndense a uma multa de R$ 1.000 por   infração ao Art. 243-G do CBJD e à obrigação   de proibir o torcedor identificado de acessar   o estádio pelo prazo de 720 dias.
+- ID: 98.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Esporte Clube Canarinhos
+  DATA: 19/11/2023
+  JOGO: Belgrano x Canarinhos  
+  CAMPEONATO: Regional da Liga
+  ONDE: Sem   identificação
+  CIDADE: Chapecó/SC
+  FATO: O Canarinhos divulgou uma nota de   repúdio nas redes sociais, relatando que, durante uma revista da Guarda Municipal aos   jogadores, familiares e torcedores do time,   um dos guardas teria dito a outro “que estava ali por causa dos ‘índios’, que estariam ali   para brigar, que nem deviam ser permitidos   entrar nos campeonatos”.
+  DESDOBRAMENTO: Ainda na nota, o   clube afirmou que acionaria as autoridades   competentes. A Diretoria de Segurança Pública se manifestou, afirmando que a Guarda   Municipal esteve no local para “preservar a   ordem e garantir a segurança de todos os   participantes”.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos do caso.
+- ID: 99.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Funcionária do   Estádio Maracanã 
+  DATA: 21/11/2023
+  JOGO: Brasil x Argentina - 
+  CAMPEONATO: Eliminatórias da Copa do Mundo  
+  ONDE: Estádio Jornalista Mário Filho (Maracanã)  
+  CIDADE: Rio de Janeiro/RJ
+  FATO: Uma torcedora argentina foi detida   no Maracanã, acusada de racismo contra   uma funcionária do estádio. Testemunhas   afirmaram que a torcedora teria dito “Escuta   aqui, pedaço de macaca. É a minha vez!”.
+  DESDOBRAMENTO: A torcedora foi encaminhada ao Jecrim (Juizado Especial Criminal) do estádio, onde teve a prisão em   flagrante decretada. Após audiência de custódia, a prisão foi convertida para preventiva. Ela recebeu um alvará de soltura com a   condição de não sair do Brasil até o final do   processo. Em audiência, a torcedora confessou a ofensa.
+  COMO TERMINOU: O Ministério Público do   Rio de Janeiro ofereceu à torcedora um acordo de não persecução penal, que foi aceito   pela Justiça. A torcedora se comprometeu a   comprar óleo de motor para a Polícia Militar,   encerrando o processo.
+- ID: 100.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Policial Militar
+  DATA: 21/11/2023
+  JOGO: Brasil x Argentina - 
+  CAMPEONATO: Eliminatórias da Copa do Mundo  
+  ONDE: Estádio Jornalista Mário Filho (Maracanã)  
+  CIDADE: Rio de Janeiro/RJ
+  FATO: Segundo relato de um policial militar, durante uma confusão na arquibancada,   uma torcedora argentina teria chamado um   policial de “macaco”.
+  DESDOBRAMENTO: A torcedora foi encaminhada ao Jecrim por desacato à autoridade, conforme informado pelo delegado   de plantão. O policial não registrou queixa   por racismo.
+  COMO TERMINOU: O caso não   teve sequência.
+- ID: 101.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Victor Ferreira,   fotógrafo do Vitória 
+  DATA: 25/11/2023
+  JOGO: Chapecoense x EC Vitória
+  CAMPEONATO: Brasileiro - Série B
+  ONDE:  Arena Condá
+  CIDADE: Chapecó/SC
+  FATO: Em nota de repúdio, o Vitória denunciou que o fotógrafo do clube foi   alvo de racismo por parte de torcedores   da Chapecoense.
+  DESDOBRAMENTO: “Em entrevista, Victor   relatou que os torcedores teriam dito que o   baiano é “macaco, vagabundo, vai vender   rede”. A Chapecoense se manifestou em   nota repudiando os atos e informou que os   fatos seriam apurados.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID: 102.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Atleta do Columbia   Esporte Clube
+  DATA: 25/11/2023
+  JOGO: Sem identificação  
+  CAMPEONATO: Sem identificação
+  ONDE:  Campo da Escola de Futebol do Rodrigo Posso - 
+  CIDADE: Ipatinga/MG
+  FATO: Uma mulher teria gritado da arquibancada “Chuta a canela deste Preto” para   um jogador do Columbia Esporte Clube.
+  DESDOBRAMENTO: O jogador relatou o   episódio ao árbitro da partida, resultando   na suspensão do jogo. A polícia foi acionada,   mas a mulher conseguiu fugir do local sem   ser identificada. Duas testemunhas confirmaram o relato do jogador, e um boletim de   ocorrência foi registrado.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID: 103.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Gustavo Vintecinco,   atleta do Bidulas Futsal
+  DATA: 02/12/2023
+  JOGO: Sem identificação  
+  CAMPEONATO: Campeonato Municipal - 
+  ONDE: Ginásio de Esportes Arturzão
+  CIDADE:  Mongaguá/SP
+  FATO: Durante uma provocação entre torcidas, um homem foi filmado supostamente   imitando um macaco em direção ao jogador   Gustavo. Segundo relatos, o homem teria   chamado o atleta de “gorilão”. A Polícia Militar   foi acionada, e os envolvidos foram levados   à delegacia, onde um boletim de ocorrência   foi registrado.
+  DESDOBRAMENTO: Em seu depoimento à   polícia, Gustavo relatou que em outra partida   havia marcado gols e comemorado abrindo os   braços e estufando o peito. Ele estava na arquibancada devido a uma suspensão quando   foi intimidado por um homem que disse “Comemora agora, seu gorilão”. O suspeito alegou   que estava apenas reproduzindo a comemoração de Gustavo como forma de provocação,   negando qualquer intenção de ofensa verbal   ou imitação de um macaco. A polícia informou que abriu uma investigação para apurar   os fatos e que não houve prisão em flagrante,   pois havia testemunhas para ambas as versões.   Em nota, a Prefeitura de Mongaguá repudiou   o ato e informou que tomaria providências. O   Bidulas Futsal também emitiu uma nota lamentando o ocorrido.
+  COMO TERMINOU: Não foram encontradas   informações sobre a sequência do caso. Por se   tratar de um caso do âmbito criminal, ele corre   em segredo de justiça, impossibilitando a obtenção de informações sobre seu desenrolar.
+- ID: 104.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Pablo Henrique,   atleta de futebol amador 
+  DATA: 30/12/2023
+  JOGO: Sem identificação - 
+  CAMPEONATO: Torneio de Famílias
+  ONDE:  Sem identificação
+  CIDADE: Cachoeira Dourada/  GO
+  FATO: Durante uma partida de futebol,   enquanto cobrava um escanteio, o jogador   Pablo Henrique foi chamado de “macaco” e   “pau de fumo” por um torcedor.
+  DESDOBRAMENTO: Após o término da   partida, a Polícia Militar foi acionada e o   autor dos insultos foi preso em flagrante. O   atleta registrou um boletim de ocorrência.
+  COMO TERMINOU: Em relação ao boletim de ocorrência, por ser um caso do   âmbito criminal, ele corre em segredo de   justiça, sem ter como obter informações do  seu desenrolar.  
+- ID: 222.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 05/02/2023
+  JOGO: Mallorca x Real Madrid
+  CAMPEONATO: La Liga
+  ONDE: Estadio  Mallorca Son Moix
+  CIDADE: Palma de Mallorca/  ESPANHA
+  FATO: O jogador Vinicius Jr. foi alvo de ofensas racista durante o jogo contra o Mallorca.  A transmissão do jogo pelo canal DAZN, captou a voz de um torcedor dizendo “Vinicius  macaco, Vinicius é um macaco”.
+  DESDOBRAMENTO: A LaLiga iniciou uma  investigação e apresentou uma denúncia ao  Juizado de Instrução de Palma de Mallorca  e à Real Federação Espanhola de Futebol  (RFEF). A Polícia Espanhola identificou o  agressor. Em nota, o Mallorca informou  que adotaria medidas cautelares contra o  sócio. Em depoimento à justiça de Palma de  Mallorca, o jogador afirmou não ter ouvido  os insultos durante o jogo, mas que se sentiu  ofendido e expressou o desejo de ser indenizado pelo ocorrido. O torcedor confessou as  ofensas racistas em depoimento à justiça e  pediu desculpas ao jogador.
+  COMO TERMINOU: O torcedor recebeu  uma suspensão de três anos por parte do  Mallorca e foi sancionado pela Comissão  Estatal Contra Violência, Racismo, Xenofobia e Intolerância no Esporte da Espanha  com uma multa de 4 mil euros, além de uma  proibição de frequentar estádios por um ano.  A Justiça de Mallorca ainda não emitiu uma  decisão sobre o caso.
+- ID: 223.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 18/02/2023
+  JOGO: Osasuna x Real Madrid
+  CAMPEONATO: La Liga
+  ONDE: Estádio  Reyno de Navarra
+  CIDADE: Pamplona/ESPANHA
+  FATO: Em sua rede social, o atacante do Real  Madrid, Vinicius Jr. denunciou ter sido vítima  de ofensas racistas, por parte dos torcedores  do Osasuna.
+  DESDOBRAMENTO: Um vídeo publicado  nas redes sociais flagrou um torcedor do Osasuna dizendo “pelo menos o maldito  preto não marcou” durante a comemoração  dos jogadores após o segundo gol do Real  Madrid. A LaLiga registrou uma denúncia na  Justiça de Pamplona.
+  COMO TERMINOU: A Justiça de Pamplona  arquivou a denúncia, pois o autor da ofensa  não foi identificado.
+- ID: 224.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Marcus Wendel Valle da Silva,  atleta do Zenit
+  DATA: 25/02/2023
+  JOGO: Volga Ulyanovsk x  Zenit
+  CAMPEONATO: Copa da Rússia
+  ONDE:  Estádio Trud
+  CIDADE: Tomsk/RÚSSIA
+  FATO: O volante Wendel, do Zenit, foi vítima  de racismo por parte de torcedores do Volga,  ao ser substituído durante a partida.
+  DESDOBRAMENTO: Enquanto o jogador  saía do campo, uma banana foi lançada em  sua direção vinda da arquibancada. A Premier  League Russa condenou o ato. O incidente  foi relatado pelo inspetor da partida ao comitê disciplinar. Em sua conta no Instagram,  o jogador brasileiro se pronunciou “fogo neles”. Os clubes não se manifestaram sobre o caso. O agressor foi identificado pelas câmeras do estádio.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a sequência  do caso.
+- ID: 225.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Reinier Jesus Carvalho,  atleta do Girona Futbol Club
+  DATA: 04/03/2023
+  JOGO: Getafe x Girona -
+  CAMPEONATO: La Liga
+  ONDE: Coliseum Alfonso Pérez
+  CIDADE: Getafe/ESPANHA
+  FATO: Após partida contra o Getafe, Reinier,  meio-campo do Girona usou as redes sociais  para denunciar um caso de racismo que teria  ocorrido durante o jogo.
+  DESDOBRAMENTO: Conforme relato, o  lateral-direito Damián Suárez teria proferido palavras em tom racista. Segundo a  imprensa espanhola, Ranier foi chamado de  “macaco” por Suárez, que teria proferido a  palavra com a mão na boca para que o ato  não pudesse ser captado. Os clubes não se  manifestaram sobre o caso.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a sequência  do caso.
+- ID: 226.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 05/03/2023
+  JOGO: Betis x Real Madrid -
+  CAMPEONATO: La Liga
+  ONDE: Estádio Benito  Villamarín
+  CIDADE: Sevilha/ESPANHA
+  FATO: Torcedores do Betis entoaram cânticos racistas com gritos de “macaco” a Vinicius Jr. na arquibancada inferior, atrás de um  dos gols do estádio Benito Villamarin .
+  DESDOBRAMENTO: A ofensa foi registrada  pelas câmeras de televisão durante a transmissão. A LaLiga denunciou o incidente ao  Juizado de Instrução de Sevilha. Um torcedor  do Betis foi identificado pela polícia espanhola. O jogador, o suspeito e testemunhas  prestaram depoimento por vídeo chamada  ao Tribunal de Sevilha.
+  COMO TERMINOU: O caso ainda não foi  julgado pela Justiça de Sevilha
+- ID: 227.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 19/03/2023
+  JOGO: Barcelona x Real Madrid
+  CAMPEONATO: La Liga
+  ONDE: Estádio  Camp Nou
+  CIDADE: Barcelona/ESPANHA
+  FATO: Gritos de “macaco” e “morra” foram  proferidos a Vinicius Jr. nas arquibancadas do  Camp Nou, pela torcida do Barcelona.
+  DESDOBRAMENTO: Em nota, a LaLiga afirmou que mais uma vez se observou comportamento racista intolerável contra Vinicius Jr.”  e que denunciou o caso ao Tribunal de Instrução de Barcelona. Após o caso, a entidade  anunciou que para agilizar no processo de  identificação de casos de racismo durante as  partidas e na identificação dos autores, criou  um canal de denúncias em seu site. Não foram encontradas informações de que os autores das ofensas tenham sido identificados.
+  COMO TERMINOU: Apesar do fato ter  sido denunciado, não foram encontradas  informações de julgamento pelo Tribunal  de Instrução de Barcelona.
+- ID: 228.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 25/04/2023
+  JOGO: Girona x Real Madrid -
+  CAMPEONATO: La Liga
+  ONDE: Estádio Montilivi 
+  CIDADE: Girona/ESPANHA
+  FATO: Torcedores do Girona proferiram gritos de “macaco”, após Vini Jr. marcar um gol  pelo Real Madrid.
+  DESDOBRAMENTO: Um vídeo com as  ofensas foi publicado no X (antigo Twitter)  e torcedores condenaram o ato. Os clubes e  a LaLiga não se manifestaram sobre o caso.
+  COMO TERMINOU: O caso não teve sequência.
+- ID: 229.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Képler Laveran de Lima  Ferreira (Pepe),  atleta do Futebol Clube do Porto
+  DATA: 04/05/2023
+  JOGO: Porto x Famalicão 
+  CAMPEONATO: Taça de Portugal
+  ONDE: Estádio do Dragão
+  CIDADE: Porto/PORTUGAL
+  FATO: Pepe, zagueiro do Porto, acusou o  meia Santiago Colombatto de racismo. Durante a paralisação da partida para atendimento médico a Colombatto, os jogadores  iniciaram uma discussão, uma câmera de  transmissão captou o momento em que  Pepe falou ao árbitro “Você sabe o que é  “mono”? Ele me chamou de macaco!”.
+  DESDOBRAMENTO: Após a discussão o  jogo foi retomado. Em entrevista no final  da partida, Pepe afirmou que Colombatto o  chamou de “macaco” e condenou a postura do árbitro, que segundo o atleta, ouviu a  ofensa. Pepe apresentou queixa à Polícia de  Segurança Pública de Portugal. Em comunicado publicado nas redes sociais, Colombatto negou a acusação. O Conselho de Disciplina da Federação Portuguesa de Futebol abriu  uma investigação sobre o caso.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a queixa feita à  polícia. Santiago Colombatto foi absolvido  pelo Conselho de Disciplina da Federação  Portuguesa de Futebol por falta de provas.  Após decisão, via comunicado, o Porto acusou o Conselho de Disciplina de ignorar provas e afirmou que solicitou áudios e imagens  do VAR à direção de arbitragem da Federação  Portuguesa de Futebol. Não foram encontradas informações de que o Porto tenha  recorrido da decisão.
+- ID: 230.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 21/05/2023
+  JOGO: Valencia x Real Madrid
+  CAMPEONATO: La Liga
+  ONDE: Estádio de  Mestalla
+  CIDADE: Valencia/ESPANHA
+  FATO: Vini Jr., atacante do Real Madrid, denunciou ao árbitro Ricardo de Burgos que  ouviu gritos de “macaco” proferidos pela  torcida do Valencia no estádio Mestalla. A  partida foi paralisada e o sistema de som do  estádio fez um alerta para que a torcida parasse com os insultos. Após oito minutos, a  partida foi retomada.
+  DESDOBRAMENTO: Em entrevista após  o final da partida, Carlo Ancelotti, técnico  do Real Madrid, saiu em defesa do jogador.  Em nota, a La Liga informou que o incidente  seria investigado e, se necessário, tomaria as  medidas cabíveis. O Valencia, em comunicado, classificou o caso como um episódio  isolado e condenou o ato. Nas redes sociais,  Vinicius Jr. desabafou “Vou até o fim contra  os racistas. Mesmo que longe daqui”. Em  nota, o Real Madrid informou que fez uma  denúncia de crime de ódio ao Ministério Público da Espanha.  Após investigação, foi constatado em vídeos  fornecidos pela promotoria espanhola que  torcedores também haviam proferido ofensas racistas antes do início da partida, fora  do estádio. Em relação às ofensas ocorridas  dentro do estádio, três torcedores do Valencia foram identificados e detidos por crime de  ódio e liberados para responder em liberdade  após prestarem depoimento. Com a repercussão do caso, entidades brasileiras fizeram  denúncias à Justiça Espanhola, e o governo  brasileiro cobrou medidas das autoridades.  Os torcedores acusados e o atleta prestaram  depoimento à Justiça da Espanha. Os advogados dos acusados justificaram que Vinicius Jr. sofre ataques por ser “provocador”.  Após o depoimento do jogador, o Valencia  emitiu um comunicado, acusando o jogador  de proferir “mentiras” ao declarar que todo  o estádio proferiu insultos, exigindo uma  retratação pública.
+  COMO TERMINOU: A Real Federação Espanhola de Futebol determinou o fechamento  do setor onde ocorreram as ofensas por cinco jogos e multou o Valencia em R$ 240 mil.  Após recurso do Valencia, o fechamento do  setor foi reduzido para três jogos e a multa  para R$ 144 mil.  Em relação às ofensas ocorridas fora do estádio, a Justiça Espanhola arquivou o caso  por falta de provas que pudessem identificar os autores. Quanto às ofensas ocorridas  dentro do estádio, a Justiça Espanhola condenou três torcedores a 8 meses de prisão  e proibiu-os de frequentar o estádio por 2  anos. Como são réus primários e a pena é  inferior a dois anos, a pena pode ser cumprida em liberdade.
+- ID: 231.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Éder Gabriel Militão,  atleta do Real Madrid Club de Fútbol
+  DATA: 21/05/2023
+  JOGO: Valencia x Real Madrid
+  CAMPEONATO: La Liga
+  ONDE: Estádio de  Mestalla
+  CIDADE: Valencia/ESPANHA
+  FATO: Durante a investigação para apurar os  insultos racistas sofridos por Vini Jr. no estádio Mestalla, a La Liga constatou que Éder  Militão, zagueiro do Real Madrid, também foi  vítima de insultos durante a partida contra  o Valencia.
+  DESDOBRAMENTO: A La Liga informou o caso à Justiça espanhola, e Militão foi convocado para prestar depoimento ao Tribunal de Madrid. Em seu depoimento, Militão  confirmou os insultos e afirmou que se  sentiu ofendido.
+  COMO TERMINOU: O processo criminal  segue em andamento na Justiça da Espanha.
+- ID: 232.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 17/06/2023
+  JOGO: Brasil x Guiné
+  CAMPEONATO: Amistoso
+  ONDE: Estádio RCDE (Cornellà-El Prat)
+  CIDADE: Barcelona/ESPANHA
+  FATO: Um pôster com a imagem de Vini  Jr. foi rasgado no estádio Santiago Bernabéu antes da partida entre Real Madrid e  Rayo Vallecano.
+  DESDOBRAMENTO: O ato foi denunciado  por um jornalista no X (antigo Twitter), que  relatou que semanas antes do jogo, o pôster  estava intacto. A imagem de outro jogador  no mesmo pôster foi preservada. Antes da  partida, Vini Jr. recebeu apoio do clube e da  torcida após o caso de racismo ocorrido no  jogo contra o Valencia.
+  COMO TERMINOU: Não foram encontradas outras informações sobre o caso.
+- ID: 233.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Felipe Silveira,  assessor do atleta Vinicius Junior
+  DATA: 25/06/2023
+  JOGO: Eldense x Real Madrid  Castilla Club de Fútbol
+  CAMPEONATO: Primera  Federación
+  ONDE: Estádio Municipal Nuevo Pepico Amat
+  CIDADE: Madrid/ESPANHA
+  FATO: Felipe Silveira, assessor de Vini Jr.,  afirmou que durante a revista para acessar  o estádio Cornellà-El Prat, o segurança que o  revistou tirou uma banana do bolso, apontou  para ele e disse “Mão pra cima, essa aqui é  minha pistola”.
+  DESDOBRAMENTO: Felipe e outros três  membros da equipe do jogador chamaram a  polícia. O segurança negou ter feito qualquer  ofensa racista, mas testemunhas confirmaram que ele estava com uma banana. A equipe do jogador solicitou as imagens das câmeras de segurança e foi informada que uma  queixa deveria ser registrada na delegacia.  Em comunicado, a CBF informou que, ao tomar conhecimento do caso, acionou a polícia  e os organizadores do jogo para apoiarem a  vítima. Em nota, Vini Jr. lamentou o ocorrido  e cobrou a divulgação das imagens das câmeras de segurança. Felipe prestou queixa à  Polícia de Barcelona.
+  COMO TERMINOU: Não foram encontradas mais informações sobre o andamento  do caso.
+- ID: 234.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius Augusto Tobias da  Silva (Vinicius Tobias),  atleta do Real Madrid  Castilla Club de Fútbol
+  DATA: 25/06/2023
+  JOGO: Eldense x Real Madrid  Castilla Club de Fútbol
+  CAMPEONATO: Primera  Federación
+  ONDE: Estádio Municipal Nuevo Pepico Amat
+  CIDADE: Madrid/ESPANHA
+  FATO: Vinicius Tobias, lateral-direito do Real  Madrid B, foi chamado de “mono” (“macaco”  em espanhol) por uma criança na arquibancada, enquanto cobrava um lateral.
+  DESDOBRAMENTO: Nas redes sociais,  o jogador postou um vídeo com a ofensa  e desabafou “O mais triste é quando não  esperamos isso de uma criança! Uma criança me chamando de mono! É triste ver os  jogadores passando por esses tipos de preconceitos.”. Os clubes não se manifestaram  sobre o incidente.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre o caso.
+- ID: 235.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Luis Gabriel Santos Silva,  atleta Oratory Youths Football Club
+  DATA: 09/10/2023
+  JOGO: Ghajnsielem x Oratory Youths
+  CAMPEONATO: Primeira divisão de  Gozo
+  ONDE: Gozo Stadium
+  CIDADE: Ilha de  Gozo/MALTA
+  FATO: Luis Gabriel, zagueiro do Oratory Youths, afirmou ter sido chamado de “macaco”  por um jogador do Għajnsielem.
+  DESDOBRAMENTO: Em entrevista, o jogador contou que, após relatar a ofensa ao  árbitro, foi advertido com um cartão amarelo. Luis Gabriel também mencionou que foi  procurado pela Federação de Malta, que afirmou que tomaria as providências necessárias. Em comunicado oficial, o Oratory, clube  de Luis Gabriel, expressou solidariedade ao  jogador e pediu que as autoridades de Malta  tomassem medidas.
+  COMO TERMINOU: Não foram encontradas outras informações sobre a sequência  do caso.
+- ID: 236.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 21/10/2023
+  JOGO: Real Madrid x Sevilla -
+  CAMPEONATO: La Liga
+  ONDE: Ramón Sánchez  Pizjuán Stadium
+  CIDADE: Sevilla/ESPANHA
+  FATO: Durante uma discussão entre Vini Jr.  e jogadores do Sevilla, câmeras de TV flagraram um homem imitando um macaco em  direção ao jogador. Segundo relatos, houve  registros de gritos de “macaco” e sons que  imitavam o animal em alguns momentos  do jogo.
+  DESDOBRAMENTO: Em nota de repúdio,  o Sevilla informou que, após identificar o  comportamento racista e xenofóbico de  um torcedor, ele foi conduzido às autoridades e retirado do estádio. O clube também  afirmou que procedimentos internos seriam  realizados de acordo com sua política. Nas  redes sociais, o jogador elogiou a agilidade  do clube na identificação do torcedor. A  LaLiga apresentou uma denúncia à Justiça  de Sevilha.
+  COMO TERMINOU: O Sevilla excluiu o  torcedor do quadro de sócios. Em relação  à denúncia apresentada pela LaLiga, o procedimento está aguardando a decisão do  Ministério Público.
+- ID: 237.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de  Oliveira Júnior (Vini Jr.),  atleta do Real Madrid Club de Fútbol
+  DATA: 28/10/2023
+  JOGO: Barcelona x Real Madrid
+  CAMPEONATO: La Liga
+  ONDE: Estádio  Olímpico Lluís Companys
+  CIDADE: Barcelona/  ESPANHA
+  FATO: Em vídeos divulgados nas redes  sociais, torcedores do Barcelona foram flagrados proferindo insultos racistas a Vini Jr.  Além disso, segundo o jornal “Marca”, um  objeto semelhante a uma banana foi arremessado no momento em que o jogador  foi substituído.
+  DESDOBRAMENTO: Em nota oficial, a LaLiga informou que estava em contato com a  polícia e o Barcelona e que trabalharia para  identificar os autores das ofensas. A entidade também fez uma denúncia à Polícia  da Catalunha.
+  COMO TERMINOU: Não foram encontradas outras informações sobre o caso.

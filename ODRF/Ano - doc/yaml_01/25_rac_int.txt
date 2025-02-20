@@ -1,0 +1,233 @@
+- ID:  105.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Kayky da Silva Chagas, atacante do Esporte Clube Bahia
+  DATA: 30/01/2023 
+  ONDE: Rede Social/X (antigo Twitter)
+  FATO: Um torcedor do Vitória, fez uma postagem na rede social X, comparando oatacante Kayky, do Bahia, com um macaco.
+  DESDOBRAMENTO: Após a repercussão, a postagem foi removida. Em nota, o Bahia expressou seu repúdio ao incidente e comunicou que denunciou a conta na rede social e registrou um boletim de ocorrência. O Vitória não se pronunciou sobre o caso.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso. Em relação ao boletim de ocorrência, por se tratar de um caso no âmbito criminal, ele corre em segredo de justiça, impossibilitando a obtenção de informações sobre seu desenrolar.
+- ID:  106.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Luan, do São Paulo, é vítima de racismo em rede social
+  DATA: 26/02/2023
+  ONDE: Rede Social/Instagram
+  FATO: O volante Luan, do São Paulo, compartilhou em seu perfil no Instagram uma mensagem que recebeu de um usuário o chamando de “macaco”.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso. Em relação ao boletim de ocorrência, por se tratar de um caso no âmbito criminal, ele corre em segredo de justiça, impossibilitando a obtenção de informações sobre seu desenrolar.
+- ID:  107.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Robert Renan Alves Barbosa (Robert Renan), atleta da Seleção Brasileira de Futebol
+  DATA: 31/05/2023 
+  ONDE: Rede Social/Instagram
+  FATO: Nas redes sociais, o zagueiro Robert Renan expôs mensagens recebidas por direct contendo emojis de macacos e ofensas como “negro” e “macaco” em espanhol, após o jogo contra a Tunísia pelo Mundial Sub-20na Argentina.
+  DESDOBRAMENTO: Em nota, a CBF condenou o ato e informou que enviou uma representação à FIFA em protesto contra os atos racistas sofridos pelo zagueiro. A entidade informou ainda, que protocolou os perfis dos autores das ofensas e enviaria à justiça local e à FIFA, pedindo punições.
+  COMO TERMINOU: Não foram encontradas mais informações sobre a sequência do caso.
+- ID:  108.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Bruno Ferreira Mombra Rosa (Bruno Mezenga), atleta do Santos Futebol Clube
+  DATA: 01/06/2023 
+  ONDE: Rede Social/WhatsApp
+  FATO: Bruno Mezenga, atacante do Santos, foi chamado de “macaco” em um grupo de torcedores do clube em um aplicativo de mensagens.
+  DESDOBRAMENTO: O registro da conversa foi enviado ao empresário do jogador, que comunicou o Santos sobre o caso. O jogador registrou um boletim de ocorrência. Em nota, o jogador condenou o ato. Nas redes sociais, o Santos manifestou apoio ao jogador, repudiou o ato e informou que o autor da ofensa foi identificado. Uma investigação foi aberta pela Polícia Civil. À Justiça, o torcedor confessou o ato e afirmou que procurou o clube e o atleta pedindo desculpas.
+  COMO TERMINOU: O torcedor foi condenado a uma pena de reclusão de dois anos, mas a punição foi substituída pela prestação de serviços a uma entidade pelo mesmo período e ao pagamento de um salário mínimo a uma entidade social. Não foram encontradas informações sobre se o torcedor recorreu da decisão.
+- ID:  109.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Torcedoras do Esporte Clube Bahia
+  DATA: 06/06/2023 
+  ONDE: Rede Social/X(antigo Twitter)
+  FATO: Após o sorteio das quartas de final da Copa do Brasil, um perfil identificado no X como “Chief” publicou na rede social uma montagem com torcedoras negras do Bahia ao lado de torcedoras brancas do Grêmio, acompanhada da mensagem “para quem vocês vão torcer?”.
+  DESDOBRAMENTO: Na rede social, a publicação repercutiu, com comentários repudiando a postagem. Em nota, o Bahia comunicou que as torcedoras entraram em contato com o clube, informando que abriram um boletim de ocorrência por uso indevido de imagem e buscariam indenização. O clube também informou que colocou seu departamento jurídico à disposição das torcedoras e prestaria o suporte necessário. A Secretaria Estadual de Promoção da Igualdade Racial e dos Povos e Comunidades Tradicionais (Sepromi) da Bahia repudiou o ato através de uma nota e se colocou à disposição das torcedoras.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso. Por se tratar de um caso de âmbito criminal, o processo corre em segredo de justiça, impossibilitando a obtenção de informações sobre seu desenrolar.
+- ID:  110.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Comentários racistas na rede social do Club Atlético Patronato
+  DATA: 11/07/2023 
+  ONDE: Rede Social/Instagram
+  FATO: Antes da partida com o Botafogo pela Sul-Americana, o Patronato compartilhou em suas redes sociais uma nota contra o racismo e xenofobia, comprometendo-se a “tomar todas as medidas cabíveis” contra qualquer indivíduo que cometesse tais atos dentro do clube. No Instagram, a publicação recebeu comentários ofensivos e racistas. Entre as ofensas, um perfil comentou “vamos tratar bem os familiares do Tarzan”, utilizando um emoji de macaco.
+  DESDOBRAMENTO: Após os comentários, o clube não se manifestou sobre o assunto.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  111.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Matheus Gabriel Julião Damasceno, atleta do Club de Regatas Vasco da Gama
+  DATA: 15/07/2023 
+  ONDE: Rede social/Instagram
+  FATO: Matheus Julião, jogador sub-20 do Vasco, recebeu ofensas racistas pelo direct do Instagram, depois de provocar o Flamengo, após conquista do Campeonato Carioca da categoria pelo Vasco.
+  DESDOBRAMENTO: Nas mensagens, o atleta foi chamado de “macaco” e “preto f****”. O Vasco se manifestou informando que estava prestando assistência ao jogador. Não foram encontradas informações de que o atleta tenha registrado um boletim de ocorrência.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  112.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Matheus Lima Beltrão Oliveira, atleta do Sport Club Corinthians Paulista
+  DATA: 18/07/2023 
+  ONDE: Rede social/Instagram
+  FATO: Após a vitória do Corinthians sobre o Universitario do Peru, Matheus Bidu, lateral-esquerdo do Corinthians, fez uma publicação no Instagram desabafando contra o racismo e recebeu mensagens racistas.
+  DESDOBRAMENTO: O jogador expôs prints com as mensagens recebidas com ofensas como “mono”, que significa macaco em espanhol e emojis de bananas e macaco.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  113.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Comentários racistas na rede social do Club Atlético River Plate
+  DATA: 01/08/2023 
+  ONDE: Rede Social/X (antigo Twitter)
+  FATO: Na rede social X, torcedores denunciaram comentários racistas feitos por alguns torcedores do River Plate em uma postagem com a frase “o racismo não joga hoje”, publicada no perfil oficial do clube.
+  DESDOBRAMENTO: O clube não se manifestou sobre o caso.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  114.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Torcedores do Clube de Regatas do Flamengo
+  DATA: 10/08/2023 
+  ONDE: Rede Social/X (antigo Twitter)-
+  FATO: Na rede social X, uma publicação feita pelo Olimpia antes da partida contra o Flamengo, pedindo que seus torcedores não cometessem atos discriminatórios, recebeu comentários racistas.
+  DESDOBRAMENTO: Os comentários incluíam fotos de um macaco com a camiseta do Flamengo, além de emojis de macacos e bananas. O clube não se manifestou após o episódio.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  115.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Enner Remberto Valencia Lastra, atleta do Sport Club Internacional
+  DATA: 04/10/2023 
+  ONDE: Rede Social/X (antigo Twitter)
+  FATO: Enner Valencia, atacante do Internacional, foi chamado de “macaco”, “preto” e “preto imundo” em postagens no X.
+  DESDOBRAMENTO: Após a repercussão nas redes sociais, alguns perfis que publicaram as ofensas foram excluídos. Em nota, o Internacional repudiou os ataques e informou que os atos não ficariam impunes, prometendo encaminhar o caso às autoridades.
+  COMO TERMINOU: Não foram encontradas informações de que o clube ou o atleta tenha realizado uma denúncia formal às autoridades.
+- ID:  116.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Welder de Jesus Costa, atacante do Esporte Clube Vitória
+  DATA: 20/10/2023 
+  ONDE: Rede social/Instagram
+  FATO: Welder, atacante do Vitória, publicou no story do seu Instagram um print de uma mensagem racista que recebeu por direct, onde foi chamado de “macaco imundo”.
+  DESDOBRAMENTO: Em nota, o Vitória lamentou o episódio, manifestou apoio ao jogador e informou que tomaria as medidas cabíveis.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre o caso.
+- ID:  117.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Comentários racistas nas redes sociais do Fluminense Football Club
+  DATA: 31/10/2023
+  ONDE: Redes sociais/Instagram e X (antigo Twitter)
+  FATO: Antes da partida contra o Boca Juniors pela Libertadores, publicações nas redes sociais do Fluminense receberam diversos comentários racistas com emojis de banana e macaco.
+  DESDOBRAMENTO: O presidente da Comissão de Combate à Discriminação da Alerj encaminhou uma notificação ao Ministério Público do Estado do Rio de Janeiro (MPRJ) com prints dos comentários. Os clubes nãose manifestaram sobre o episódio.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID:  118.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO:  Marcelo Vieira da Silva Júnior, atleta do Fluminense Football Club
+  DATA: 02/11/2023 
+  ONDE: Rede Social/X (antigo Twitter)
+  FATO: Antes da partida entre Fluminense e Boca Junior pela Libertadores, um vídeo publicado no X pela CONMEBOL, com uma entrevista do lateral-esquerdo do Fluminense Marcelo, recebeu comentários com imagens e emojis de macacos e bananas.
+  DESDOBRAMENTO: A publicação também recebeu ofensas como “Comida favorita… óbvio, banana” e “Abriram a porta do zoológico?”. A CONMEBOL e os clubes não se manifestaram sobre o episódio.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  119.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Paulo Henrique Sampaio Filho (Paulinho), atleta da Seleção Brasileira de Futebol
+  DATA: 16/11/2023 
+  ONDE: Rede Social/X(antigo Twitter)
+  FATO: Após estrear pela Seleção Brasileira principal, o atacante Paulinho, praticante do Candomblé, foi alvo de intolerância religiosa na rede social X. Usuários fizeram diversos comentários como “Se macumba funcionasse, Bahia seria rica”, “Cadê seu Exu agora, Paulinho?” e “Foi só esse macumbeiro vagabundo, desperdiçador de farofa entrar que tomamos a virada”.
+  DESDOBRAMENTO: Nas redes sociais, o Atlético-MG, clube de Paulinho, fez uma postagem repudiando os ataques e manifestando apoio ao jogador. O Vasco, clube formador de Paulinho, também se manifestou repudiando os ataques. Em sua conta oficial no X, Paulinho se pronunciou dizendo “Nossa luta é diária… Seguimos. Gratidão aos orixás”.
+  COMO TERMINOU: O caso nãoteve sequência.
+- ID:  120.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Rodrygo Silva de Goes, atleta da Seleção Brasileira de Futebol
+  DATA: 23/11/2023 
+  ONDE: Rede sociais/Facebook, Integram e X (antigo Twitter)
+  FATO: As redes sociais de Rodrygo, atacante da Seleção Brasileira sofreram ataques racistas com diversas mensagens com emojis de macaco e banana, após a divulgação da leitura labial de um bate-boca com Messi no clássico entre Brasil e Argentina.
+  DESDOBRAMENTO: Rodrygo publicou um desabafo nas redes sociais, afirmando que continuaria lutando contra o racismo. Um relatório com 107 perfis com possível identificação dos responsáveis foi encaminhado ao Ministério Público do Rio de Janeiro (MPRJ) para investigação.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso. 
+- ID:  121.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Comentários racistas na rede social da Confederação Brasileira de Futebol
+  DATA: 24/11/2023 
+  ONDE: Rede socias/Instagram
+  FATO: No Instagram, o perfil da Confederação Brasileira de Futebol (CBF) foi alvo de comentários racistas, com mensagens comparando jogadores e torcedores brasileiros a macacos e chamando Ednaldo Rodrigues, presidente da entidade, de “índio”.
+  DESDOBRAMENTO: Em comunicado, a CBF afirmou que “esse tipo de crime não será tolerado” e informou que o caso foi comunicado às autoridades policiais, enviou ofícios à FIFA e à CONMEBOL, e denunciou os perfis ao Instagram.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID:  122.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Paulo Henrique Sampaio Filho (Paulinho), atleta do Clube Atlético Mineiro
+  DATA: 29/11/2023 
+  ONDE: Redes sociais/ Instagram e X (antigo Twitter)
+  FATO: Paulinho, atacante do Atlético-MG, foi alvo de intolerância religiosa no Instagram em fotos da comemoração do gol durante o jogo contra o Flamengo. Usuários se referiram ao atleta como “macumbeiro”.
+  DESDOBRAMENTO: No X, o Atlético-MG publicou uma nota repudiando o ato e afirmando que estava à disposição do jogador para tomar as medidas cabíveis contra os autores das ofensas.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso. 
+- ID:  123.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Comentário racista na rede social do Esporte Clube Bahia
+  DATA: 29/11/2023 
+  ONDE: Redes socia/X (antigo Twitter)
+  FATO: Após a derrota para o São Paulo no Campeonato Brasileiro, o perfil do Bahia na rede social X foi alvo de intolerância religiosa.
+  DESDOBRAMENTO: Um usuário, que afirma ser torcedor do clube, comentou na publicação de lançamento da camisa em homenagem às religiões de matriz africana “Tirem essa desgraça de homenagem pra macumba que está fixada aqui no perfil oficial do clube. Com essas crenças infernais, vocês estão amaldiçoando a p*** do Bahia, atraindo energias satânicas”. O torcedor foi denunciado ao Ministério Público da Bahia.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso. Por se tratar de um caso do âmbito criminal, ele corre em segredo de justiça, impossibilitando a obtenção de informações sobre seu desenrolar.
+- ID:  238.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Jair Diego Alves de Brito (Jajá), a atleta do FC Torpedo Moscou
+  DATA: 22/02/2023 
+  ONDE: Rede Social/Instagram
+  FATO: O atacante Jajá foi alvo de um ato racista na foto de anúncio de sua contratação no Instagram do Torpedo Moscou. Um perfil comentou na publicação com um emojide banana.
+  DESDOBRAMENTO: O clube e o jogador não se manifestaram sobre o caso.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  239.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Vinicius José Paixão de Oliveira Júnior (Vini Jr.), atleta do Real Madrid Club de Fútbol
+  DATA: 01/04/2023 
+  ONDE: Rede Social/X(antigo Twitter)
+  FATO: Um usuário, publicou uma montagem na rede social X, do jogador Vinicius Jr. reproduzido em forma de macaco. 
+  DESDOBRAMENTO: A montagem foi publicada com a legenda “Monícios Jr”, um trocadilho com a palavra “mono”, que significa macaco em espanhol e com emojis de macaco. Após repercussão negativa, o usuário excluiu a sua conta.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  240.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Wenderson Rodrigues do Nascimento Galeno (Galeno), atleta do Futebol Clube do Porto
+  DATA: 08/04/2023 
+  ONDE: Rede Social/ Instagram
+  FATO: Nos stories do seu Instagram, Galeno, atleta do Porto, denunciou insultos racistas recebidos na rede social.
+  DESDOBRAMENTO: O jogador publicou um print com comentários com emojis de macaco e as palavras “preto” e “macaco”, feitos pelo mesmo usuário. Após, o Porto publicou em seu perfil, uma foto do jogador com a hashtag “Como nós, um de nós”.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  241.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Marcos Antônio Silva Santos, atleta da Società Sportiva Lazio
+  DATA: 22/07/2023 
+  ONDE: Rede Social/X(antigo Twitter)
+  FATO: Marco Antonio, volante da Lazio, fez uma publicação em seu Instagram denunciando uma postagem racista feita por um torcedor do clube na rede social X. O torcedor agradeceu pela possível venda do jogador, que resultaria em um elenco semjogadores negros.
+  DESDOBRAMENTO: Em resposta, Marco Antonio declarou “A torcida da Lazio não é como você, não aceito o que você escreveu e nunca vou aceitar.” O clube não se manifestou sobre o caso.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  242.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Familiares de Lincoln Henrique Oliveira dos Santos, atleta do Fenerbahçe Spor Kulübü
+  DATA: 29/07/2023 
+  ONDE: Rede Social/Instagram
+  FATO: Em uma publicação no Instagram, Lincoln Henrique, meia do Fenerbahçe, denunciou uma mensagem racista enviada à sua esposa, Adriana, que dizia “Quando o Lincoln for transferido, você pode ir embora com essas crianças pretas também. Não queremos africanos na Turquia.”
+  DESDOBRAMENTO: A esposa do jogador afirmou que iria denunciar formalmente o ato racista. Nas redes sociais, torcedores do Fenerbahçe e do rival Galatasaray enviaram mensagens de solidariedade a Lincoln e sua família.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID:  243.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Otávio Ataide da Silva, atleta do Futebol Clube Famalicão
+  DATA: 27/08/2023 
+  ONDE: Rede Social/Instagram
+  FATO: Em uma publicação em seu Instagram, Otávio, zagueiro do Famalicão, expôs prints com uma série de mensagens racistas com as ofensas “escravo”, “macaco” e“preto de m****”, enviadas por torcedores do Sporting.
+  DESDOBRAMENTO: Os clubes não se manifestaram sobre o caso.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  244.2025
+  TIPO: Racismo
+  AMBIENTE: Internet
+  TÍTULO: Bruno Guimarães Rodrigues Moura, atleta do Newcastle United Football Club
+  DATA: 04/11/2023 
+  ONDE: Rede social
+  FATO: Bruno Guimarães, jogador do Newcastle, sofreu ataques racistas nas redes sociais por parte de torcedores do Arsenal.
+  DESDOBRAMENTO: Em nota, o Newcastle condenou as ofensas, afirmou que estava prestando apoio a Bruno e que iria trabalhar com as autoridades e as redes sociais para identificar os autores.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso

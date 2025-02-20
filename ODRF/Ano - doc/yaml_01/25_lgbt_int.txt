@@ -1,0 +1,36 @@
+- ID: 169.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Internet
+  TÍTULO: Comentários homofóbicos contra torcedores do Clube do Remo
+  DATA: 30/01/2023
+  ONDE: Rede Social/Facebook
+  FATO: Um casal de torcedores do Remo fez um ensaio fotográfico com a camiseta do clube, e as fotos divulgadas pelo fotógrafo nas redes sociais receberam ataques homofóbicos no Facebook.
+  DESDOBRAMENTO: Um dos torcedores relatou que entrou em contato com um homem que havia repostado a foto com ofensas. O homem informou que não apagaria a postagem e sugeriu que o casal buscasse seus direitos na justiça. A publicação foi posteriormente apagada, e o torcedor afirmou que entraria com um processo contra o autor da ofensa.
+  COMO TERMINOU: Não foram encontradas outras informações indicando que o caso teve sequência.
+- ID: 170.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Internet
+  TÍTULO: Fiel LGBT, coletivo de torcedores do Corinthians 
+  DATA: 15/05/2023
+  ONDE: Rede Social/Instagram
+  FATO: O coletivo Fiel LGBT denunciou nas redes sociais ter recebido ameaças e ataques LGBTfóbicos após criticar cânticos homofóbicos no clássico entre Corinthians e São Paulo.
+  DESDOBRAMENTO: O criador do coletivo informou que registrou um boletim de ocorrência.
+  COMO TERMINOU: Não foram encontradas informações sobre os desdobramentos do caso.
+- ID: 171.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Internet
+  TÍTULO: Marta Vieira da Silva, atacante da Seleção Brasileira
+  DATA: 02/08/2023
+  ONDE: Rede Social/Instagram
+  FATO: Em suas redes sociais, Morotó, atacante do Rio Branco, publicou uma foto de Marta e fez ataques homofóbicos direcionados à jogadora após a eliminação do Brasil na Copa do Mundo Feminina.
+  DESDOBRAMENTO: Em nota, o Rio Branco repudiou as falas do jogador e anunciou seu afastamento. Nas redes sociais, o atleta afirmou que ele próprio havia pedido para se desligar do elenco. A Federação de Futebol do Espírito Santo (FES) também emitiu uma nota condenando as declarações do atacante.
+  COMO TERMINOU: O Rio Branco rescindiu o contrato de Morotó.
+- ID: 172.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Internet
+  TÍTULO: Comentários homofóbicos, se referindo ao Cruzeiro Esporte Clube
+  DATA: 04/12/2023
+  ONDE: Rede Social/Instagram
+  FATO: Em uma chamada de vídeo com um influenciador torcedor do Atlético-MG, o lateral-direito do Palmeiras, Marcos Rocha,referiu-se ao Cruzeiro como “Marias”.
+  DESDOBRAMENTO: Não foram encontrados outros desdobramentos.
+  COMO TERMINOU: O caso não teve sequência.

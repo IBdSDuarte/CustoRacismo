@@ -1,0 +1,22 @@
+Racismo		Estadios BR 	001 até 084
+			Internet BR		085 até 092
+			Outros BR		093 até 098
+LGBTFobia	Estadios BR		099 até 127
+			Internet BR		128 até 132
+			Outros BR		133 até 137
+Machismo	Estádios BR		138 até 145
+			Internet BR		146 até 153
+			Outros BR		154 até 157
+Xenofobia	Estádios BR		158 até 159
+			Internet BR		160 até 164
+			Outros BR		165 até 167
+Outro Esp.					168 até 207
+Racismo		Estadios GR 	208 até 216
+			Internet GR		217 até 219
+			Outros GR		220 
+Machismo	Estádios GR		221
+Outro Esp.					222 até 233
+Extraordinários				234 até 241
+Atualizacoes				242 até 245
+Complementar				246 até 250			
+

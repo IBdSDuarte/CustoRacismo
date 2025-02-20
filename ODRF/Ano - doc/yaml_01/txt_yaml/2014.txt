@@ -1,0 +1,234 @@
+1
+ Tipo: Racismo
+ Data: 22/02/2014
+ Título: Atleta Lúcio 
+ Campeonato: Campeonato Gaúcho (RS) 
+ Fato: Goleiro Lucio do São Paulo-RS, diz que foi chamado de "preto vagabundo" e "macaco" por torcedores do Pelotas. 
+ Como terminou: O torcedor (não identificado) foi preso e proibido de entrar no estádio por 720 dias. 
+2
+ Tipo: Racismo
+ Data: 02/03/2014
+ Título: Atleta Dida 
+ Campeonato: Campeonato Potiguar (RN) 
+ Fato: Goleiro Dida, do América-RN, diz que foi chamado de macaco por torcedores do Alecrim. 
+ Como terminou: Alecrim foi punido com a perda de dois mandos de campo e multa de R$ 20 mil. 
+3
+ Tipo: Racismo
+ Data: 05/03/2014 
+ Título: Arbitro Márcio Chagas 
+ Campeonato: Campeonato Gaúcho (RS) 
+ Fato:  Árbitro Márcio Chagas encontra bananas em seu carro depois do jogo entre Esportivo e Veranópolis, pelo Gauchão. 
+ Como terminou: Esportivo perdeu 9 pontos no campeonato. Recorreu da pena e diminuiu para 3 pontos, acabando rebaixado. 
+4
+ Tipo: Racismo
+ Data: 06/03/2014
+ Título: Atleta Arouca 
+ Campeonato: Campeonato Paulista (SP) 
+ Fato:  Arouca, jogador do Santos, diz que foi chamado de macaco por torcedores do Mogi Mirim. 
+ Como terminou: Mogi Mirim foi multado em R$ 50 mil. 
+5
+ Tipo: Racismo
+ Data: 09/03/2014
+ Título: Atleta Assis 
+ Campeonato: Campeonato Mineiro (MG) 
+ Fato:  Lateral esquerdo Assis, do Uberlândia-MG, acusa torcedor do Mamoré de racismo. 
+ Como terminou: O torcedor foi identificado pela polícia e preso. 
+6
+ Tipo: Racismo
+ Data: 30/03/2014
+ Título: Atleta Paulão 
+ Campeonato: Campeonato Gaúcho (RS) 
+ Fato:  Zagueiro Paulão, do Internacional, afirma que torcedor gremista fez sons de macaco ao final da partida para ele, em Gre-Nal realizado na Arena do Grêmio. 
+ Como terminou: Grêmio foi multado em R$ 80 mil. Recorreu e pena foi reduzida para pagamento de R$ 15 mil. 
+7
+ Tipo: Racismo
+ Data: 10/04/2014
+ Título: Atleta Marino 
+ Campeonato: Copa do Brasil – Paraná (PR) 
+ Fato:  Volante Marino, do São Bernardo, afirma ter sido chamado de macaco por torcedor do Paraná. 
+ Como terminou: Paraná foi multado em R$ 30 mil. Após recurso, pena foi reduzida para R$ 15 mil. 
+8
+ Tipo: Racismo
+ Data: 11/04/2014
+ Título: Técnico Antônio Carlos 
+ Campeonato: Campeonato Paulista (SP) 
+ Fato:  O técnico Antônio Carlos Buião, do Vocem, ouviu cantos racistas da torcida do clube de Birigui. 
+ Como terminou: Bandeirante foi multado em R$ 2 mil. 
+9
+ Tipo: Racismo
+ Data: 12/04/2014
+ Título: Atleta Oliveira 
+ Campeonato: Campeonato Sergipano (SE) 
+ Fato:  No confronto entre Estanciano e Confiança, pelo campeonato Sergipano, o jogador Oliveira, do time mandante, acusou Leandro Kivel, do Dragão, de ter cometido ofensas racistas. 
+ Como terminou: Por ter reagido acertando um soco no rival, Oliveira foi suspenso por quatro jogos e não comprovou te sido ofendido. Kivel não foi punido. 
+10
+ Tipo: Racismo
+ Data: 13/04/2014
+ Título: Atleta Maicon  Campeonato: Campeonato Paranaense (PR) 
+ Fato:  O radialista Lourival Santos foi acusado de chamar Maicon Silva do Londrina de macaco. 
+ Como terminou: Lourival Santos foi preso e afastado do emprego pela afiliada do SBT. 
+11
+ Tipo: Racismo
+ Data: 18/04/2014
+ Título: Atleta Reinaldo  Campeonato: Campeonato Brasileiro – Série B – Goiás (GO) 
+ Fato:  Durante a primeira rodada da série B, o atacante Reinaldo, do Luverdense, acusou os torcedores do Vila Nova-GO de o chamarem de macaco. 
+ Como terminou: Não temos a informação
+12
+ Tipo: Racismo
+ Data: 10/08/2014
+ Título: Atleta Baiano 
+ Campeonato: Copa Serrana (RS) 
+ Fato:  Em meio à confusão, o goleiro Baiano - da equipe da Serra - foi ofendido por um torcedor alviverde. 
+ Como terminou: Não temos a informação.
+13
+ Tipo: Racismo
+ Data: 25/08/2014
+ Título: Atletas do Cuiabá  Campeonato: Campeonato Brasileiro Série C – Paraíba (PB) 
+ Fato:  Pela Série C do Campeonato Brasileiro, torcedores do Treze-PB, teriam chamado jogadores do Cuiabá que estavam no banco de reserva de macacos. 
+ Como terminou: em andamento. 
+14
+ Tipo: Racismo
+ Data: 28/08/2014
+ Título: Atleta Aranha 
+ Campeonato: Copa do Brasil – Rio Grande do Sul (RS) 
+ Fato:  Durante a partida entre Grêmio e Santos, alguns torcedores da equipe Gremista xingaram o goleiro santista, Aranha, de macaco. 
+ Como terminou: Grêmio foi julgado pelo STJD e foi excluído da Copa do Brasil. Recorreu e foi penalizado com a perda de 3 pontos, sendo desclassificado da competição. 
+15
+ Tipo: Racismo
+ Data: 07/09/2014
+ Título: Atleta Igor  Campeonato: Campeonato Brasileiro – Série D – Minas Gerais (MG) 
+ Fato:  Na Série D, goleiro do Operário-MT acusou a torcida do Tombense de racismo e registrou BO (Boletim de Ocorrência). 
+ Como terminou: No STJD: Inquérito sob numero 231/STJD, não julgado. Civil: Por falta de provas, Polícia Civil de MG arquiva inquérito. Goleiro Igor é indiciado por denúncia caluniosa. 
+16
+ Tipo: Racismo
+ Data: 15/09/2014
+ Título: Atleta Jefferson 
+ Campeonato: Copa Espírito Santo (ES) 
+ Fato:  O técnico Severino Ribeiro foi acusado pelo goleiro Jefferson, do Atlético, e pelo maqueiro Admilson de chamá-los de macaco. 
+ Como terminou: Não temos a informação.
+17
+ Tipo: Racismo
+ Data: 23/09/2014
+ Título: Atleta Gil  Campeonato: Campeonato Brasileiro – São Paulo (SP) 
+ Fato:  O zagueiro Gil, do Corinthians, foi alvo de injúria racial através do Instagram. 
+ Como terminou: O atleta do Corinthians não quis registrar boletim de ocorrência. 
+18
+ Tipo: Racismo
+ Data: 27/09/2014
+ Título: Atleta Francis  Campeonato: Campeonato Brasileiro – Santa Catarina (SC) 
+ Fato:  Francis acusa zagueiro Antônio Carlos, do Avaí, de chamá-lo de macaco durante partida na Ressacada. O jogador prestou queixa e registrou Boletim de Ocorrência em uma delegacia de Florianópolis. 
+ Como terminou: Antônio Carlos, do Avaí, foi julgado pelo STJD, por injúria racial e punido com cinco jogos de suspensão e multado em R$ 10 mil. 
+19
+ Tipo: Racismo
+ Data: 15/10/2014
+ Título: Atleta Victor 
+ Campeonato: Copa Paulista (SP) 
+ Fato:  Victor Palito, do Votuporanguense, diz ter sido chamado de "macaco" por zagueiro do Independente, de Limeira. Após o jogo o atleta foi até a delegacia registrar um Boletim de Ocorrência.
+ Como terminou: Não temos a informação.
+20
+ Tipo: Racismo
+ Data: 15/10/2014
+ Título: Atleta Bruno Alves 
+ Campeonato: Copa Rio (RJ) 
+ Fato:  O árbitro José Waldson de Matos Modesto afirmou que Bruno Alves, do Macé, foi vítima de racismo durante a partida entre o Alvianil Praiano e o Friburguense, em Nova Friburgo. O grito de “macaco quer banana” veio da arquibancada. 
+ Como terminou: Friburguense perdeu dois mandos de campo e multa de R$ 10 mil.
+21
+ Tipo: Racismo
+ Data: 14/02/2014
+ Título:  Atleta Paulo César Tinga
+ Campeonato: Copa Libertadores da América (Peru)
+ Fato: Em jogo entre Real Garcilaso x Cruzeiro a cada vez que o volante Tinga, da equipe Cruzeirense, tocava na bola os torcedores faziam som de macaco.
+ Como terminou: O Real Garcilaso foi punido em R$ 27,8 mil pela Conmebol.
+22
+ Tipo: Racismo
+ Data: 14/02/2014
+ Título:  Atleta Daniel Alves
+ Campeonato: Liga BBVA (Espanha)
+ Fato: O lateral brasileiro do Barcelona comeu uma banana que foi atirada em sua direção, durante uma partida do campeonato Espanhol, entre Villareal x Barcelona.
+ Como terminou: A Federação Espanhola aplicou uma multa de 12 mil Euros. O clube identificou o torcedor e o baniu para sempre.
+23
+ Tipo: Racismo
+ Data: 23/08/2014
+ Título:  Atleta Renatinho
+ Campeonato: J-League (Japão)
+ Fato: Durante o jogo entre Yokohama F-Marinos e Kawasaki um torcedor do Yokohama F-Martino mostrou uma banana ao atacante brasileiro, Renatinho.
+ Como terminou: O Yokohama F-Marino suspendeu indefinitivamente um torcedor da equipe por mostrar uma banana em direção a um jogador brasileiro no jogo do Kawasaki Frontale na J.League.
+24
+ Tipo: Racismo
+ Data: 14/09/2014
+ Título:  Atleta Ronaldinho Gaúcho México
+ Fato: Ronaldinho é insultado de “macaco brasileiro” pelo político Carlos Treviño Núñez, da cidade mexicana de Querétano.
+ Como terminou: Três dias após o incidente, o político pediu desculpar publicar ao atleta, através da sua conta pessoal no Twitter.
+25
+ Tipo: Racismo
+ Data: 27/09/2014
+ Título:  Atleta Hulk
+ Campeonato: Campeonato Russo
+ Fato: Jogador diz que ouviu imitações de gritos de macaco vindas da arquibancada durante jogo contra o Spartak Moscou.
+ Como terminou: Spartak Moscou foi condenado pela federação russa a cumprir um jogo sem a presença as sua torcida, mais pagamento de multa no valor de 9 mil euros.
+26
+ Tipo: Racismo
+ Data: 03/10/2014
+ Título:  Atleta Wellington
+ Campeonato: Campeonato Romeno
+ Fato: O atacante Wellington, do Concordia Chiajna, denunciou que foi vítima de várias ofensas racistas de torcedores visitantes do Rapid Bucareste durante o Campeonato romeno.
+ Como terminou: A Federação Romena de Futebol (FRF) condenou o Rapid de Bucareste de jogar dois jogos no seu estádio e a uma distância de 60 quilômetros da capital, além de pagar uma multa de 5.100 euros.
+27
+ Tipo: Racismo
+ Data: 21/10/2014
+ Título:  Atleta Luiz Adriano
+ Campeonato: Campeonato Ucraniano
+ Fato: Luiz Adriano, atacante brasileiro do Shakhtar Donetsk revela ter sido vítima de racismo em jogo contra o Bate Borisov. Atacante disse que torcida adversária gritava frases racistas.
+ Como terminou: A UEFA determinou que a equipe bielorrussa jogasse uma partida com portões fechados.
+28
+ Tipo: Racismo
+ Data: 30/11/2014
+ Título:  Atleta Hulk
+ Campeonato: Campeonato Russo
+ Fato: Em jogo contra o Mordóvia Saransk, o atacante Hulk, do Zenit, acusou o árbitro de ofensa racista durante partida na Rússia.
+ Como terminou: O árbitro Alexei Matyunin foi inocentado por falta de provas ou testemunhas na acusações do atacante Hulk. O árbitro já havia sido condenado e suspenso em 2011 por injúria racial quando falava com um jogador da região Norte do Cáucaso da Rússia durante um jogo.
+29
+ Tipo: Racismo
+ Data: 12/06/2014
+ Título:  Torcedores Brasileiros
+ Fato: Após a vitória do Brasil sobre a seleção da Croácia por 3 a 1, na estreia da Seleção Brasileira na Copa do Mundo de 2014, alguns internautas brasileiros xingaram o lateral brasileiro, Marcelo, nas redes sociais, em virtude do gol contra feito por ele na partida. Frases como "tinha que ser preto", “tira esse preto do jogo” e "se fosse branco não faria uma merda dessas", foram lamentavelmente reproduzidas em várias redes sociais.
+30
+ Tipo: Racismo
+ Data: 12/06/2014
+ Título:  Torcedores Croatas
+ Fato: A torcida croata foi acusada de levantar cartazes racista, antissemitas e neonazistas nojogo contra o Brasil, na abertura da Copa, em São Paulo.
+31
+ Tipo: LGBTFobia
+ Data: 13/06/2014
+ Título:  Torcedores Mexicanos
+ Fato: A torcida mexicana foi acusada de entoar cantos homofóbicos contra o goleiro da seleção de Camarões.
+32
+ Tipo: Racismo
+ Data: 15/06/2014
+ Título:  Torcedores Argentinos
+ Fato: Dois torcedores argentinos foram detidos por gritar insultos racistas contra dois brasileiros dentro do Maracanã, durante toda a permanência no estádio, segundo a Polícia Civil fluminense. Eles foram levados para a delegacia, onde foram interrogados e liberados
+33
+ Tipo: Racismo
+ Data: 12/06/2014
+ Título:  Torcedores Russos
+ Fato: A torcida russa foi acusada de levantar cartazes com conteúdo racista, antissemitas e neonazistas na partida contra a Coreia do Sul.
+34
+ Tipo: LGBTFobia
+ Data: 17/06/2014
+ Título:  Torcedores Brasileiros e Mexicanos
+ Fato: Ambas as torcidas trocam gritos homofóbicos para os goleiros.
+35
+ Tipo: Racismo
+ Data: 18/06/2014
+ Título:  Torcedores Espanhóis
+ Fato: Após a derrota de 2 a 0 contra o Chile, torcedores espanhóis voltaram a usar as redes sociais para xingar brasileiros e chilenos, em gestos racistas. Adjetivos pejorativos como“macacos” e “maricas”, foram utilizados.
+36
+ Tipo: Racismo
+ Data: 21/06/2014
+ Título:  Torcedor Polonês
+ Fato: Um homem identificado como sendo polonês, invadiu o campo no jogo entre Alemanha e Gana, em Fortaleza/CE, e foi acusado de divulgar ideias nazistas, com mensagens escritas no seu corpo.
+37
+ Tipo: Racismo
+ Data: 04/07/2014
+ Título:  Torcedores Brasileiros
+ Fato: Após cometer a falta que tirou da Copa do Mundo o jogador Neymar, da Seleção Brasileira, o lateral colombiano, Camilo Zúñiga, foi hostilizado pela torcida brasileira com atos racistas e preconceituosos.

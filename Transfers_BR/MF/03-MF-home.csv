@@ -1,0 +1,842 @@
+,ID,nome_hifen,pe,data_nasc,local_nasc,cidadania,altura,convocacoes,gols_selecao
+0,51174,Fernando,right,"Jul 25, 1987 (37)",Brasília,"2, Brazil, Portugal","1,83 m",3,0
+1,52896,Everton-Ribeiro,left,"Apr 10, 1989 (35)",Arujá,"1, Brazil","1,74 m",22,3
+2,218118,Lucas-Silva,right,"Feb 16, 1993 (31)",Bom Jesus de Goiás,"1, Brazil","1,81 m",7,1
+3,74590,Sandro,right,"Mar 15, 1989 (35)",Riachinho,"2, Brazil, Portugal","1,88 m",17,1
+4,4248,Diego,right,"Feb 28, 1985 (39)",Ribeirão Preto,"2, Brazil, Italy","1,73 m",34,4
+5,54375,Giuliano,right,"May 31, 1990 (34)",Curitiba,"1, Brazil","1,72 m",14,0
+6,126422,Allan,right,"Jan 8, 1991 (34)",Rio de Janeiro,"2, Brazil, Portugal","1,75 m",10,0
+7,3366,Kaka,both,"Apr 22, 1982 (42)",Gama,"2, Brazil, Italy","1,86 m",92,29
+8,26270,Arouca,right,"Aug 11, 1986 (38)",Duas Barras,"1, Brazil","1,71 m",4,0
+9,27378,Cleiton-Xavier,both,"Mar 23, 1983 (41)",São José da Tapera,"1, Brazil","1,79 m",0,0
+10,74600,Elias,right,"May 16, 1985 (39)",São Paulo,"1, Brazil","1,73 m",35,0
+11,56676,Nilton,right,"Apr 21, 1987 (37)",Barra do Garças,"1, Brazil","1,85 m",0,0
+12,258626,Talisca,left,"Feb 1, 1994 (30)",Feira de Santana,"2, Brazil, Saudi Arabia","1,90 m",0,0
+13,115382,Guilherme,right,"Apr 5, 1991 (33)",Santo André,"3, Brazil, Italy, Qatar","1,78 m",0,0
+14,273438,Danilo-Barbosa,right,"Feb 28, 1996 (28)",Simões Filho,"1, Brazil","1,83 m",11,2
+15,270188,Lucas-Evangelista,left,"May 6, 1995 (29)",Limeira,"1, Brazil","1,81 m",10,1
+16,31645,Anderson,left,"Apr 13, 1988 (36)",Porto Alegre,"1, Brazil","1,76 m",8,0
+17,73741,Souza,right,"Feb 11, 1989 (35)",Rio de Janeiro,"1, Brazil","1,88 m",3,0
+18,169052,Edenilson,right,"Dec 18, 1989 (35)",Porto Alegre,"1, Brazil","1,75 m",2,0
+19,54183,Maicosuel,N/A,"Jun 16, 1986 (38)",Cosmópolis,"1, Brazil",N/A,0,0
+20,68841,Marco-Antonio,right,"Nov 9, 1984 (40)",São Paulo,"2, Brazil, Italy","1,82 m",0,0
+21,76848,Everton,left,"Aug 8, 1984 (40)",Maranguape,"1, Brazil","1,71 m",0,0
+22,76904,Branquinho,right,"Jan 2, 1983 (42)",São José do Rio ...,"1, Brazil","1,72 m",0,0
+23,108344,Thiago-Freitas,N/A,"Apr 13, 1987 (37)",Vitória,"2, Brazil, Italy",N/A,0,0
+24,117544,Leo-Costa,right,"Mar 3, 1986 (38)",São José dos ...,"1, Brazil","1,81 m",0,0
+25,146887,Carlinhos,left,"Apr 1, 1990 (34)",Rio de Janeiro,"1, Brazil","1,76 m",0,0
+26,214148,Wellington-Bruno,right,"Apr 25, 1986 (38)",Guarulhos,"1, Brazil","1,74 m",0,0
+27,231699,Dhiego-Lomba,both,"Feb 2, 1988 (36)",Rio de Janeiro,"1, Brazil","1,76 m",0,0
+28,27371,Rodrigo-Paulista,right,"Mar 2, 1985 (39)",São Paulo,"1, Brazil","1,76 m",0,0
+29,33542,Balu,right,"Feb 22, 1985 (39)",Timoteo,"2, Brazil, Portugal","1,88 m",0,0
+30,75369,Assis,left,"Feb 3, 1984 (40)",Nova Viçosa,"1, Brazil","1,79 m",0,0
+31,226155,Carlinhos,right,"Jun 22, 1994 (30)",Camacan,"2, Brazil, Qatar","1,79 m",0,0
+32,363175,Marciel,left,"Mar 8, 1995 (29)",Porto Alegre,"2, Brazil, Vietnam","1,86 m",0,0
+33,55499,Ivo,left,"Oct 2, 1986 (38)",Palmitinho,"2, Brazil, China","1,74 m",0,0
+34,31128,Marcinho,right,"Mar 20, 1981 (43)",Campinas,"1, Brazil","1,72 m",1,0
+35,53062,Toro,right,"Apr 13, 1986 (38)",Rio de Janeiro,"2, Brazil, Finland","1,71 m",0,0
+36,53743,Paulo-Baier,right,"Oct 25, 1974 (50)",Ijuí,"1, Brazil","1,81 m",0,0
+37,53809,Denni,right,"Aug 21, 1982 (42)",Rio de Janeiro,"1, Brazil","1,65 m",0,0
+38,54979,Daniel-Sobralense,right,"Feb 11, 1983 (41)",Sobral,"1, Brazil","1,73 m",0,0
+39,56653,Deyvid-Sacconi,left,"Apr 10, 1987 (37)",Alfenas,"2, Brazil, Italy","1,74 m",0,0
+40,59868,Diogo-Melo,right,"Apr 18, 1984 (40)",União dos Palmares,"1, Brazil","1,82 m",0,0
+41,70831,Elias,right,"Oct 29, 1983 (41)",Jandaia do Sul,"1, Brazil","1,78 m",0,0
+42,85652,Tarcisio,right,"Mar 1, 1986 (38)",Riachuelo,"2, Brazil, Portugal","1,72 m",0,0
+43,97507,Camacho,right,"Mar 2, 1990 (34)",Rio de Janeiro,"1, Brazil","1,80 m",0,0
+44,99557,Kleiton-Domingues,right,"Apr 2, 1988 (36)",Vitória da ...,"1, Brazil","1,73 m",0,0
+45,99679,Marcos-Paulo,right,"Feb 4, 1990 (34)",Florianópolis,"1, Brazil","1,84 m",0,0
+46,105486,Bruno-Renan,right,"Apr 19, 1991 (33)",Maringá,"1, Brazil","1,80 m",0,0
+47,113074,Ailton,right,"Oct 13, 1984 (40)",Recife,"1, Brazil","1,74 m",0,0
+48,137181,Camacho,left,"Mar 24, 1980 (44)",Rio de Janeiro,"1, Brazil","1,70 m",0,0
+49,137225,Rodrigo-Andrade,right,"Feb 5, 1988 (36)",Rio de Janeiro,"1, Brazil","1,77 m",0,0
+50,149572,Nikao,left,"Jul 29, 1992 (32)",Belo Horizonte,"1, Brazil","1,74 m",0,0
+51,209263,Magno-Batista,right,"Sep 21, 1985 (39)",Coruripe,"1, Brazil","1,77 m",0,0
+52,213402,Alan-Mineiro,right,"Sep 29, 1987 (37)",Três Corações,"1, Brazil","1,75 m",0,0
+53,179048,Caique-Valdivia,both,"Oct 23, 1992 (32)",Rio de Janeiro,"1, Brazil","1,80 m",0,0
+54,151639,Vitor-Saba,left,"Jul 11, 1990 (34)",Rio de Janeiro,"2, Brazil, Portugal","1,84 m",0,0
+55,378977,Felipe-Costa,both,"Sep 17, 1992 (32)",São Luís (MA),"1, Brazil","1,69 m",0,0
+56,53359,Evandro,right,"Aug 23, 1986 (38)",Blumenau,"2, Brazil, Serbia","1,79 m",14,4
+57,76092,Willians,right,"Jan 29, 1986 (38)",Praia Grande,"1, Brazil","1,73 m",0,0
+58,45596,Marcio-Mossoro,both,"Jul 4, 1983 (41)",Mossoró,"1, Brazil","1,70 m",0,0
+59,52929,Wesley,right,"Jun 24, 1987 (37)",Catanduva,"1, Brazil","1,79 m",2,0
+60,112990,Renato-Neto,right,"Sep 27, 1991 (33)",Camacan,"2, Belgium, Brazil","1,84 m",0,0
+61,213606,Gabriel,right,"Jul 10, 1992 (32)",Campinas,"2, Brazil, Italy","1,71 m",0,0
+62,36478,Alanzinho,left,"Feb 22, 1983 (41)",Rio de Janeiro,"1, Brazil","1,64 m",0,0
+63,30946,Rafael-Bastos,both,"Jan 1, 1985 (40)",Rio de Janeiro,"1, Brazil","1,85 m",0,0
+64,135617,Thiago-Mendes,right,"Mar 15, 1992 (32)",São Luís,"2, Brazil, Qatar","1,77 m",0,0
+65,149946,Raphael-Martinho,left,"Apr 15, 1988 (36)",Campo Grande,"2, Brazil, Italy","1,83 m",0,0
+66,85753,Leonel-Olimpio,right,"Jul 7, 1982 (42)",Jaguariaiva,"2, Brazil, Portugal","1,84 m",0,0
+67,100091,Marquinhos-Gabriel,left,"Jul 21, 1990 (34)",Selbach,"1, Brazil","1,74 m",0,0
+68,68275,Claudemir,right,"Mar 27, 1988 (36)",Macaúbas,"1, Brazil","1,85 m",0,0
+69,54872,Wilson-Matias,right,"Sep 14, 1983 (41)",Limeira,"2, Brazil, Mexico","1,86 m",0,0
+70,242808,Felipe-Gedoz,right,"Jul 12, 1993 (31)",Muçum,"2, Brazil, Uruguay","1,77 m",2,1
+71,52999,Renan,left,"Jun 19, 1986 (38)",Batatais,"2, Brazil, Italy","1,86 m",0,0
+72,53079,Helder,left,"Jun 20, 1984 (40)",Floriano,"1, Brazil","1,81 m",0,0
+73,99683,Davi,left,"Apr 6, 1984 (40)",Gravataí,"1, Brazil","1,75 m",0,0
+74,55253,Diego-Barcelos,right,"Apr 5, 1985 (39)",Porto Alegre,"1, Brazil","1,71 m",6,1
+75,81509,Eric,left,"Dec 5, 1985 (39)",Nova Iguaçu,"2, Brazil, Romania","1,74 m",0,0
+76,111667,Marcinho,left,"May 14, 1986 (38)",Volta Redonda,"1, Brazil","1,82 m",0,0
+77,179046,Marquinhos,both,"May 28, 1992 (32)",Rio de Janeiro,"1, Brazil","1,69 m",0,0
+78,225408,Franca,both,"Apr 21, 1991 (33)",Bauru,"1, Brazil","1,82 m",0,0
+79,231039,Marlone,right,"Apr 2, 1992 (32)",Augustinópolis,"1, Brazil","1,80 m",0,0
+80,75833,Robinho,right,"Nov 10, 1987 (37)",Marialva,"1, Brazil","1,70 m",0,0
+81,346870,Jonas,right,"Oct 8, 1991 (33)",Teresina,"1, Brazil","1,80 m",0,0
+82,20053,Elano,right,"Jun 14, 1981 (43)",Iracemápolis,"2, Brazil, Italy","1,74 m",50,9
+83,34332,Douglas,left,"Feb 18, 1982 (42)",Criciúma,"1, Brazil","1,76 m",1,0
+84,52913,Adriano,right,"May 29, 1987 (37)",São Vicente,"1, Brazil","1,71 m",0,0
+85,53071,Rafael-Miranda,right,"Aug 11, 1984 (40)",Belo Horizonte,"1, Brazil","1,79 m",0,0
+86,53275,Pierre,right,"Jan 19, 1982 (43)",Itororó,"1, Brazil","1,72 m",0,0
+87,145692,Rafael-Crivellaro,left,"Feb 18, 1989 (35)",Porto Alegre,"2, Brazil, Italy","1,87 m",0,0
+88,151069,Eninho,both,"May 16, 1981 (43)",Porto Alegre,"1, Brazil","1,75 m",0,0
+89,52853,Rosinei,right,"May 3, 1983 (41)",Lavrinhas,"1, Brazil","1,70 m",0,0
+90,53788,Amaral,right,"Oct 7, 1986 (38)",Goiânia,"1, Brazil","1,82 m",0,0
+91,210747,Willian-Arao,right,"Mar 12, 1992 (32)",São Paulo,"2, Brazil, Greece","1,81 m",1,0
+92,244832,Madson,right,"May 9, 1991 (33)",Maceió,"1, Brazil","1,78 m",0,0
+93,70203,Ze-Eduardo,right,"Aug 16, 1991 (33)",Uberaba,"1, Brazil","1,86 m",14,0
+94,5974,Matuzalem,left,"Jun 10, 1980 (44)",Natal,"2, Brazil, Italy","1,78 m",4,0
+95,29377,Ibson,right,"Nov 7, 1983 (41)",Rio de Janeiro,"1, Brazil","1,78 m",0,0
+96,64635,Joao-Luiz,right,"Jun 24, 1985 (39)",São Paulo,"2, Brazil, Portugal","1,82 m",0,0
+97,112239,Joao-Paulo,both,"Feb 22, 1985 (39)",Pinhais,"1, Brazil","1,77 m",0,0
+98,16159,Richarlyson,left,"Dec 27, 1982 (42)",Natal,"1, Brazil","1,76 m",2,0
+99,81946,Dakson,right,"Jul 11, 1987 (37)",Santana do Ipanema,"1, Brazil","1,80 m",0,0
+100,151505,Auremir,right,"Sep 10, 1991 (33)",Recife,"1, Brazil","1,74 m",0,0
+101,216259,Lucas-Souza,right,"Jul 4, 1990 (34)",Santo Andrè,"3, Brazil, Portugal, Saudi Arabia","1,86 m",0,0
+102,144788,Luan-Scapolan,right,"Dec 30, 1988 (36)",São Paulo,"1, Brazil","1,83 m",0,0
+103,180731,Tiago-Galvao,right,"Aug 24, 1989 (35)",São Paulo,"1, Brazil","1,85 m",0,0
+104,272554,Regis,left,"Nov 30, 1992 (32)",Jales,"1, Brazil","1,71 m",0,0
+105,257459,Wallyson,left,"Feb 16, 1994 (30)",Mato Grosso do Sul,"1, Brazil","1,83 m",0,0
+106,139607,Guilherme,left,"May 21, 1991 (33)",Três Rios,"2, Brazil, China","1,74 m",0,0
+107,52874,Ederson-Tormena,N/A,"Jan 14, 1986 (39)",Brusque,"2, Brazil, Italy",N/A,0,0
+108,67500,Adriano-Mezavilla,right,"Jan 14, 1983 (42)",Maringà,"2, Brazil, Italy","1,85 m",0,0
+109,73094,Eduardo-Neto,left,"Oct 24, 1988 (36)",Salvador,"1, Brazil","1,85 m",0,0
+110,116917,Elton,left,"Feb 12, 1986 (38)",Cuiabá,"1, Brazil","1,78 m",0,0
+111,178938,Ronny,right,"Aug 19, 1991 (33)",Cuiabá,"1, Brazil","1,79 m",0,0
+112,257057,Uillian-Correia,right,"Sep 27, 1989 (35)",Fátima do Sul,"1, Brazil","1,84 m",0,0
+113,89,Ze-Roberto,N/A,"Jul 6, 1974 (50)",São Paulo,"2, Brazil, Germany",N/A,84,6
+114,7654,Marcos-Assuncao,right,"Jul 25, 1976 (48)",Caieiras,"2, Brazil, Spain","1,81 m",11,1
+115,15338,Fernando,right,"May 3, 1981 (43)",Anita Garibaldi,"2, Brazil, Italy","1,92 m",4,0
+116,22943,Dudu-Cearense,right,"Apr 15, 1983 (41)",Fortaleza,"1, Brazil","1,88 m",11,0
+117,45378,Tcho,right,"Apr 21, 1987 (37)",Belo Horizonte,"1, Brazil","1,75 m",8,3
+118,51956,Rogerio-Martins,right,"Nov 19, 1984 (40)",Uberaba,"2, Brazil, Greece","1,78 m",0,0
+119,52714,Lucio-Flavio,right,"Mar 2, 1979 (45)",Curitiba,"1, Brazil","1,75 m",0,0
+120,62652,Josa,left,"Sep 24, 1984 (40)",Mutuipe,"1, Brazil","1,81 m",0,0
+121,63275,Leo-Gago,left,"Feb 17, 1983 (41)",Campinas,"1, Brazil","1,80 m",0,0
+122,122878,Edenilson,left,"Sep 13, 1987 (37)",Carlos Barbosa,"2, Brazil, Italy","1,86 m",0,0
+123,12540,Rudnei,left,"Oct 7, 1984 (40)",Florianópolis,"1, Brazil","1,88 m",0,0
+124,33537,Olberdam,left,"Feb 6, 1985 (39)",João Pessoa,"1, Brazil","1,80 m",0,0
+125,130535,Wanderson,left,"Feb 8, 1990 (34)",Santo Amaro da ...,"2, Brazil, Portugal","1,79 m",0,0
+126,16877,Morais,right,"Jul 17, 1984 (40)",Maceió,"1, Brazil","1,70 m",0,0
+127,34866,Heverton,both,"Oct 28, 1985 (39)",Brasília,"1, Brazil","1,73 m",0,0
+128,54170,Ramires,right,"Mar 24, 1987 (37)",Barra do Piraí,"1, Brazil","1,79 m",51,4
+129,16306,Casemiro,right,"Feb 23, 1992 (32)",São José dos ...,"3, Brazil, England, Spain","1,85 m",75,7
+130,57229,Paulinho,right,"Jul 25, 1988 (36)",São Paulo,"1, Brazil","1,83 m",56,13
+131,52897,Hernanes,both,"May 29, 1985 (39)",Recife,"2, Brazil, Italy","1,80 m",27,2
+132,53262,Thiago-Neves,N/A,"Feb 27, 1985 (39)",Curitiba,"1, Brazil",N/A,7,0
+133,288496,Boschilia,left,"Mar 5, 1996 (28)",Piracicaba,"2, Brazil, Italy","1,73 m",8,2
+134,53058,Renato-Augusto,right,"Feb 8, 1988 (36)",Rio de Janeiro,"1, Brazil","1,86 m",33,6
+135,105456,Fernando,right,"Mar 3, 1992 (32)",Erechim,"2, Brazil, United Arab Emirates","1,75 m",8,0
+136,225693,Fabinho,right,"Oct 23, 1993 (31)",Campinas,"2, Brazil, Saudi Arabia","1,88 m",29,0
+137,110326,Jucilei,right,"Apr 6, 1988 (36)",São Gonçalo,"2, Brazil, Palestine","1,86 m",2,0
+138,29261,Jadson,both,"Oct 5, 1983 (41)",Londrina,"2, Brazil, Italy","1,69 m",8,1
+139,110078,Eduardo,right,"Oct 17, 1989 (35)",Ribeirão Preto,"1, Brazil","1,84 m",0,0
+140,74757,Fernando-Bob,left,"Jan 7, 1988 (37)",Cabo Frio,"1, Brazil","1,80 m",0,0
+141,42352,Denilson,right,"Feb 16, 1988 (36)",São Paulo,"1, Brazil","1,78 m",6,1
+142,53286,Mauricio,right,"Oct 21, 1988 (36)",São José dos ...,"1, Brazil","1,84 m",5,0
+143,125513,Giovanni-Augusto,right,"Sep 5, 1989 (35)",Belém,"1, Brazil","1,77 m",0,0
+144,225686,Amaral,right,"May 1, 1988 (36)",Rio das Ostras,"1, Brazil","1,75 m",0,0
+145,346874,Hiltinho,right,"Dec 8, 1985 (39)",Cantanhede,"1, Brazil","1,69 m",0,0
+146,236772,Jhon-Cley,right,"Mar 9, 1994 (30)",Brasília,"2, Brazil, Indonesia","1,83 m",3,0
+147,953,Marcelinho-Paraiba,N/A,"May 17, 1975 (49)",Campina Grande,"1, Brazil",N/A,5,1
+148,25119,Marcelo-Costa,right,"Jul 24, 1980 (44)",Campinas do Sul,"1, Brazil","1,76 m",0,0
+149,34274,Camazzola,right,"Aug 30, 1982 (42)",Caxias do Sul,"2, Brazil, Italy","1,83 m",0,0
+150,52751,Leandro-Lima,right,"Nov 9, 1985 (39)",Fortaleza,"1, Brazil","1,69 m",12,4
+151,54996,Joao-Victor,right,"Nov 7, 1988 (36)",Olinda,"2, Brazil, Spain","1,79 m",0,0
+152,74196,Rodrigo-Dantas,right,"Oct 20, 1989 (35)",Rio de Janeiro,"1, Brazil","1,82 m",0,0
+153,95274,Paulinho,right,"May 10, 1989 (35)",São Paulo,"1, Brazil","1,72 m",0,0
+154,102238,William-Schuster,right,"May 31, 1987 (37)",Porto Alegre,"1, Brazil","1,80 m",0,0
+155,104541,Tinga,right,"Oct 12, 1990 (34)",Bom Jardim,"1, Brazil","1,73 m",6,0
+156,113527,Elizeu,right,"May 28, 1989 (35)",Recife,"1, Brazil","1,84 m",0,0
+157,152258,Wiliam-Kozlowski,right,"Nov 19, 1983 (41)",Curitiba,"2, Brazil, Poland","1,79 m",0,0
+158,170249,Juliano-Pacheco,left,"Apr 6, 1990 (34)",Pelotas,"2, Brazil, Italy","1,83 m",0,0
+159,186573,Vinicius-Hess,right,"Jan 16, 1988 (37)",Curitiba,"3, Brazil, Italy, Lithuania","1,77 m",0,0
+160,210737,Thiago-Elias,right,"Jun 9, 1987 (37)",Pau D´Alhos,"1, Brazil","1,76 m",0,0
+161,212219,Ricardinho,right,"Jun 10, 1985 (39)",Votuporanga,"1, Brazil","1,74 m",0,0
+162,265659,Wanderson,right,"Oct 6, 1980 (44)",Cornélio Procópio,"1, Brazil","1,81 m",0,0
+163,270536,Carlos-Alberto,right,"Feb 22, 1988 (36)",São Paulo,"1, Brazil","1,74 m",0,0
+164,28643,Romeu,both,"Feb 13, 1985 (39)",Itamaraju,"1, Brazil","1,79 m",0,0
+165,58381,Tom,both,"Jul 23, 1985 (39)",São Paulo,"2, Brazil, Bulgaria","1,81 m",0,0
+166,101247,Aloisio,left,"May 22, 1985 (39)",Cachoeiro do ...,"1, Brazil","1,79 m",0,0
+167,179026,Clebson,right,"Sep 4, 1985 (39)",Agrestina,"2, Brazil, Italy","1,64 m",0,0
+168,183594,Serginho,right,"Jan 27, 1988 (36)",Teresina,"1, Brazil","1,86 m",0,0
+169,243835,Diego-Lorenzi,both,"Jan 27, 1990 (34)",Xanxerê (SC),"2, Brazil, Italy","1,83 m",0,0
+170,373193,Yuri-Lara,right,"Apr 20, 1994 (30)",Rio de Janeiro,"2, Brazil, Japan","1,73 m",0,0
+171,196028,Felipe-Klein,right,"Apr 9, 1987 (37)",Porto Alegre,"2, Brazil, Uruguay","1,77 m",0,0
+172,163555,Bruno-Matos,left,"Jun 5, 1990 (34)",Barra do Rio Grande,"1, Brazil","1,82 m",0,0
+173,52405,Willian-Magrao,right,"Feb 11, 1987 (37)",Mogi Mirim,"1, Brazil","1,90 m",0,0
+174,54505,Vinicius-Reche,left,"Jan 28, 1984 (40)",Capivari,"1, Brazil","1,75 m",0,0
+175,61976,Tarta,left,"Apr 13, 1989 (35)",Rio de Janeiro,"1, Brazil","1,71 m",0,0
+176,148682,Adilson-Goiano,right,"Feb 9, 1988 (36)",Goiânia,"1, Brazil","1,80 m",0,0
+177,152043,Patrik-Silva,right,"Jul 19, 1990 (34)",São Paulo,"1, Brazil","1,70 m",0,0
+178,175378,Bileu,right,"Mar 28, 1989 (35)",Aurora,"1, Brazil","1,79 m",0,0
+179,373196,Clebinho,N/A,"Jan 14, 1988 (37)",São José,"1, Brazil","1,79 m",0,0
+180,33538,Fahel,N/A,"Aug 15, 1981 (43)",Teófilo Otoni,"2, Brazil, Portugal",N/A,0,0
+181,83906,Jackson-Caucaia,right,"May 21, 1987 (37)",Caucaia,"1, Brazil","1,77 m",0,0
+182,89478,Eliomar,both,"Mar 16, 1988 (36)",Cardoso Moreira,"2, Brazil, Serbia","1,75 m",0,0
+183,103636,Leandro-Brasilia,right,"Jan 21, 1987 (38)",Brasília,"1, Brazil","1,70 m",0,0
+184,165316,Charles,left,"Mar 11, 1984 (40)",São Paulo,"1, Brazil","1,65 m",0,0
+185,212954,Willie,right,"May 15, 1993 (31)",Caravelas,"2, Brazil, China","1,69 m",0,0
+186,3365,Kleberson,right,"Jun 19, 1979 (45)",Uraí,"1, Brazil","1,75 m",32,2
+187,15026,Leo-Lima,right,"Jan 14, 1982 (43)",Rio de Janeiro,"1, Brazil","1,87 m",4,0
+188,46810,Leozinho,N/A,"Dec 12, 1985 (39)",São Luís,"1, Brazil",N/A,0,0
+189,52756,Hugo,left,"Oct 27, 1980 (44)",Rio de Janeiro,"1, Brazil","1,84 m",0,0
+190,52786,Edson-Sitta,right,"Jun 17, 1983 (41)",São Bernardo do ...,"1, Brazil","1,80 m",0,0
+191,69977,Elton-Lira,left,"Sep 21, 1986 (38)",São Paulo,"1, Brazil","1,85 m",0,0
+192,106957,Chapinha,right,"Nov 14, 1983 (41)",São José de ...,"1, Brazil","1,74 m",0,0
+193,146660,Ronaldo,right,"Apr 8, 1990 (34)",Caxambu do Sul,"2, Brazil, Italy","1,78 m",0,0
+194,151665,Renan-Silva,left,"Jan 2, 1989 (36)",Rio de Janeiro,"2, Brazil, Indonesia","1,76 m",0,0
+195,225392,Thiago-Primao,right,"Feb 11, 1993 (31)",Curitiba,"1, Brazil","1,63 m",0,0
+196,236357,Diego-Silva,left,"May 9, 1989 (35)",Bento de Abreu,"1, Brazil","1,78 m",0,0
+197,346061,Franco,right,"Jan 27, 1993 (31)",Uberlândia,"1, Brazil","1,74 m",0,0
+198,347286,Gilson-Alves,right,"Jan 23, 1990 (35)",Ribeirão Preto,"1, Brazil","1,82 m",0,0
+199,349166,Chico-Kim,right,"May 16, 1991 (33)",Cascavel,"2, Brazil, Paraguay","1,75 m",0,0
+200,367144,Fernando-Santos,right,"Sep 18, 1991 (33)",Rio de Janeiro,"1, Brazil","1,76 m",0,0
+201,346922,Thiago-Santos,right,"Sep 5, 1989 (35)",Curitiba,"1, Brazil","1,81 m",0,0
+202,215212,Jean-Mota,left,"Oct 15, 1993 (31)",São Paulo,"1, Brazil","1,72 m",0,0
+203,329841,Alex-Apolinario,left,"Nov 7, 1996",Ribeirão Preto,"1, Brazil","1,85 m",0,0
+204,377511,Bruno-Nascimento,N/A,"Jan 22, 1996 (29)",Arapiraca,"1, Brazil","1,72 m",0,0
+205,975768,Alysson-Caucaia,right,"Sep 25, 1996 (28)",Fortaleza,"1, Brazil","1,80 m",0,0
+206,294798,Nathan,right,"Mar 13, 1996 (28)",Blumenau,"1, Brazil","1,77 m",5,0
+207,131933,Diego-Lopes,both,"May 3, 1994 (30)",São Paulo,"2, Brazil, China","1,71 m",0,0
+208,99903,Ralf,right,"Jun 9, 1984 (40)",São Paulo,"1, Brazil","1,84 m",8,0
+209,52406,Carlos-Eduardo,N/A,"Jul 18, 1987 (37)",Ajuricaba,"1, Brazil",N/A,6,0
+210,54160,Guilherme,both,"Oct 22, 1988 (36)",Imperatriz,"1, Brazil","1,76 m",0,0
+211,148754,Somalia,both,"Sep 28, 1988 (36)",Rio de Janeiro,"1, Brazil","1,81 m",0,0
+212,333241,Joelinton,right,"Aug 14, 1996 (28)",Aliança,"2, Brazil, England","1,86 m",5,1
+213,85363,Juninho,right,"Aug 1, 1989 (35)",São José dos ...,"1, Brazil","1,73 m",0,0
+214,55489,Renato-Caja,left,"Sep 15, 1984 (40)",Cajazeiras,"1, Brazil","1,73 m",0,0
+215,200558,Petros,right,"May 29, 1989 (35)",Juazeiro,"2, Brazil, Saudi Arabia","1,82 m",0,0
+216,53288,Marquinho,left,"Jul 3, 1986 (38)",Passo Fundo,"1, Brazil","1,82 m",0,0
+217,106281,Vina,right,"Apr 15, 1991 (33)",Curitiba,"2, Brazil, Saudi Arabia","1,77 m",0,0
+218,110074,Bruno-Cesar,left,"Nov 3, 1988 (36)",Santa Bárbara ...,"2, Brazil, Italy","1,78 m",2,0
+219,124701,Rafael-Galhardo,right,"Oct 30, 1991 (33)",Nova Friburgo,"1, Brazil","1,83 m",12,0
+220,189963,Marcos-Vinicius,right,"Dec 26, 1994 (30)",Marabá,"1, Brazil","1,77 m",0,0
+221,74286,Camilo,right,"Mar 9, 1986 (38)",Rio de Janeiro,"1, Brazil","1,74 m",1,0
+222,363177,Matheus-Cassini,left,"Feb 15, 1996 (28)",São Paulo,"2, Brazil, Italy","1,72 m",0,0
+223,45423,Fellype-Gabriel,right,"Dec 6, 1985 (39)",Rio de Janeiro,"1, Brazil","1,76 m",0,0
+224,72939,Bruno-Gallo,left,"May 7, 1988 (36)",Niterói,"1, Brazil","1,82 m",0,0
+225,225912,Ricardinho,right,"Dec 15, 1985 (39)",Rosário do Sul,"1, Brazil","1,75 m",0,0
+226,128822,Moises,right,"Mar 17, 1988 (36)",Belo Horizonte,"1, Brazil","1,84 m",0,0
+227,114341,Anselmo,right,"Feb 20, 1989 (35)",São Paulo,"1, Brazil","1,82 m",5,0
+228,24337,Cleyton,both,"Mar 8, 1983 (41)","Jacareí, São Paulo","2, Brazil, Greece","1,75 m",0,0
+229,52976,Serginho,right,"Aug 4, 1986 (38)",Contagem,"1, Brazil","1,80 m",0,0
+230,54989,Elicarlos,right,"Jun 8, 1985 (39)",Laranjeiras,"1, Brazil","1,76 m",0,0
+231,112061,Gil,left,"Sep 3, 1987",Santo Antônio,"1, Brazil","1,68 m",0,0
+232,210548,Fabinho,right,"Nov 19, 1986 (38)",Cruzeiro,"1, Brazil","1,80 m",0,0
+233,52514,Pedro-Ken,right,"Mar 20, 1987 (37)",Curitiba,"1, Brazil","1,82 m",0,0
+234,77832,Marcos-Paulo,right,"Jul 13, 1988 (36)",Pedro Leopoldo,"3, Brazil, Italy, Portugal","1,82 m",0,0
+235,234756,Juan-Felipe,left,"Dec 5, 1987 (37)",São Vicente,"1, Brazil","1,75 m",0,0
+236,15952,Julio-Baptista,both,"Oct 1, 1981 (43)",São Paulo,"2, Brazil, Spain","1,85 m",47,5
+237,16335,Charles,right,"Feb 14, 1985 (39)",Rio de Janeiro,"1, Brazil","1,75 m",0,0
+238,20405,Wendel,left,"Apr 8, 1982 (42)",Mariana,"1, Brazil","1,83 m",0,0
+239,29035,Ederson,right,"Jan 13, 1986 (39)",Parapuã,"2, Brazil, Italy","1,81 m",1,0
+240,29091,Nene,left,"Jul 19, 1981 (43)",Jundiaí,"2, Brazil, Spain","1,81 m",4,1
+241,52710,Jorge-Henrique,right,"Apr 23, 1982 (42)",Resende,"1, Brazil","1,69 m",0,0
+242,325510,Rodrigo,right,"Feb 11, 1994 (30)",Ituiutaba,"1, Brazil","1,76 m",0,0
+243,187030,Diones,right,"Jun 21, 1985 (39)",Timbiras,"1, Brazil","1,78 m",0,0
+244,211176,Thiago-Potiguar,right,"May 27, 1985 (39)",Currais Novos,"1, Brazil","1,69 m",0,0
+245,16876,Andrezinho,right,"Jul 30, 1983 (41)",Campinas,"1, Brazil","1,78 m",6,0
+246,52410,Marcelo-Mattos,right,"Feb 10, 1984 (40)",Indiaporã,"2, Brazil, Italy","1,79 m",3,0
+247,261459,Alef,right,"Jan 28, 1995 (29)",Nova Odessa,"1, Brazil","1,86 m",5,0
+248,75076,Everton-Luiz,right,"May 24, 1988 (36)",Porto Alegre,"2, Belgium, Brazil","1,73 m",0,0
+249,135984,Joao-Paulo,right,"Mar 8, 1991 (33)",Rio Grande do Sul,"2, Brazil, United States","1,71 m",0,0
+250,38445,Vitor-Junior,left,"Sep 15, 1986 (38)",Porto Alegre,"1, Brazil","1,67 m",0,0
+251,54980,Cristian,right,"Aug 28, 1979 (45)",Uruguaiana,"1, Brazil","1,69 m",0,0
+252,79132,Chumbinho,both,"Sep 21, 1986 (38)",Palmares Paulista,"1, Brazil","1,75 m",0,0
+253,101310,Diego-Rosa,right,"Mar 23, 1989 (35)",Campo Grande,"1, Brazil","1,79 m",0,0
+254,140546,Josimar,right,"Aug 18, 1986",Pelotas,"1, Brazil","1,81 m",0,0
+255,385271,Allan,left,"Mar 3, 1997 (27)",Porto Alegre,"1, Brazil","1,72 m",1,0
+256,16223,Daniel-Carvalho,left,"Mar 1, 1983 (41)",Pelotas,"1, Brazil","1,81 m",3,1
+257,76090,Caue-Silva,right,"May 24, 1989 (35)",São Paulo,"1, Brazil","1,84 m",0,0
+258,137726,Rene-Junior,right,"Sep 16, 1989 (35)",Rio de Janeiro,"1, Brazil","1,80 m",0,0
+259,121986,Lucas-Sasha,both,"Mar 1, 1990 (34)",São Paulo,"2, Brazil, Italy","1,77 m",0,0
+260,144752,Fernando-Boldrin,left,"Feb 23, 1989 (35)",Cravinhos,"2, Brazil, Portugal","1,80 m",0,0
+261,191314,Nadson,right,"Jul 22, 1989 (35)",Lauro de Freitas,"1, Brazil","1,70 m",0,0
+262,40608,Alex-da-Silva,right,"Aug 15, 1983 (41)",Uberlândia,"1, Brazil","1,78 m",0,0
+263,43706,Daniel-Bamberg,right,"Apr 23, 1984 (40)",São Lourenço do ...,"2, Brazil, Sweden","1,76 m",0,0
+264,101542,Juninho-Valoura,right,"Mar 20, 1986 (38)",Rio de Janeiro,"1, Brazil","1,72 m",0,0
+265,140547,Serginho,right,"Dec 3, 1990 (34)",Santos,"1, Brazil","1,66 m",0,0
+266,148601,Romario-Pires,right,"Jan 16, 1989 (36)",Rio de Janeiro,"2, Brazil, Romania","1,82 m",0,0
+267,281831,Christian,left,"Jun 14, 1989 (35)",Belém do Pará,"3, Azerbaijan, Brazil, Portugal","1,82 m",0,0
+268,27303,Gerson-Magrao,left,"Jun 13, 1985 (39)",Diadema,"1, Brazil","1,81 m",0,0
+269,72438,Ricardinho,right,"Mar 27, 1989 (35)",Itaberaí,"1, Brazil","1,74 m",0,0
+270,87038,Tom,right,"Mar 18, 1986 (38)",Nova Esperança,"2, Brazil, Bulgaria","1,81 m",0,0
+271,101692,Bernardo,right,"May 20, 1990 (34)",Sorocaba,"1, Brazil","1,76 m",0,0
+272,137723,Lele,right,"Feb 9, 1990 (34)",Diadema,"1, Brazil","1,67 m",0,0
+273,85314,Oscar,right,"Sep 9, 1991 (33)",Americana,"2, Brazil, Italy","1,80 m",48,12
+274,341705,Gerson,left,"May 20, 1997 (27)",Belford Roxo,"1, Brazil","1,84 m",11,1
+275,67920,Ganso,left,"Oct 12, 1989 (35)",Ananindeua,"1, Brazil","1,84 m",8,0
+276,323954,Walace,right,"Apr 4, 1995 (29)",Salvador,"1, Brazil","1,88 m",5,0
+277,181768,Hernani,both,"Mar 27, 1994 (30)",São Gonçalo do ...,"2, Brazil, Italy","1,88 m",14,0
+278,277335,Bruno-Henrique,right,"Oct 21, 1989 (35)",Apucarana,"2, Brazil, Italy","1,80 m",0,0
+279,343602,Bruno-Paulista,left,"Aug 21, 1995 (29)",Nova Odessa,"1, Brazil","1,92 m",0,0
+280,12142,Michel-Bastos,N/A,"Aug 2, 1983 (41)",Pelotas,"2, Brazil, France",N/A,10,1
+281,52408,Adilson,right,"Jan 16, 1987 (38)",Bom Princípio,"2, Brazil, Germany","1,81 m",0,0
+282,67889,Derley,right,"Aug 2, 1986 (38)",Anápolis,"1, Brazil","1,88 m",0,0
+283,70724,Rodrigo-Antonio,right,"Jul 27, 1987 (37)",Rio de Janeiro,"2, Brazil, Portugal","1,79 m",0,0
+284,141850,Daniel-Costa,right,"Apr 5, 1988 (36)",Piracicaba,"1, Brazil","1,83 m",0,0
+285,161891,Filipe-Soutto,left,"Mar 11, 1991 (33)",Belo Horizonte,"1, Brazil","1,80 m",0,0
+286,180271,Nene-Bonilha,right,"Feb 17, 1992 (32)",São João da Boa ...,"1, Brazil","1,75 m",0,0
+287,202919,Giovanni,both,"Apr 4, 1994 (30)",Sorocaba,"2, Brazil, Italy","1,74 m",5,0
+288,226138,Mattheus,left,"Jul 7, 1994 (30)",Rio de Janeiro,"3, Brazil, Portugal, United Arab Emirates","1,82 m",4,0
+289,349826,Jean-Irmer,right,"Sep 26, 1994 (30)",Brasília,"1, Brazil","1,83 m",0,0
+290,50441,Ygor,right,"Jun 1, 1984 (40)",Santana do ...,"1, Brazil","1,79 m",0,0
+291,52837,Sergio-Mota,left,"Nov 16, 1989 (35)",São José dos ...,"1, Brazil","1,75 m",0,0
+292,55373,Valber,right,"Sep 22, 1981 (43)",São Luís,"1, Brazil","1,73 m",0,0
+293,74790,Bruno-Silva,right,"Feb 15, 1988 (36)",Sorocaba,"1, Brazil","1,83 m",0,0
+294,124295,Rafael-Jatai,right,"May 19, 1989 (35)",Jataí,"1, Brazil","1,80 m",0,0
+295,418647,Washington,right,"Nov 16, 1986 (38)",Recife,"1, Brazil","1,82 m",0,0
+296,52941,Rodrigo-Souto,right,"Sep 9, 1983 (41)",Rio de Janeiro,"1, Brazil","1,83 m",0,0
+297,128029,Robson,right,"Apr 26, 1988 (36)",Marilia,"2, Brazil, Japan","1,75 m",0,0
+298,259097,Diego-Assis,right,"Sep 14, 1987 (37)",São Paulo,"1, Brazil","1,66 m",0,0
+299,276205,Marcos-Parana,right,"Jul 4, 1986 (38)",São Jorge d'Oeste,"1, Brazil","1,84 m",0,0
+300,53283,Francis,right,"Apr 30, 1982 (42)",São Vicente de ...,"1, Brazil","1,80 m",0,0
+301,161093,Diego-Lima,right,"Sep 30, 1988 (36)",Duque de Caxias,"1, Brazil","1,76 m",0,0
+302,435169,Roger,left,"Mar 1, 1996 (28)",Betim,"1, Brazil","1,80 m",0,0
+303,196033,Rodrigo,right,"May 12, 1985 (39)",Porto Alegre,"1, Brazil","1,71 m",0,0
+304,58436,Luis-Alberto,right,"Nov 17, 1983 (41)",Salvador,"1, Brazil","1,83 m",0,0
+305,72860,Zezinho,left,"Mar 14, 1992 (32)",Uruguaiana,"1, Brazil","1,75 m",10,2
+306,96819,Bruno-Turco,right,"Jul 30, 1991 (33)",Piracicaba,"1, Brazil","1,79 m",0,0
+307,101467,Robston,right,"Dec 23, 1981 (43)",Gama,"1, Brazil","1,90 m",0,0
+308,199570,Andre-Gava,right,"Jun 8, 1992 (32)",Nova Veneza,"1, Brazil","1,74 m",0,0
+309,238043,Clayton,right,"Jul 3, 1987 (37)",Diadema,"1, Brazil","1,87 m",0,0
+310,61428,Thomaz,right,"May 2, 1986 (38)",São Paulo,"2, Bolivia, Brazil","1,77 m",0,0
+311,288499,Ewandro-Costa,left,"Mar 15, 1996 (28)",Recife,"2, Brazil, Cyprus","1,76 m",0,0
+312,140682,Romulo,right,"Sep 19, 1990 (34)",Picos,"1, Brazil","1,85 m",8,1
+313,167291,Gabriel-Pires,left,"Sep 18, 1993 (31)",Rio de Janeiro,"3, Brazil, Greece, Portugal","1,87 m",0,0
+314,212899,Filipe-Augusto,left,"Aug 12, 1993 (31)",Itambé,"1, Brazil","1,83 m",2,0
+315,323934,Matheus-Pereira,left,"Feb 25, 1998 (26)",São Paulo,"2, Brazil, Spain","1,83 m",2,0
+316,338861,Hyoran,right,"May 25, 1993 (31)",Chapecó,"1, Brazil","1,74 m",0,0
+317,129670,Luiz-Carlos,right,"Jul 5, 1985 (39)",Itaguai,"1, Brazil","1,75 m",0,0
+318,144789,Junior-Urso,right,"Mar 10, 1989 (35)",Taboão da Serra,"1, Brazil","1,81 m",0,0
+319,166483,Wescley,left,"Oct 11, 1991 (33)",Rio de Janeiro,"1, Brazil","1,73 m",0,0
+320,31127,Fellipe-Bastos,right,"Feb 1, 1990 (34)",Rio de Janeiro,"1, Brazil","1,78 m",0,0
+321,103674,Campanharo,right,"Apr 4, 1992 (32)",Caxias do Sul,"2, Brazil, Italy","1,78 m",0,0
+322,112624,Joao-Vitor,right,"Jun 1, 1988 (36)",Maceió,"1, Brazil","1,76 m",0,0
+323,71080,Willian-Farias,right,"Jun 6, 1989 (35)",Curitiba,"2, Brazil, Italy","1,78 m",0,0
+324,228206,Abuda,right,"Jan 22, 1989 (36)",Almerim,"1, Brazil","1,78 m",0,0
+325,334632,Rafael-Assis,right,"Oct 31, 1990 (34)",Belo Horizonte,"2, Brazil, Portugal","1,70 m",0,0
+326,48669,Elton,left,"Apr 7, 1986 (38)",Palmeira dos Índios,"1, Brazil","1,54 m",0,0
+327,74198,Renan-Oliveira,right,"Dec 29, 1989 (35)",Itabira,"1, Brazil","1,82 m",7,0
+328,432953,Raphael-Veiga,left,"Jun 19, 1995 (29)",São Paulo,"1, Brazil","1,76 m",6,0
+329,292160,Marcelo-Santos,right,"May 29, 1994 (30)",Santo Amaro,"1, Brazil","1,81 m",0,0
+330,107259,Souza,right,"Mar 8, 1988 (36)",Posse,"1, Brazil","1,83 m",0,0
+331,236952,Ronaldo-Mendes,left,"Aug 16, 1992 (32)",Nova Erechim,"2, Brazil, Italy","1,71 m",0,0
+332,45720,Wagner,left,"Jan 29, 1985 (39)",Sete Lagoas,"1, Brazil","1,75 m",0,0
+333,53757,Felipe-Menezes,right,"Jan 20, 1988 (37)",Goiânia,"2, Brazil, Italy","1,85 m",0,0
+334,68784,Leandro-Donizete,right,"May 18, 1982 (42)",Araraquara,"1, Brazil","1,75 m",0,0
+335,99516,Tiago-Real,right,"Jan 26, 1989 (35)",Curitiba,"1, Brazil","1,72 m",0,0
+336,105512,Felipe-Silva,left,"May 28, 1990 (34)",São Paulo,"1, Brazil","1,71 m",0,0
+337,155351,Ferrugem,right,"Mar 28, 1988 (36)",Pedro Canário,"1, Brazil","1,82 m",5,0
+338,19206,David,right,"May 29, 1982 (42)",Araxá,"2, Brazil, Portugal","1,77 m",0,0
+339,22448,Elias,right,"Sep 4, 1981 (43)",N/A,"2, Brazil, Portugal","1,76 m",0,0
+340,68822,Rodrigo-Mancha,right,"Jun 16, 1986 (38)",Curitiba,"1, Brazil","1,89 m",0,0
+341,216118,Eduardo-Henrique,right,"May 17, 1995 (29)",Limeira,"2, Brazil, Saudi Arabia","1,86 m",0,0
+342,271187,Juninho,right,"Oct 23, 1987 (37)",Goiânia,"1, Brazil","1,73 m",0,0
+343,271329,Rodrigo-Souza,left,"Oct 27, 1987 (37)",São Gonçalo,"1, Brazil","1,86 m",0,0
+344,346935,Yago-Felipe,right,"Feb 3, 1995 (29)",Limoeiro do Norte,"1, Brazil","1,74 m",0,0
+345,225432,Ze-Rafael,right,"Jun 16, 1993 (31)",Ponta Grossa,"2, Brazil, Italy","1,75 m",0,0
+346,73912,Kanu,left,"Sep 23, 1987 (37)","Barueri, São Paulo","3, Albania, Belgium, Brazil","1,90 m",0,0
+347,42764,Gui-Finkler,right,"Sep 24, 1985 (39)",Caxias do Sul,"2, Brazil, Italy","1,84 m",0,0
+348,80151,William-Soares,right,"Dec 30, 1988 (36)",Goiânia,"3, Angola, Brazil, Portugal","1,85 m",0,0
+349,154990,Rene-Santos,both,"Apr 21, 1992 (32)",Salvador,"1, Brazil","1,87 m",0,0
+350,283865,Pedro-Bambu,right,"Jun 6, 1987 (37)",Pindaré Mirim,"1, Brazil","1,74 m",0,0
+351,55273,Roger-Gaucho,left,"Mar 30, 1986 (38)",São Leopoldo,"1, Brazil","1,77 m",0,0
+352,56674,Luiz-Henrique,right,"Jul 2, 1981 (43)",Rio de Janeiro,"1, Brazil","1,71 m",0,0
+353,80444,Philippe-Coutinho,right,"Jun 12, 1992 (32)",Rio de Janeiro,"2, Brazil, Portugal","1,72 m",68,21
+354,294873,Thiago-Maia,left,"Mar 23, 1997 (27)",Boa Vista,"1, Brazil","1,79 m",1,0
+355,447661,Douglas-Luiz,right,"May 9, 1998 (26)",Rio de Janeiro,"2, Brazil, Italy","1,77 m",18,0
+356,10471,Luiz-Gustavo,left,"Jul 23, 1987 (37)",Pindamonhangaba,"2, Brazil, Germany","1,87 m",40,2
+357,232847,Lucas-Lima,left,"Jul 9, 1990 (34)",Marília,"1, Brazil","1,76 m",14,2
+358,499721,Wendel,right,"Aug 28, 1997 (27)",Duque de Caxias,"2, Brazil, Russia","1,80 m",12,1
+359,41414,Lucas-Leiva,right,"Jan 9, 1987 (38)",Dourados,"2, Brazil, Italy","1,79 m",24,0
+360,67917,Rafael-Carioca,right,"Jun 18, 1989 (35)",Rio de Janeiro,"2, Brazil, Mexico","1,79 m",0,0
+361,312314,Otavio,right,"May 4, 1994 (30)",Maceió,"1, Brazil","1,73 m",0,0
+362,17663,Cicero,N/A,"Aug 26, 1984 (40)",Castelo,"1, Brazil",N/A,0,0
+363,490432,Augusto-Galvan,left,"Mar 25, 1999 (25)",Ribeirão Preto,"2, Brazil, Italy","1,72 m",0,0
+364,236549,Cleyton,right,"Feb 24, 1990 (34)",Campo Grande,"1, Brazil","1,76 m",0,0
+365,333028,Wander-Luiz,left,"May 30, 1987 (37)",Lamim,"1, Brazil","1,83 m",0,0
+366,288498,Matheus-Indio,left,"Feb 28, 1996 (28)",Rio de Janeiro,"1, Brazil","1,79 m",6,1
+367,20402,Augusto-Recife,right,"Aug 3, 1983 (41)",Joaquim Nabuco,"1, Brazil","1,68 m",0,0
+368,27363,Edinho,right,"Jan 15, 1983 (42)",Niterói,"1, Brazil","1,80 m",0,0
+369,72861,Airton,right,"Feb 21, 1990 (34)",Rio de Janeiro,"1, Brazil","1,82 m",0,0
+370,99496,Paulinho,right,"Jan 26, 1989 (35)",Blumenau,"2, Brazil, Italy","1,77 m",0,0
+371,205179,Jadson,right,"Aug 30, 1993 (31)",São Bernardo do ...,"1, Brazil","1,71 m",0,0
+372,373191,Flavio,right,"Feb 10, 1996 (28)",Santos,"2, Brazil, Saudi Arabia","1,78 m",0,0
+373,435239,Rodrigo-Andrade,right,"Feb 3, 1997 (27)",Belém,"1, Brazil","1,74 m",0,0
+374,521074,Igor-Henrique,right,"Dec 20, 1991 (33)",Castanhal,"1, Brazil","1,83 m",0,0
+375,345544,Romulo,left,"Oct 27, 1995 (29)",Recife,"2, Brazil, China","1,72 m",0,0
+376,353279,Edinho,right,"Aug 8, 1994 (30)",Baturité,"1, Brazil","1,58 m",0,0
+377,112425,Marinho,right,"Dec 11, 1989 (35)",Dourados,"1, Brazil","1,79 m",0,0
+378,380696,Kaka,right,"May 20, 1991 (33)",São Paulo,"2, Brazil, Portugal","1,76 m",0,0
+379,162812,Cauly,both,"Sep 15, 1995 (29)",Porto Seguro,"2, Brazil, Germany","1,75 m",0,0
+380,243527,Wallacer,right,"Jun 3, 1986 (38)",Macaé,"1, Brazil","1,78 m",0,0
+381,288502,Gustavo-Hebling,right,"Apr 5, 1996 (28)",Piracicaba,"1, Brazil","1,73 m",8,0
+382,363781,Arthur-Rezende,right,"Mar 21, 1994 (30)",Goiatuba,"2, Brazil, Saudi Arabia","1,79 m",0,0
+383,390685,Georginho,right,"Mar 25, 1991 (33)",Araranguá,"1, Brazil","1,86 m",0,0
+384,479587,Raul,right,"Jul 11, 1996 (28)",Tauá,"1, Brazil","1,80 m",0,0
+385,97506,Jean-Carioca,right,"Jun 1, 1988 (36)",Rio de Janeiro,"1, Brazil","1,76 m",0,0
+386,114061,Taianan,right,"Mar 13, 1987 (37)",Passo Fundo,"2, Brazil, Spain","1,79 m",9,0
+387,178943,Diogo-Oliveira,right,"Jan 7, 1982 (43)",Rio de Janeiro,"1, Brazil","1,82 m",0,0
+388,374855,Gustavo-Blanco,right,"Oct 3, 1994 (30)",Salvador,"1, Brazil","1,74 m",0,0
+389,155123,Jonathan,right,"May 11, 1991 (33)",Rio de Janeiro,"1, Brazil","1,75 m",0,0
+390,183893,Marino,right,"Feb 18, 1986 (38)",São Manoel,"1, Brazil","1,82 m",0,0
+391,187872,Diogo-Kachuba,right,"Feb 16, 1990 (34)",Cascavel (PR),"1, Brazil","1,86 m",0,0
+392,230492,Dener,right,"Apr 12, 1995 (29)",Carapicuíba,"1, Brazil","1,81 m",0,0
+393,299596,Gege,left,"Jan 28, 1994 (30)",Mombaça,"1, Brazil","1,75 m",0,0
+394,333857,Murilo-Henrique,right,"Nov 20, 1994 (30)",Jataí,"1, Brazil","1,77 m",0,0
+395,369283,Bruno-Mota,left,"May 22, 1995 (29)",Curitiba,"1, Brazil","1,87 m",0,0
+396,375661,Gian-Martins,left,"Apr 2, 1993 (31)",Porto Alegre,"1, Brazil","1,84 m",0,0
+397,411291,Fabio-Matos,right,"Jan 31, 1996 (28)",Recife,"1, Brazil","1,75 m",0,0
+398,440366,Dionatan-Machado,left,"Dec 22, 1992 (32)",Cachoeira do Sul,"1, Brazil","1,78 m",0,0
+399,519854,Joao-Paulo,right,"May 4, 1990 (34)",Guarabira,"1, Brazil","1,69 m",0,0
+400,554869,Thiago-Amaral,left,"Jan 25, 1992 (32)",São Bento do Sul,"2, Brazil, Lebanon","1,81 m",0,0
+401,530737,Richard,right,"Feb 18, 1994 (30)",Campinas,"2, Brazil, Türkiye","1,91 m",0,0
+402,538234,Marlon,right,"Feb 26, 1990 (34)",Curitiba,"1, Brazil","1,75 m",0,0
+403,273882,Bruno-Agnello,left,"Dec 7, 1985 (39)",Santos,"2, Brazil, Italy","1,76 m",0,0
+404,578413,Marco-Antonio,right,"Oct 1, 1997 (27)",Belém,"1, Brazil","1,72 m",0,0
+405,524601,Warian,right,"Jun 14, 1996 (28)",Belém,"1, Brazil","1,78 m",0,0
+406,55480,Pedro-Carmona,left,"Apr 15, 1988 (36)",Porto Alegre,"1, Brazil","1,77 m",0,0
+407,518723,Luizao,right,"Feb 20, 1998 (26)",São Paulo,"1, Brazil","1,84 m",0,0
+408,174835,Adryan,right,"Aug 10, 1994 (30)",Rio de Janeiro,"2, Brazil, Portugal","1,75 m",3,0
+409,408958,Mateus-Vital,right,"Feb 12, 1998 (26)",Rio de Janeiro,"3, Brazil, China, Portugal","1,75 m",3,2
+410,75131,Bruno-Silva,right,"Aug 3, 1986 (38)",Nova Lima,"1, Brazil","1,82 m",0,0
+411,111828,Fransergio,right,"Oct 18, 1990 (34)",Rondonópolis,"2, Brazil, Portugal","1,86 m",0,0
+412,124546,Deivid,right,"Jan 18, 1989 (36)",Londrina,"1, Brazil","1,74 m",0,0
+413,65162,Marcio-Araujo,right,"Jun 11, 1984 (40)",São Luís,"1, Brazil","1,72 m",0,0
+414,127528,Luiz-Antonio,right,"Mar 11, 1991 (33)",Rio de Janeiro,"2, Brazil, Vietnam","1,81 m",5,0
+415,435186,Michel,both,"Mar 22, 1990 (34)",São Paulo,"1, Brazil","1,75 m",0,0
+416,106041,Ricardinho,both,"Sep 4, 1989 (35)",Santo André,"1, Brazil","1,78 m",0,0
+417,435488,Artur,right,"Mar 11, 1996 (28)",Brumado,"2, Brazil, United States","1,80 m",0,0
+418,27410,Caio,N/A,"May 29, 1986 (38)",Mirandópolis,"1, Brazil",N/A,0,0
+419,333159,Patrick,left,"Jul 29, 1992 (32)",Rio de Janeiro,"1, Brazil","1,76 m",0,0
+420,61296,Kadu,right,"Aug 31, 1986 (38)",Andradina,"1, Brazil","1,77 m",0,0
+421,253734,Ismael-Silva,right,"Dec 1, 1994 (30)",Rio de Janeiro,"2, Brazil, Russia","1,72 m",0,0
+422,435331,Matheus-Jesus,left,"Apr 10, 1997 (27)",Salvador,"2, Brazil, Japan","1,87 m",1,0
+423,128823,Elton,right,"Mar 17, 1990 (34)",Teodoro Sampaio,"1, Brazil","1,80 m",0,0
+424,198859,Joao-Schmidt,left,"May 19, 1993 (31)",São Paulo,"1, Brazil","1,83 m",5,0
+425,378975,Matheus-Galdezani,right,"Mar 13, 1992 (32)",Limeira,"1, Brazil","1,79 m",0,0
+426,76135,Elvis,right,"Sep 9, 1990 (34)",Janiópolis,"1, Brazil","1,75 m",0,0
+427,259460,Leo-Artur,right,"Mar 23, 1995 (29)",Osasco,"2, Brazil, Vietnam","1,77 m",0,0
+428,390370,Ravanelli,right,"Aug 29, 1997 (27)",Campinas,"1, Brazil","1,82 m",2,0
+429,125558,Gabriel-Marques,right,"Mar 4, 1988 (36)",Pedro Leopoldo,"2, Brazil, Ecuador","1,84 m",0,0
+430,66895,Lucas-Silva,right,"Aug 26, 1984 (40)",Miguel Calmon,"2, Brazil, Mexico","1,88 m",0,0
+431,82502,Alex-Lima,left,"Dec 15, 1988 (36)",São Paulo,"2, Brazil, United States","1,74 m",0,0
+432,107012,Augusto-Cesar,right,"Aug 6, 1992 (32)",Porto Alegre,"1, Brazil","1,78 m",0,0
+433,176997,Anderson-Carvalho,right,"May 20, 1990 (34)",Cubatão,"2, Brazil, Portugal","1,74 m",0,0
+434,55382,Cristian,right,"Jun 25, 1983 (41)",Belo Horizonte,"1, Brazil","1,83 m",0,0
+435,67967,Leandro-Salino,right,"Apr 22, 1985 (39)",Juiz de Fora,"1, Brazil","1,70 m",0,0
+436,159655,Fernando-Gabriel,right,"May 11, 1988 (36)",Eldorado,"1, Brazil","1,79 m",0,0
+437,446408,Yuri-Lima,right,"Aug 5, 1994 (30)",São Paulo,"1, Brazil","1,82 m",0,0
+438,148135,Paulo-Roberto,right,"Mar 6, 1987 (37)",Lavras,"1, Brazil","1,76 m",0,0
+439,220722,Eduardo,left,"Jun 7, 1993 (31)",Fortaleza,"1, Brazil","1,78 m",0,0
+440,349443,Ricardo-Ryller,right,"Feb 27, 1994 (30)",Tangará da Serra,"1, Brazil","1,84 m",0,0
+441,85308,Washington,right,"Jan 20, 1989 (36)",São Paulo,"2, Brazil, Portugal","1,82 m",0,0
+442,174818,Muralha,right,"Jan 21, 1993 (32)",Rio de Janeiro,"2, Brazil, United Arab Emirates","1,78 m",0,0
+443,191614,Fred,both,"Mar 5, 1993 (31)",Belo Horizonte,"2, Brazil, Türkiye","1,69 m",32,0
+444,444523,Lucas-Paqueta,left,"Aug 27, 1997 (27)",Paquetá,"3, Brazil, England, Portugal","1,80 m",55,11
+445,362842,Arthur-Melo,right,"Aug 12, 1996 (28)",Goiânia,"2, Brazil, Italy","1,72 m",22,1
+446,330085,Gustavo-Scarpa,left,"Jan 5, 1994 (31)",Campinas,"2, Brazil, Italy","1,77 m",1,0
+447,421935,Maycon,left,"Jul 15, 1997 (27)",São Paulo,"1, Brazil","1,75 m",5,0
+448,77059,Rodriguinho,right,"Mar 27, 1988 (36)",Natal,"1, Brazil","1,77 m",2,0
+449,364261,Tche-Tche,both,"Aug 30, 1992 (32)",São Paulo,"1, Brazil","1,75 m",0,0
+450,258070,Ramiro,right,"May 22, 1993 (31)",Gramado,"3, Brazil, Italy, United States","1,69 m",0,0
+451,366948,Jailson,right,"Sep 7, 1995 (29)",Caçapava do Sul,"2, Brazil, Spain","1,87 m",0,0
+452,351892,Matheus-Fernandes,right,"Jun 30, 1998 (26)",Itaboraí,"1, Brazil","1,83 m",2,0
+453,436570,William-Oliveira,right,"Feb 25, 1992 (32)",Paracambi,"1, Brazil","1,82 m",0,0
+454,106504,Alex-Maranhao,right,"Apr 30, 1985 (39)",São Luis,"1, Brazil","1,70 m",0,0
+455,142142,Esquerdinha,left,"Oct 10, 1989 (35)",Jaboatão dos ...,"1, Brazil","1,73 m",0,0
+456,147402,Dodo,right,"Jun 20, 1987 (37)",Aurora,"1, Brazil","1,77 m",0,0
+457,162532,Claudemir,right,"Aug 17, 1984 (40)",Rio de Janeiro,"1, Brazil","1,73 m",0,0
+458,212225,Jocinei,left,"Feb 4, 1990 (34)",Timbó,"1, Brazil","1,82 m",0,0
+459,333602,Juninho,right,"Sep 3, 1995 (29)",Rio das Pedras,"1, Brazil","1,70 m",0,0
+460,349161,Tomas-Bastos,left,"Apr 30, 1992 (32)",Araguaína,"1, Brazil","1,77 m",0,0
+461,323614,Ze-Paulo,right,"Mar 26, 1994 (30)",Rio de Janeiro,"2, Brazil, Vietnam","1,89 m",0,0
+462,583064,Thiago-Conti,right,"Apr 11, 1997 (27)",Suzano,"1, Brazil","1,80 m",0,0
+463,112611,Leozinho,right,"Jun 7, 1988 (36)",Ceará,"2, Brazil, Portugal","1,70 m",0,0
+464,561214,Thonny--Anderson,left,"Dec 27, 1997 (27)",São Paulo,"2, Brazil, Japan","1,84 m",0,0
+465,112060,Tony,right,"May 29, 1986 (38)",São Paulo,"1, Brazil","1,76 m",0,0
+466,178935,Diego-Felipe,right,"Jan 6, 1989 (36)",Rio de Janeiro,"1, Brazil","1,86 m",0,0
+467,186579,Claudinei,right,"Oct 8, 1988 (36)",Sete Lagoas,"1, Brazil","1,78 m",0,0
+468,199137,Adriano-Da-Matta,right,"Jul 12, 1988 (36)",Santo André,"2, Brazil, Portugal","1,73 m",0,0
+469,258620,Feijao,right,"Apr 8, 1994 (30)",Salvador,"1, Brazil","1,80 m",0,0
+470,292731,Danielzinho,right,"Nov 4, 1994 (30)",Andradina,"1, Brazil","1,66 m",0,0
+471,346072,Marcao,right,"Jan 14, 1991 (34)",Riacho de Santana,"1, Brazil","1,83 m",0,0
+472,348267,Bruno-Ramires,right,"Mar 18, 1994 (30)",Minas Gerais,"1, Brazil","1,90 m",0,0
+473,349903,Bruno-Lamas,left,"Apr 13, 1994 (30)",Ilha Solteira (SP),"3, Brazil, Italy, Korea, South","1,77 m",0,0
+474,476364,Mateus-Norton,right,"Jul 19, 1996 (28)",Campo Bom,"1, Brazil","1,75 m",0,0
+475,286051,Gilmar,both,"Mar 26, 1990 (34)",N/A,"1, Brazil","1,77 m",0,0
+476,105436,Gerson,right,"Oct 4, 1992 (32)",Porto Alegre,"2, Brazil, Hongkong","1,79 m",14,3
+477,163401,Felipe-Brisola,right,"Jun 6, 1990 (34)",Boa Vista,"1, Brazil","1,70 m",0,0
+478,221524,Victor-Juffo,left,"Feb 24, 1993 (31)",Guaçuí,"1, Brazil","1,76 m",0,0
+479,177545,Julinho,left,"Aug 5, 1986 (38)",São Paulo,"1, Brazil","1,84 m",0,0
+480,612162,Jadsom,right,"May 20, 2001 (23)",Recife,"1, Brazil","1,76 m",2,0
+481,552549,Matheus-Henrique,right,"Dec 19, 1997 (27)",São Paulo,"1, Brazil","1,75 m",1,0
+482,374089,Carlos-Jatoba,left,"Sep 15, 1995 (29)",Curitiba,"3, Azerbaijan, Brazil, Italy","1,83 m",0,0
+483,181784,Matheus-Barbosa,both,"Aug 18, 1994 (30)",São Bernardo do ...,"1, Brazil","1,84 m",15,2
+484,519875,Jobson,right,"Sep 13, 1995 (29)",São Paulo,"2, Brazil, Saudi Arabia","1,85 m",0,0
+485,350342,Fernando-Sobral,right,"Dec 17, 1994 (30)",Sobral,"1, Brazil","1,78 m",0,0
+486,407653,Sandy,right,"Jun 9, 1994 (30)",Brasília,"1, Brazil","1,87 m",0,0
+487,468301,Marcos-Antonio,right,"Jun 13, 2000 (24)",Poções,"1, Brazil","1,66 m",2,0
+488,212923,Paulinho,left,"Jul 10, 1994 (30)",Ceilândia,"2, Brazil, United Arab Emirates","1,66 m",0,0
+489,55042,Diego-Rigonato,left,"Mar 9, 1988 (36)",Americana,"1, Brazil","1,75 m",0,0
+490,214070,Ewerton,right,"Dec 1, 1992 (32)",São Paulo,"2, Brazil, Portugal","1,81 m",0,0
+491,393621,Douglas-Augusto,left,"Jan 13, 1997 (28)",Rio de Janeiro,"2, Brazil, France","1,73 m",1,0
+492,186922,Rodrigo-Lindoso,right,"Jun 6, 1989 (35)",São Luís,"1, Brazil","1,82 m",0,0
+493,218115,Marcos-Junior,right,"Jan 19, 1993 (32)",Gama,"2, Brazil, Japan","1,67 m",3,1
+494,329013,Serginho,left,"Mar 15, 1995 (29)",Monte Aprazível,"2, Brazil, China","1,80 m",0,0
+495,187210,Leo-Cittadini,left,"Feb 27, 1994 (30)",Rio Claro,"2, Brazil, Italy","1,79 m",0,0
+496,145573,Richardson,right,"Aug 17, 1991 (33)",Natal,"1, Brazil","1,74 m",0,0
+497,546036,Gregore,right,"Mar 2, 1994 (30)",Juiz de Fora,"1, Brazil","1,81 m",0,0
+498,232096,Renato-Augusto,right,"Jan 29, 1992 (32)",Caieiras,"3, Brazil, Japan, Portugal","1,85 m",0,0
+499,329843,Neto-Moura,right,"Aug 6, 1996 (28)",Atalaia,"1, Brazil","1,76 m",0,0
+500,294796,Auro,right,"Jan 23, 1996 (29)",Jaú,"2, Brazil, Georgia","1,68 m",4,0
+501,373174,Dodi,right,"Apr 17, 1996 (28)",Santo Antônio do ...,"1, Brazil","1,69 m",0,0
+502,183945,Eber-Bessa,right,"Mar 21, 1992 (32)",Belo Horizonte,"2, Brazil, Indonesia","1,66 m",0,0
+503,373089,Gustavo-Costa,both,"Mar 20, 1995 (29)",Manacapuru,"2, Brazil, Portugal","1,77 m",0,0
+504,376135,Andre-Castro,right,"Nov 2, 1991 (33)",São Paulo,"1, Brazil","1,81 m",0,0
+505,627226,Reinier,right,"Jan 19, 2002 (23)",Brasília,"2, Brazil, Spain","1,85 m",10,3
+506,520624,Bruno-Guimaraes,right,"Nov 16, 1997 (27)",Rio de Janeiro,"3, Brazil, England, Spain","1,82 m",32,1
+507,578872,Jean-Lucas,right,"Jun 22, 1998 (26)",Rio de Janeiro,"1, Brazil","1,81 m",8,0
+508,313106,Luan,right,"Mar 27, 1993 (31)",São José do Rio ...,"1, Brazil","1,80 m",2,0
+509,528632,Wanderson,right,"Jul 26, 1994 (30)",João Lisboa,"2, Azerbaijan, Brazil","1,80 m",0,0
+510,104850,Chiquinho,left,"Jul 27, 1989 (35)",Caxias,"1, Brazil","1,70 m",0,0
+511,224878,Joao-Afonso,right,"Feb 9, 1995 (29)",Criciúma,"1, Brazil","1,81 m",1,0
+512,269441,Diego-Jardel,right,"Dec 26, 1989 (35)",Águas Mornas,"1, Brazil","1,79 m",0,0
+513,382240,Joao-Paulo,right,"Sep 6, 1993 (31)",Vila Velha,"1, Brazil","1,78 m",0,0
+514,144688,Diogo-Campos,right,"Dec 31, 1990 (34)",Miranorte,"1, Brazil","1,74 m",0,0
+515,112632,Raphael-Augusto,both,"Mar 6, 1991 (33)",Rio de Janeiro,"1, Brazil","1,81 m",0,0
+516,154981,Baraka,right,"Jul 21, 1986 (38)",Avaré,"1, Brazil","1,81 m",0,0
+517,460985,Higor-Vidal,both,"Sep 26, 1996 (28)",Campo Largo - PR,"2, Brazil, Iraq","1,75 m",0,0
+518,212902,Guilherme-Biteco,left,"Mar 12, 1994 (30)",Porto Alegre,"2, Brazil, Hongkong","1,76 m",0,0
+519,39711,Andre-Moritz,left,"Aug 6, 1986 (38)",Florianópolis,"2, Brazil, Italy","1,87 m",0,0
+520,49141,Ze-Antonio,right,"Mar 19, 1984 (40)",Monte Azul Paulista,"1, Brazil","1,80 m",0,0
+521,140138,Lucas-Chiaretti,left,"Sep 22, 1987 (37)",Belo Horizonte,"2, Brazil, Italy","1,71 m",0,0
+522,312848,Diego-Medeiros,right,"Mar 28, 1993 (31)",São Paulo,"1, Brazil","1,87 m",0,0
+523,378866,Alan-Schons,right,"May 24, 1993 (31)",Bom Princípio (RS),"1, Brazil","1,80 m",0,0
+524,520500,Marcinho,right,"Jul 28, 1995 (29)",Londrina,"2, Bahrain, Brazil","1,74 m",0,0
+525,607854,Ederson,right,"Jul 7, 1999 (25)",Campo Grande,"2, Brazil, Italy","1,83 m",2,0
+526,512401,Alvaro-Iuliano,right,"Jun 6, 1991 (33)",Ribeirão Preto,"2, Brazil, Italy","1,78 m",0,0
+527,530289,Luiz-Henrique,right,"Apr 19, 1997 (27)",Maceió,"1, Brazil","1,71 m",0,0
+528,432937,Clayton,right,"Dec 19, 1991 (33)",Santo Antônio da ...,"1, Brazil","1,76 m",0,0
+529,681542,Luis-Fernando,right,"Jan 27, 1998 (26)",N/A,"1, Brazil","1,83 m",0,0
+530,520610,Lucas-Villela,right,"Mar 24, 1994 (30)",Santa Luzia,"2, Armenia, Brazil","1,76 m",0,0
+531,718423,Dudu,left,"Nov 29, 2000 (24)",Sao Paulo,"2, Brazil, Italy","1,67 m",0,0
+532,368638,Morelatto,left,"May 25, 1994 (30)",Caieiras (SP),"3, Brazil, Indonesia, Italy","1,80 m",0,0
+533,687844,Thiago,both,"Mar 18, 1997 (27)",Campo Grande,"1, Brazil","1,77 m",0,0
+534,323874,Evander,right,"Jun 9, 1998 (26)",Rio de Janeiro,"2, Brazil, United States","1,80 m",11,7
+535,546172,Nonato,right,"Mar 3, 1998 (26)",São Paulo,"2, Brazil, Italy","1,75 m",0,0
+536,430761,Lucas-Fernandes,right,"Sep 20, 1997 (27)",São Bernardo do ...,"2, Brazil, Portugal","1,75 m",2,0
+537,672202,Camilo,right,"Feb 23, 1999 (25)",Mogi Mirim,"3, Brazil, Netherlands, Russia","1,76 m",0,0
+538,419420,Everton-Felipe,right,"Jul 28, 1997 (27)",Limoeiro,"1, Brazil","1,71 m",0,0
+539,390368,Vitor-Bueno,right,"Sep 5, 1994 (30)",Ribeirão Preto,"3, Brazil, Italy, Japan","1,83 m",0,0
+540,418530,Danielzinho,right,"Jan 11, 1996 (29)",Rio de Janeiro,"1, Brazil","1,73 m",0,0
+541,445000,Matheus-Rossetto,right,"Jun 3, 1996 (28)",Santo Amaro da ...,"2, Brazil, Italy","1,80 m",0,0
+542,153905,Victor-Ferraz,right,"Jan 14, 1988 (37)",João Pessoa,"1, Brazil","1,74 m",0,0
+543,153065,Fernando-Canesin,right,"Feb 27, 1992 (32)",Ribeirão Preto,"2, Belgium, Brazil","1,74 m",0,0
+544,520467,Juan-Alano,right,"Sep 2, 1996 (28)",Curitiba,"2, Brazil, Japan","1,74 m",0,0
+545,312666,Matheus-Savio,right,"Apr 15, 1997 (27)",Brodowski (SP),"3, Brazil, Italy, Japan","1,75 m",10,1
+546,402825,Luquinhas,right,"Sep 28, 1996 (28)",Ceilândia,"3, Brazil, Poland, Portugal","1,69 m",0,0
+547,435213,Leo-Sena,right,"Dec 31, 1995 (29)",São Paulo,"2, Australia, Brazil","1,75 m",0,0
+548,181775,Andrigo,right,"Feb 27, 1995 (29)",Estrela,"2, Brazil, China","1,70 m",5,0
+549,182285,Daniel-Amora,right,"Oct 20, 1987 (37)",Belo Horizonte,"1, Brazil","1,78 m",0,0
+550,540990,Jhonny-Lucas,right,"Feb 21, 2000 (24)",Curitiba,"1, Brazil","1,70 m",0,0
+551,678439,Mauricio,left,"Jun 22, 2001 (23)",São Paulo,"2, Brazil, Paraguay","1,74 m",7,1
+552,44172,Vinicius,right,"May 16, 1986 (38)",Campo Grande,"2, Brazil, Portugal","1,86 m",0,0
+553,174570,Gabriel,right,"Jan 6, 1990 (35)",Salvador,"1, Brazil","1,78 m",0,0
+554,216893,Joao-Ananias,N/A,"Jan 12, 1991 (34)",Recife,"2, Brazil, Iceland","1,74 m",0,0
+555,232577,Jonatan-Lucca,both,"Jun 2, 1994 (30)",Santa Maria,"3, Brazil, Italy, Uzbekistan","1,84 m",0,0
+556,486078,Charles,right,"Jun 19, 1996 (28)",Santiago,"1, Brazil","1,87 m",0,0
+557,177544,Revson,left,"Dec 20, 1987 (37)",Cascavel,"1, Brazil","1,86 m",0,0
+558,100124,Geovane,right,"Feb 20, 1989 (35)",Pedregulho,"1, Brazil","1,79 m",0,0
+559,364972,Marlon-Freitas,right,"Mar 27, 1995 (29)",Magé,"1, Brazil","1,85 m",0,0
+560,347288,Jean-Patrick,right,"Jun 25, 1992 (32)",São Miguel do ...,"1, Brazil","1,72 m",0,0
+561,403315,Claudinho,right,"Jan 28, 1997 (27)",Guarulhos,"3, Brazil, Qatar, Russia","1,70 m",0,0
+562,598972,Martha,right,"Jun 20, 1997 (27)",São Paulo,"1, Brazil","1,81 m",0,0
+563,74119,Madson,both,"May 21, 1986 (38)",Volta Redonda,"2, Brazil, Italy","1,57 m",0,0
+564,175377,Pio,right,"Jan 23, 1988 (37)",Fortaleza,"1, Brazil","1,75 m",0,0
+565,186886,Wellington-Simiao,left,"Mar 23, 1987 (37)",Poços de Caldas,"1, Brazil","1,78 m",0,0
+566,373262,Wagner,right,"May 27, 1991 (33)",Eldorado do Sul,"1, Brazil","1,83 m",0,0
+567,225984,Matheus-Pereira,left,"May 5, 1996 (28)",Belo Horizonte,"2, Brazil, Portugal","1,75 m",1,0
+568,129473,Rafinha,left,"Feb 12, 1993 (31)",São Paulo,"2, Brazil, Spain","1,74 m",2,1
+569,574765,Praxedes,left,"Feb 8, 2002 (22)",Itaboraí,"1, Brazil","1,86 m",0,0
+570,662327,Diego-Rosa,right,"Oct 12, 2002 (22)",Salvador,"2, Belgium, Brazil","1,82 m",0,0
+571,727751,Caio-Alexandre,right,"Feb 24, 1999 (25)",Duque de Caxias,"1, Brazil","1,74 m",0,0
+572,261457,Memo,right,"Feb 14, 1988 (36)",Bonito,"1, Brazil","1,79 m",0,0
+573,271476,Betinho,left,"Dec 31, 1987 (37)",São Paulo,"1, Brazil","1,75 m",0,0
+574,410003,Leandro-Leite,right,"Dec 27, 1982 (42)",Piracanjuba,"1, Brazil","1,81 m",0,0
+575,425939,Leandrinho,left,"Sep 21, 1996 (28)",Rio de Janeiro,"2, Brazil, Portugal","1,75 m",0,0
+576,520456,Wesley-Dias,right,"Jun 22, 1995 (29)",Cosmópolis,"1, Brazil","1,81 m",0,0
+577,520665,Val-Soares,right,"Mar 12, 1997 (27)",Tailândia,"1, Brazil","1,76 m",0,0
+578,602031,Miranda,right,"May 9, 1998 (26)",Alvorada,"2, Brazil, Portugal","1,83 m",0,0
+579,373302,Silas,left,"May 30, 1996 (28)",Pelotas,"1, Brazil","1,76 m",0,0
+580,468167,Jhony-Douglas,right,"Feb 19, 1997 (27)",Arapongas,"1, Brazil","1,80 m",0,0
+581,527025,Denisson-Silva,left,"Nov 29, 1997 (27)",Aracaju (SE),"2, Brazil, Korea, South","1,71 m",0,0
+582,547445,Wilson-Santos,right,"Nov 4, 1993 (31)",Alagoas,"2, Brazil, Portugal","1,78 m",0,0
+583,606954,Robson,right,"Jul 14, 1995 (29)",N/A,"2, Bahrain, Brazil","1,80 m",0,0
+584,808509,Danilo,left,"Apr 29, 2001 (23)",Salvador,"2, Brazil, England","1,77 m",0,0
+585,726005,Guilherme-Castilho,right,"Sep 19, 1999 (25)",Arapoema,"2, Brazil, Mexico","1,80 m",0,0
+586,871792,Junior,right,N/A(29),Niteroi,"2, Brazil, Spain","1,75 m",3,1
+587,663581,Vini-Souza,right,"Jun 17, 1999 (25)",Rio de Janeiro,"2, Brazil, England","1,87 m",0,0
+588,546000,Diego-Pituca,left,"Aug 15, 1992 (32)",Mogi Guaçu,"1, Brazil","1,78 m",0,0
+589,323944,Vitinho,right,"Mar 24, 1998 (26)",São Paulo,"1, Brazil","1,76 m",0,0
+590,74789,Wellington,right,"Jan 28, 1991 (33)",São Paulo,"1, Brazil","1,73 m",3,0
+591,53365,William,left,"Nov 20, 1986 (38)",São Paulo,"2, Brazil, Mexico","1,75 m",0,0
+592,128932,Rithely,right,"Jan 27, 1991 (33)",São Luís,"1, Brazil","1,75 m",0,0
+593,176485,Lucas-Piazon,right,"Jan 20, 1994 (31)",São Paulo,"3, Brazil, Italy, Portugal","1,82 m",2,1
+594,387611,Lima,right,"Jun 11, 1996 (28)",Porto Alegre,"1, Brazil","1,81 m",0,0
+595,219835,Alex-Santana,right,"May 13, 1995 (29)",Atibaia,"2, Brazil, Bulgaria","1,82 m",0,0
+596,401533,Matheusinho,right,"Feb 11, 1998 (26)",Belo Horizonte,"2, Brazil, Portugal","1,64 m",0,0
+597,798114,Calebe,left,"Apr 30, 2000 (24)",Monte Azul,"1, Brazil","1,73 m",0,0
+598,155470,Jorginho,right,"Jan 5, 1991 (34)",Goiânia,"1, Brazil","1,80 m",0,0
+599,255685,Valdivia,right,"Oct 4, 1994 (30)",Jaciara,"2, Brazil, Korea, South","1,74 m",4,1
+600,281438,Yago-Henrique,right,"Jul 7, 1995 (29)",Belo Horizonte,"1, Brazil","1,80 m",0,0
+601,538107,Willian-Maranhao,left,"Dec 14, 1995 (29)",São Luís,"1, Brazil","1,79 m",0,0
+602,407654,Matheus-Sales,right,"May 13, 1995 (29)",Guarulhos,"2, Brazil, Korea, South","1,78 m",2,0
+603,439455,Gustavo-Bochecha,left,"Jun 8, 1996 (28)",Maricá,"1, Brazil","1,73 m",0,0
+604,71079,Ruy,right,"Jan 26, 1989 (35)",Itapeva,"1, Brazil","1,70 m",0,0
+605,202907,Renatinho,right,"Jan 31, 1992 (32)",Foz do Iguaçu,"1, Brazil","1,72 m",0,0
+606,524403,Fernando-Costanza,both,"Nov 29, 1998 (26)",Rio de Janeiro,"3, Brazil, Italy, Russia","1,82 m",0,0
+607,520858,Lipe-Veloso,left,"Apr 7, 1997 (27)",Ribeirão Preto,"1, Brazil","1,79 m",0,0
+608,255754,Lucas-Candido,right,"Dec 25, 1993 (31)",Uberlândia,"1, Brazil","1,78 m",3,0
+609,282513,Fabricio-Baiano,right,"Jun 13, 1992 (32)",Camacan,"2, Brazil, Romania","1,79 m",0,0
+610,792249,Claudinho,left,"Nov 18, 2000 (24)",Santa Terezinha,"1, Brazil","1,67 m",0,0
+611,347823,Caio-Cesar,both,"Jul 27, 1995 (29)",São Vicente,"2, Brazil, Vietnam","1,93 m",0,0
+612,469136,Yan-Sasse,left,"Jun 24, 1997 (27)",Porto Alegre,"2, Brazil, Tunisia","1,73 m",0,0
+613,36365,Celsinho,both,"Aug 25, 1988 (36)",Americana,"1, Brazil","1,77 m",4,2
+614,437566,Claudio-Falcao,right,"Jul 3, 1994 (30)",Aquidauana,"2, Brazil, Portugal","1,87 m",0,0
+615,186526,Gilberto-Junior,right,"Oct 20, 1988 (36)",Serrinha,"1, Brazil","1,85 m",0,0
+616,393835,Thiago-Lopes,right,"Oct 27, 1996 (28)",Mogi Mirim,"1, Brazil","1,78 m",0,0
+617,432961,Wesley-Nata,both,"Apr 18, 1995 (29)",Porto Alegre,"2, Brazil, Vietnam","1,83 m",0,0
+618,477461,Guilherme-Mantuan,right,"Aug 2, 1997 (27)",São Caetano do Sul,"2, Brazil, Italy","1,78 m",0,0
+619,520462,Romulo,right,"Jan 10, 1996 (29)",Cascavel,"1, Brazil","1,85 m",0,0
+620,606716,Pepe,right,"Jan 6, 1998 (27)",Rio de Janeiro,"2, Brazil, Italy","1,83 m",0,0
+621,646404,Zanocelo,right,"Jan 30, 2001 (23)",Santo André,"2, Brazil, Portugal","1,85 m",3,2
+622,68843,Caique,right,"Jan 10, 1987 (38)",Salvador,"1, Brazil","1,85 m",0,0
+623,255803,Geandro,left,"Nov 26, 1987 (37)",Jacareí,"1, Brazil","1,79 m",0,0
+624,737821,Patrick-de-Paula,left,"Sep 8, 1999 (25)",Rio de Janeiro,"1, Brazil","1,80 m",0,0
+625,104505,Alan-Patrick,right,"May 13, 1991 (33)",São Paulo,"1, Brazil","1,77 m",10,1
+626,859396,Metinho,right,"Apr 23, 2003 (21)",Matadi,"3, Brazil, DR Congo, Netherlands","1,78 m",0,0
+627,731693,Valdeci,left,"Mar 26, 1995 (29)",Fortaleza,"1, Brazil","1,78 m",0,0
+628,237851,Betinho,right,"Apr 4, 1992 (32)",Apeú,"2, Brazil, Indonesia","1,82 m",0,0
+629,347090,Leandro-Vilela,right,"Jun 29, 1995 (29)",Curitiba,"1, Brazil","1,77 m",0,0
+630,588627,Lucas-Santos,right,"Mar 7, 1999 (25)",Rio de Janeiro,"1, Brazil","1,64 m",0,0
+631,55454,Rogerinho,both,"Mar 20, 1987 (37)",Bacabal,"1, Brazil","1,76 m",0,0
+632,70119,Sandro-Manoel,right,"Jul 23, 1988 (36)",Recife,"2, Brazil, Portugal","1,80 m",0,0
+633,129127,Guilherme-Batata,left,"May 2, 1992 (32)",Uberaba,"2, Brazil, Indonesia","1,79 m",0,0
+634,147407,Thiago-Alagoano,right,"May 30, 1989 (35)",Delmiro Gouveia,"1, Brazil","1,71 m",0,0
+635,214527,Rafael-Longuine,both,"May 30, 1990 (34)",Paranavaí,"1, Brazil","1,73 m",0,0
+636,227986,Moises-Ribeiro,right,"Mar 3, 1991 (33)",Salvador,"1, Brazil","1,79 m",0,0
+637,258996,Kessi,right,"Oct 26, 1994 (30)",Arapiraca,"2, Brazil, Hongkong","1,84 m",0,0
+638,401532,Geovane,left,"Jun 15, 1998 (26)",Jacobina,"1, Brazil","1,70 m",0,0
+639,458115,Tarik,right,"Feb 18, 1993 (31)",Erechim,"2, Brazil, Italy","1,83 m",0,0
+640,529609,Rickson,right,"Mar 4, 1998 (26)",Rio de Janeiro,"1, Brazil","1,80 m",0,0
+641,572303,Lukas-Brambilla,both,"Jan 4, 1995 (30)",Caxias do Sul,"3, Brazil, India, Italy","1,80 m",0,0
+642,631787,Marcos-Junior,right,"Jan 29, 2000 (24)",Santos,"1, Brazil","1,70 m",0,0
+643,668798,Vini-Locatelli,right,"Mar 23, 1998 (26)",Campo Grande,"1, Brazil","1,83 m",0,0
+644,373085,Mikael,right,"Apr 6, 1993 (31)",N/A,"2, Brazil, United Arab Emirates","1,79 m",0,0
+645,614328,Eric-Ramires,right,"Aug 10, 2000 (24)",Salvador,"1, Brazil","1,72 m",4,0
+646,703322,Bruno-Gomes,right,"Apr 4, 2001 (23)",Rio de Janeiro,"2, Brazil, Italy","1,75 m",5,0
+647,840431,Gustavo,right,"Sep 11, 2002 (22)",Presidente Dutra,"2, Brazil, United Arab Emirates","1,78 m",0,0
+648,432958,Lucas-Mineiro,left,"Feb 24, 1996 (28)",Belo Horizonte,"1, Brazil","1,88 m",0,0
+649,167825,Alison,right,"Mar 1, 1993 (31)",Itanhaém,"1, Brazil","1,82 m",1,0
+650,351895,Andrey,right,"Feb 15, 1998 (26)",Rio de Janeiro,"1, Brazil","1,75 m",12,5
+651,662338,Miguel,right,"Mar 26, 2003 (21)",Vila Velha,"2, Brazil, Japan","1,74 m",1,1
+652,371258,Rhuan,right,"Jan 25, 2000 (24)",São Gonçalo,"1, Brazil","1,70 m",0,0
+653,229736,Alisson,right,"Jun 25, 1993 (31)",Rio Pomba,"1, Brazil","1,74 m",3,0
+654,670968,Ze-Gabriel,right,"Jan 21, 1999 (26)",Carmópolis,"1, Brazil","1,84 m",0,0
+655,252922,Jefferson,right,"Jan 22, 1994 (31)",Campinas,"2, Brazil, Türkiye","1,80 m",0,0
+656,534473,Paulinho-Paula,right,"Jan 8, 1997 (28)",Rio de Janeiro,"1, Brazil","1,73 m",0,0
+657,347909,Matheus-Jussa,left,"Mar 22, 1996 (28)",São Paulo,"2, Brazil, China","1,83 m",0,0
+658,190543,Dener,right,"Mar 13, 1992 (32)",São Bernardo do ...,"1, Brazil","1,88 m",0,0
+659,352042,Bruno-Savio,right,"Aug 1, 1994 (30)",Pará de Minas,"2, Bolivia, Brazil","1,84 m",0,0
+660,697400,Breno,right,"Sep 1, 2000 (24)",Santana,"1, Brazil","1,77 m",0,0
+661,876343,Max,left,"May 12, 2001 (23)",Juiz de Fora,"1, Brazil","1,87 m",0,0
+662,555277,Luis-Oyama,right,"Jan 30, 1997 (27)",São José do Rio ...,"2, Brazil, Japan","1,71 m",0,0
+663,54172,Leo-Silva,right,"Dec 24, 1985 (39)",São Luís,"1, Brazil","1,81 m",0,0
+664,250010,Bruno-Nazario,left,"Feb 9, 1995 (29)",Cascavel,"2, Brazil, China","1,78 m",0,0
+665,405768,Ronaldo,right,"Oct 23, 1996 (28)",Itu,"1, Brazil","1,79 m",0,0
+666,515068,Lourenco,right,"Sep 7, 1997 (27)",Belo Horizonte,"1, Brazil","1,69 m",0,0
+667,529646,Patrick-Machado,left,"Nov 23, 1998 (26)",Porto Alegre,"1, Brazil","1,75 m",0,0
+668,552242,Baralhas,right,"Oct 10, 1998 (26)",Botucatu,"1, Brazil","1,78 m",0,0
+669,468314,Caio-Lopes,right,"Sep 12, 2000 (24)",Rio de Janeiro,"3, Brazil, Germany, Spain","1,80 m",0,0
+670,614324,Marcos-Junior,both,"May 13, 1995 (29)",Rio de Janeiro,"1, Brazil","1,80 m",0,0
+671,596527,Miguel-Ferreira,left,"Apr 22, 2000 (24)",Santana,"2, Bangladesh, Brazil","1,88 m",0,0
+672,766381,Chay,right,"Sep 29, 1990 (34)",Maceió,"1, Brazil","1,77 m",0,0
+673,75072,Thiago-Santos,right,"Jul 12, 1987 (37)",Linhares,"2, Brazil, Cyprus","1,79 m",0,0
+674,85012,Felipe-Martins,right,"Sep 30, 1990 (34)",Engenheiro Beltrao,"2, Brazil, Italy","1,73 m",0,0
+675,213539,Matheuzinho,left,"Feb 21, 1993 (31)",Lins,"1, Brazil","1,71 m",0,0
+676,348262,Barreto,right,"Dec 10, 1995 (29)",Campinas,"2, Brazil, Italy","1,81 m",0,0
+677,480274,Shaylon,left,"Apr 27, 1997 (27)",Modelo,"1, Brazil","1,78 m",0,0
+678,626102,Regis,left,"Jan 16, 1998 (27)",Xanxerê,"2, Brazil, United Arab Emirates","1,80 m",0,0
+679,686332,Edson-Fernando,right,"Apr 24, 1998 (26)",Natal,"2, Brazil, Ukraine","1,78 m",0,0
+680,158382,Rafael-Costa,left,"Jan 19, 1991 (34)",Araras,"2, Brazil, Italy","1,83 m",0,0
+681,50047,Maicon,right,"Sep 14, 1985 (39)",Rio de Janeiro,"1, Brazil","1,84 m",0,0
+682,376157,Joao-Pedro,left,"Jan 20, 1997 (28)",Terra Roxa,"1, Brazil","1,80 m",0,0
+683,376640,Anderson-Leite,right,"May 4, 1993 (31)",São Paulo,"1, Brazil","1,83 m",0,0
+684,735570,Joao-Gomes,right,"Feb 12, 2001 (23)",Rio de Janeiro,"2, Brazil, England","1,76 m",9,0
+685,743600,Andrey-Santos,right,"May 3, 2004 (20)",Rio de Janeiro,"2, Brazil, France","1,80 m",7,0
+686,553469,Gabriel-Sara,left,"Jun 26, 1999 (25)",Joinville,"2, Brazil, Türkiye","1,77 m",0,0
+687,203394,Andreas-Pereira,right,"Jan 1, 1996 (29)",Duffel,"3, Belgium, Brazil, England","1,78 m",9,2
+688,694928,Samuel-Lino,right,"Dec 23, 1999 (25)",Santo André,"2, Brazil, Spain","1,70 m",0,0
+689,553459,Igor-Gomes,right,"Mar 17, 1999 (25)",São José do Rio ...,"1, Brazil","1,83 m",4,0
+690,388555,Lucas-de-Vega,right,"Jan 16, 2000 (25)",Fortaleza,"3, Brazil, Lithuania, Spain","1,80 m",0,0
+691,432742,Jair,right,"Aug 3, 1994 (30)",Barra de Santo ...,"1, Brazil","1,74 m",0,0
+692,555018,Lucas-Araujo,right,"May 21, 1999 (25)",Fortaleza,"1, Brazil","1,81 m",0,0
+693,688878,Matheus-Frizzo,left,"Jul 24, 1998 (26)",Guarulhos,"1, Brazil","1,82 m",0,0
+694,792343,Andre-Luiz,right,"Aug 22, 1995 (29)",Nova Iguaçu,"1, Brazil","1,83 m",0,0
+695,371997,Marco-Antonio,both,"Jul 15, 2000 (24)",Belo Horizonte,"1, Brazil","1,82 m",4,2
+696,401531,Guilherme-Nunes,left,"Jul 12, 1998 (26)",Novo Hamburgo,"1, Brazil","1,79 m",0,0
+697,631112,Matheus-Bueno,right,"Jul 30, 1998 (26)",Curitiba,"2, Brazil, Japan","1,78 m",0,0
+698,364742,Hendrio-Araujo,left,"May 16, 1994 (30)",N/A,"2, Brazil, Vietnam","1,81 m",0,0
+699,646679,Pedro-Naressi,right,"Jan 10, 1998 (27)",São José dos ...,"2, Brazil, Bulgaria","1,78 m",0,0
+700,813037,Kayque,right,"Jul 12, 2000 (24)",Rio de Janeiro,"2, Brazil, Serbia","1,76 m",0,0
+701,340113,Marcelo-Freitas,both,"Jun 1, 1994 (30)",Limeira,"2, Brazil, United Arab Emirates","1,83 m",0,0
+702,520484,Luiz-Otavio,right,"Mar 18, 1997 (27)",Curitiba,"1, Brazil","1,74 m",0,0
+703,671292,Bruno-Matias,right,"Feb 24, 1999 (25)",São Paulo,"1, Brazil","1,72 m",0,0
+704,684378,Ze-Mateus,right,"Jan 18, 1995 (30)",Tupi Paulista,"1, Brazil","1,73 m",0,0
+705,977534,Carlos-Maia,both,"May 2, 2001 (23)",Cabo Santo Agostinho,"1, Brazil","1,86 m",0,0
+706,645423,Julio-Romao,right,"Mar 29, 1998 (26)",N/A,"2, Azerbaijan, Brazil","1,83 m",0,0
+707,796796,Ian-Luccas,right,"Feb 11, 2003 (21)",Ribeirão Preto,"1, Brazil","1,88 m",1,0
+708,808507,Denilson,right,"Mar 23, 2001 (23)",Nazaré do Piauí,"1, Brazil","1,80 m",0,0
+709,1074479,Kauan,right,"Apr 16, 2005 (19)",Caxias,"1, Brazil","1,74 m",0,0
+710,681813,Luciano-Naninho,right,"Jul 3, 1992 (32)",Rio de Janeiro,"1, Brazil","1,74 m",0,0
+711,1064930,Freitas,right,"Mar 4, 2003 (21)",Aracati,"1, Brazil","1,78 m",0,0
+712,1182598,Leandro,right,"Sep 13, 1995 (29)",Manaus,"1, Brazil","1,78 m",0,0
+713,239294,Jair,right,"Aug 26, 1994 (30)",Ibirubá,"1, Brazil","1,78 m",0,0
+714,351738,Lincoln,left,"Nov 7, 1998 (26)",Porto Alegre,"2, Brazil, England","1,78 m",11,4
+715,181780,Rodrigo-Dourado,right,"Jun 17, 1994 (30)",Pelotas,"2, Brazil, Mexico","1,86 m",1,0
+716,689737,Patrick-de-Lucca,right,"Mar 2, 2000 (24)",São Paulo,"1, Brazil","1,80 m",0,0
+717,26267,Fernandinho,right,"May 4, 1985 (39)",Londrina,"1, Brazil","1,79 m",53,2
+718,644157,Hugo-Moura,right,"Jan 3, 1998 (27)",Rio de Janeiro,"1, Brazil","1,77 m",0,0
+719,476336,Ze-Ricardo,right,"Mar 9, 1996 (28)",Bom Jesus do Amparo,"1, Brazil","1,76 m",0,0
+720,508930,Felipe,right,"Apr 10, 1994 (30)",Maranguape,"1, Brazil","1,84 m",0,0
+721,815673,Fernando-Henrique,both,"Jun 1, 2001 (23)",São José de Mipibu,"1, Brazil","1,82 m",0,0
+722,742073,Wallisson,right,"Sep 23, 1997 (27)",Central de Minas,"1, Brazil","1,84 m",0,0
+723,546530,Raniele,right,"Dec 31, 1996 (28)",Baixa Grande,"1, Brazil","1,84 m",0,0
+724,411563,Rafael-Gava,right,"May 20, 1993 (31)",Americana,"1, Brazil","1,78 m",0,0
+725,467940,Vitinho,right,"Jan 4, 2000 (25)",Guaraulhos,"1, Brazil","1,75 m",0,0
+726,102574,Jean-Carlos,left,"Feb 15, 1992 (32)",Cornélio Procópio,"1, Brazil","1,78 m",0,0
+727,323452,Ze-Welison,right,"Mar 11, 1995 (29)",São Pedro,"1, Brazil","1,77 m",0,0
+728,468323,Bobsin,left,"Jan 12, 2000 (25)",Osório,"3, Brazil, Korea, South, Spain","1,84 m",2,0
+729,596426,Xavier,right,"Mar 2, 2000 (24)",Mococa,"1, Brazil","1,81 m",0,0
+730,627099,Isaque,right,"Apr 22, 1997 (27)",São Paulo,"1, Brazil","1,78 m",0,0
+731,520994,Lucas-Ventura,right,"May 19, 1998 (26)",Leopoldina,"2, Brazil, Israel","1,80 m",0,0
+732,638269,Rhaldney,right,"Nov 20, 1998 (26)",Recife,"1, Brazil","1,84 m",0,0
+733,687743,Adriano-Firmino,right,"Nov 4, 1999 (25)",Rio de Janeiro,"2, Brazil, Portugal","1,87 m",0,0
+734,269469,Octavio,right,"Dec 29, 1993 (31)",Rio de Janeiro,"3, Brazil, Bulgaria, Spain","1,84 m",0,0
+735,842384,Matheus-Indio,right,"Aug 27, 1999 (25)",Rio de Janeiro,"2, Brazil, China","1,82 m",0,0
+736,432957,Lima,left,"May 9, 1999 (25)",Chapecó,"1, Brazil","1,73 m",0,0
+737,252900,Willian-Oliveira,right,"May 16, 1993 (31)",Junqueirópolis,"1, Brazil","1,79 m",0,0
+738,436580,Thalles,left,"Jan 3, 1998 (27)",Patos de Minas,"1, Brazil","1,76 m",0,0
+739,725881,Lucas-Salinas,left,"Oct 14, 1995 (29)",N/A,"3, Brazil, Indonesia, Spain","1,70 m",0,0
+740,743597,Matheus-Franca,right,"Apr 1, 2004 (20)",Rio de Janeiro,"2, Brazil, England","1,84 m",2,0
+741,1086636,Gabriel-Moscardo,right,"Sep 28, 2005 (19)",Taubaté,"2, Brazil, France","1,85 m",0,0
+742,668235,Marlon-Gomes,right,"Dec 14, 2003 (21)",Rio de Janeiro,"2, Brazil, Ukraine","1,84 m",5,1
+743,703497,Bitello,right,"Jan 7, 2000 (25)",Formosa do Oeste,"2, Brazil, Russia","1,79 m",1,0
+744,906774,Du-Queiroz,right,"Jan 7, 2000 (25)",São Paulo,"2, Brazil, Russia","1,71 m",0,0
+745,980864,Ariel-Palacio,right,"Jul 4, 1998 (26)",Erechim,"1, Brazil","1,78 m",0,0
+746,268572,Foguinho,right,"Jun 15, 1992 (32)",São Lourenço do ...,"1, Brazil","1,80 m",0,0
+747,328758,Ronaldo-Henrique,left,"Jun 27, 1994 (30)",Recife,"1, Brazil","1,80 m",0,0
+748,552243,Guilherme-Castro,right,"Feb 17, 1995 (29)",N/A,"2, Brazil, United Arab Emirates","1,75 m",0,0
+749,659094,Rodrigo-da-Costa,left,"Dec 20, 1993 (31)",Rio de Janeiro,"2, Brazil, United States","1,84 m",0,0
+750,691811,Dudu,left,"Jun 5, 1999 (25)",São Vicente,"1, Brazil","1,86 m",0,0
+751,902135,Cristiano,right,"Feb 20, 2001 (23)",Bauru,"1, Brazil","1,75 m",0,0
+752,1115489,Felipinho,left,"Oct 18, 2001 (23)",Boa Vista,"1, Brazil","1,83 m",0,0
+753,229854,Leandrinho,right,"Sep 25, 1993 (31)",Espinosa,"2, Brazil, Saudi Arabia","1,78 m",0,0
+754,312684,Ramon,left,"May 19, 1997 (27)",Limeira,"1, Brazil","1,73 m",0,0
+755,494832,Adriel,right,"May 22, 1997 (27)",São Paulo,"2, Austria, Brazil","1,84 m",0,0
+756,592343,Sousa,left,"Nov 27, 1994 (30)",Olivedos,"1, Brazil","1,83 m",0,0
+757,639314,Fernandinho,left,"Sep 15, 1994 (30)",Aracaju,"2, Brazil, Malta","1,72 m",0,0
+758,671048,Gabriel-Bispo,right,"Mar 5, 1997 (27)",Trancoso,"1, Brazil","1,77 m",0,0
+759,792344,Leo-Costa,right,"Nov 12, 1995 (29)",Cruzeiro,"1, Brazil","1,82 m",0,0
+760,976522,Giovanni-Pavani,right,"Nov 22, 1996 (28)",Catanduva,"1, Brazil","1,78 m",0,0
+761,1038907,Patrick-Verhon,right,"Sep 8, 2004 (20)",Serra,"2, Brazil, Japan","1,74 m",0,0
+762,592375,Pablo-Roberto,right,"Nov 14, 1999 (25)",São Francisco,"2, Brazil, Portugal","1,83 m",0,0
+763,931007,Evertton-Araujo,right,"Feb 28, 2003 (21)",N/A,"1, Brazil","1,85 m",0,0
+764,341702,Lorran,left,"Jan 28, 1996 (28)",Armação dos ...,"2, Albania, Brazil","1,70 m",2,0
+765,811219,Newton,right,"Mar 12, 2000 (24)",Salvador,"1, Brazil","1,88 m",0,0
+766,1116366,Paulo-Vitor,right,"Aug 26, 2004 (20)",Junqueirópolis,"1, Brazil","1,84 m",0,0
+767,1191944,Andrey,left,"Oct 24, 2005 (19)",São José de Mipibu,"1, Brazil","1,71 m",0,0
+768,1092749,Luiz-Felipe,N/A,"Aug 7, 2004 (20)",N/A,"1, Brazil","1,78 m",0,0
+769,553062,Vitor-Carvalho,right,"May 27, 1997 (27)",Palmas,"2, Brazil, Portugal","1,86 m",0,0
+770,1085060,Breno-Lemos,right,"Sep 25, 2003 (21)",Rio de Janeiro,"2, Brazil, United Arab Emirates","1,83 m",0,0
+771,813107,Gabriel-Pirani,right,"Apr 12, 2002 (22)",Penápolis,"2, Brazil, United States","1,70 m",7,1
+772,627222,Talles-Costa,right,"Aug 2, 2002 (22)",São Paulo,"2, Brazil, Ukraine","1,76 m",8,0
+773,344626,Lucas-Crispim,right,"Jun 19, 1994 (30)",Brasília,"2, Brazil, Thailand","1,78 m",0,0
+774,867461,Romulo,right,"Oct 7, 2001 (23)",Pirassununga,"1, Brazil","1,77 m",0,0
+775,570582,Darlan,left,"Apr 16, 1998 (26)",São Borja,"2, Brazil, China","1,74 m",0,0
+776,351903,Jean-Pyerre,right,"May 7, 1998 (26)",Alvorada,"1, Brazil","1,87 m",1,0
+777,379198,Matheus-Vargas,right,"Jun 18, 1996 (28)",Cláudia,"1, Brazil","1,81 m",0,0
+778,565443,Caio-Vinicius,right,"Jan 11, 1999 (26)",Itaquaquecetuba,"1, Brazil","1,87 m",0,0
+779,1075604,Yan-Phillipe,right,"May 17, 2004 (20)",Belo Horizonte,"2, Brazil, Mexico","1,76 m",0,0
+780,435489,Lucas-Kal,right,"Mar 16, 1996 (28)",Campinas,"3, Brazil, Italy, Saudi Arabia","1,86 m",0,0
+781,746358,Daniel-Jr,left,"May 9, 2002 (22)",Santo André,"1, Brazil","1,74 m",0,0
+782,718208,Pedro-Lucas,left,"Jul 26, 2002 (22)",Baixo Guandu,"1, Brazil","1,73 m",5,0
+783,747819,Leonai,right,"Apr 28, 1995 (29)",Pontal,"2, Brazil, Ecuador","1,76 m",0,0
+784,740271,Juninho,right,"Jan 23, 2001 (24)",Volta Redonda,"1, Brazil","1,74 m",0,0
+785,874853,Mateus-Sarara,right,"Jun 29, 2002 (22)",Porto Alegre,"1, Brazil","1,81 m",0,0
+786,687359,Romulo,right,"Mar 1, 2000 (24)",Campo Grande,"1, Brazil","1,82 m",0,0
+787,375821,Lucas-Fernandes,right,"Apr 24, 1994 (30)",União dos Palmares,"2, Brazil, Japan","1,74 m",0,0
+788,428786,Alan,right,"Mar 8, 2000 (24)",São Paulo,"2, Brazil, Portugal","1,65 m",4,0
+789,476353,Thalis,right,"Mar 19, 1996 (28)",Ariquemes,"2, Brazil, Bulgaria","1,76 m",0,0
+790,1081036,Guilherme-Madruga,right,"Nov 11, 2000 (24)",Campo Grande,"1, Brazil","1,87 m",0,0
+791,214312,Pedro-Castro,right,"Feb 5, 1993 (31)",Volta Redonda,"1, Brazil","1,80 m",0,0
+792,349744,Judson,right,"May 25, 1993 (31)",Arês,"1, Brazil","1,69 m",0,0
+793,530388,Jhonata-Varela,right,"Jul 4, 2000 (24)",Natal,"1, Brazil","1,76 m",0,0
+794,552255,Arilson,right,"Nov 30, 1993 (31)",Juiz de Fora,"1, Brazil","1,80 m",0,0
+795,594105,Pedro-Augusto,right,"Mar 3, 1997 (27)",Ubá,"1, Brazil","1,81 m",0,0
+796,795578,Bruno-Oliveira,left,"Feb 1, 1998 (26)",Vinhedo,"1, Brazil","1,77 m",0,0
+797,892091,Mandaca,right,"Oct 2, 2001 (23)",João Pessoa,"1, Brazil","1,78 m",0,0
+798,876874,Vini-Paulista,right,"Mar 22, 2001 (23)",Santa Bárbara ...,"1, Brazil","1,79 m",0,0
+799,862574,Mateus-Carvalho,left,"Mar 18, 2002 (22)",Tucuruí,"1, Brazil","1,84 m",0,0
+800,859135,Leo-Naldi,right,"Aug 18, 2001 (23)",Pindamonhangaba,"1, Brazil","1,77 m",0,0
+801,476355,Cicero,right,"May 10, 1997 (27)",Penaforte,"2, Brazil, Portugal","1,78 m",0,0
+802,533728,Queven,left,"Nov 21, 1998 (26)",Palmeira d'Oeste,"2, Brazil, Kosovo","1,76 m",0,0
+803,540541,Eduardo,right,"Jan 9, 1997 (28)",Treze de Maio,"2, Brazil, Korea, South","1,76 m",0,0
+804,547187,Leo-Cordeiro,right,"Sep 27, 1995 (29)",Minas Gerais,"2, Brazil, Portugal","1,74 m",0,0
+805,568467,Eliton-Junior,right,"Jan 26, 1998 (26)",São Mateus,"2, Brazil, Italy","1,81 m",0,0
+806,800176,Andre,right,"Jul 16, 2001 (23)",Ibirataia,"2, Brazil, England","1,76 m",10,0
+807,997714,Alexsander,left,"Oct 8, 2003 (21)",Barra de Santa Rosa,"2, Brazil, Saudi Arabia","1,78 m",8,1
+808,658678,Christian,right,"Dec 19, 2000 (24)",Jundiaí,"1, Brazil","1,78 m",0,0
+809,982617,Hercules,right,"Oct 20, 2000 (24)",Jaicós,"1, Brazil","1,78 m",0,0
+810,608216,Gabriel-Menino,right,"Sep 29, 2000 (24)",Morungaba,"1, Brazil","1,76 m",0,0
+811,964582,Jhon-Jhon,right,"Sep 9, 2002 (22)",Vitória,"1, Brazil","1,78 m",0,0
+812,633212,Erick,right,"Nov 14, 1997 (27)",Nova Lima,"1, Brazil","1,76 m",0,0
+813,978037,Igor-Jesus,right,"Mar 7, 2003 (21)",Goiânia,"2, Brazil, Portugal","1,79 m",0,0
+814,990812,Victor-Braga,left,"Apr 18, 2001 (23)",Santa Cruz do Sul,"2, Brazil, Kazakhstan","1,78 m",0,0
+815,809617,Leo-Antonio,right,"Jun 9, 1997 (27)",Mesquita,"2, Brazil, Serbia","1,84 m",0,0
+816,1082519,Charlys,right,"Feb 19, 2004 (20)",Maceió,"2, Brazil, Italy","1,88 m",0,0
+817,1097470,Kaua-Oliveira,right,"Dec 22, 2003 (21)",Feira Nova,"2, Brazil, Portugal","1,82 m",0,0
+818,392487,Thaciano,right,"May 12, 1995 (29)",Campina Grande,"1, Brazil","1,82 m",0,0
+819,678853,Matheus-Araujo,right,"May 22, 2002 (22)",Osasco,"1, Brazil","1,76 m",3,0
+820,725049,Roni,right,"Apr 15, 1999 (25)",São Paulo,"1, Brazil","1,74 m",0,0
+821,743585,Arthur-Wenderroscky,left,"Feb 24, 2005 (19)",Nova Friburgo,"3, Brazil, Morocco, Poland","1,73 m",1,0
+822,1005645,Pedrinho,right,"Jan 1, 2004 (21)",São Paulo,"2, Brazil, Morocco","1,72 m",0,0
+823,1046580,Adriano,right,"Feb 15, 2002 (22)",N/A,"2, Brazil, Poland","1,75 m",0,0
+824,268223,Gustavo-Vagenin,left,"Nov 14, 1991 (33)",Sao Paulo,"3, Brazil, Iran, Italy","1,74 m",0,0
+825,520457,Gustavo-Cazonatti,both,"Jul 3, 1996 (28)",Florianópolis,"2, Brazil, Peru","1,78 m",0,0
+826,477161,Aloisio,right,"May 3, 1996 (28)",Lagarto,"2, Brazil, Portugal","1,80 m",0,0
+827,606719,Klismahn,left,"Nov 23, 1999 (25)",Santana do Araguaia ...,"2, Brazil, Portugal","1,79 m",0,0
+828,688684,Ronald,right,"Jun 18, 1997 (27)",Belford Roxo,"1, Brazil","1,71 m",0,0
+829,364883,Jaja,left,"Mar 18, 1995 (29)",Rio de Janeiro,"2, Brazil, Indonesia","1,78 m",8,0
+830,411661,Fernando-Medeiros,left,"Feb 10, 1996 (28)",São Vicente,"2, Albania, Brazil","1,81 m",0,0
+831,669933,Jonata-Machado,right,"Jul 6, 1999 (25)",Santa Cruz das ...,"3, Brazil, Indonesia, Italy","1,83 m",0,0
+832,725849,Geovane-Magno,left,"Apr 14, 1994 (30)",Governador Valadares,"2, Brazil, Vietnam","1,88 m",0,0
+833,1051322,Robert-Santos,left,"Jul 20, 2003 (21)",Salvador,"1, Brazil","1,80 m",0,0
+834,312682,Dudu-Nardini,left,"Jul 21, 1997 (27)",Americana,"2, Brazil, Italy","1,85 m",0,0
+835,512127,Fabricio-Isidoro,right,"Jan 28, 1992 (32)",Belo Horizonte,"2, Bahrain, Brazil","1,72 m",0,0
+836,651205,Luquinha,right,"Oct 3, 2000 (24)",Primeiro de Maio,"1, Brazil","1,67 m",0,0
+837,699824,Joao-Vieira,right,"Nov 8, 1997 (27)",Pato Branco,"1, Brazil","1,73 m",0,0
+838,925067,Thalisson,right,"Mar 2, 1999 (25)",Montes Claros,"2, Brazil, Slovenia","1,83 m",0,0
+839,872488,Saulo-Ruan,left,"Jan 15, 2003 (22)",Itabaiana,"2, Brazil, Slovakia","1,70 m",0,0
+840,1255012,David-Martins,N/A,"Sep 15, 2007 (17)",N/A,"1, Brazil",N/A,0,0

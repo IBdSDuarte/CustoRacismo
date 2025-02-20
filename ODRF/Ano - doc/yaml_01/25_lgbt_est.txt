@@ -1,0 +1,380 @@
+- ID: 137.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: João Vitor Stein Braga, atleta do Hercílio Luz Futebol Clube
+  DATA: 04/01/2023
+  JOGO: Audax x Hercílio Luz
+  CAMPEONATO: Copa São Paulo de Futebol Júnior
+  ONDE: Estádio Municipal Prefeito José Liberatti(Rochdalão)
+  CIDADE: Osasco/SP
+  FATO: Durante a cobrança de tiro de meta pelo goleiro João Braga do Hercílio Luz, a torcida do Audax gritou “Éeeee bicha”.
+  DESDOBRAMENTO: A ofensa foi registrada na súmula da partida pelo árbitro Marcelo de Jesus Santos. O Audax foi denunciado à Justiça Desportiva por infração ao Art. 243-G, § 2º do CBJD.
+  COMO TERMINOU: O Grêmio Osasco Audax foi punido pelo TJD-SP com uma multa de R$ 2 mil. Não foram encontradas informações de que o clube tenha entrado com recurso.
+- ID: 138.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Atletas do Grêmio FootBall Porto Alegrense
+  DATA: 08/01/2023
+  JOGO: Francana x Grêmio
+  CAMPEONATO: Copa São Paulo de Futebol Júnior
+  ONDE: Estádio Municipal Dr. José Lancha Filho 
+  CIDADE: Francana/SP
+  FATO: No decorrer da partida, parte da torcida da Francana proferiu o cântico “gaúcho dáo c* e fala tchê” contra a equipe do Grêmio.
+  DESDOBRAMENTO: O cântico foi relatado na súmula da partida pelo árbitro Fagson Junior dos Santos Silva , e a Francana foi denunciada pela Justiça Desportiva por infraçãoao Artigo 243-G, §2º do CBJD.
+  COMO TERMINOU: A Associação Atlética Francana foi multada em R$ 2.500 pelo TJD--SP, a equipe não entrou com recurso.
+- ID: 139.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Josinaldo Fernandesda Silva (Naldo), atleta da Academia Futebol Clube
+  DATA: 22/01/2023 
+  JOGO: União x Academia Futebol Clube
+  CAMPEONATO: Mato-grossense
+  ONDE: Estádio Engenheiro Luthero Lopes (Caldeirão)
+  CIDADE: Rondonópolis/MT
+  FATO: Aos 26 minutos do segundo tempo,parte da torcida do União gritou “viado” ao goleiro Naldo da Academia F.C.
+  DESDOBRAMENTO: O ato foi registrado na súmula pelo árbitro, que também relatou que a partida chegou a ser paralisada. O União foi denunciado por infração ao Art. 243-G §2º do CBJD.
+  COMO TERMINOU: O União Esporte Clube foi multado pelo TJD-MT em R$ 500. Não foram encontradas informações de que o clube recorreu da decisão.
+- ID: 140.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Rodolfo dos Santos de Jesus, atleta do Doce Mel Esporte Clube
+  DATA: 26/01/2023 
+  JOGO: EC Vitória x Doce Mel
+  CAMPEONATO: Baiano
+  ONDE: Estádio Manoel Barradas (Barradão)
+  CIDADE: Salvador/BA
+  FATO: Rodolfo, goleiro do Doce Mel, foi chamado de “viado” por parte da torcida do Vitória, o áudio com a ofensa foi captado durante transmissão da TVE Bahia.
+  DESDOBRAMENTO: O caso não foi registrado na súmula da partida. Em nota de repúdio, o Vitória informou que estava investigando o caso. A Federação Baiana de Futebol também se manifestou, repudiando o ocorrido. O coletivo de torcidas Canarinhos LGBTQ+ e a torcida LGBTricolor enviaram uma denúncia ao TJD-BA e ao MP-BA sobre os cânticos homofóbicos.
+  COMO TERMINOU: O TJD-BA absolveu o Esporte Clube Vitória da imputação prevista no Art. 243-G do CBJD, por falta de provas e por empate na votação. Quanto à denúncia ao MP-BA, não foram encontradas informações.
+- ID: 141.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Kayky da Silva Chagas, atleta do Esporte Clube Bahia
+  DATA: 01/02/2023 
+  JOGO: Barcelona de Ilhéus x Bahia
+  CAMPEONATO: Baiano 
+  ONDE: Estádio Mário Pessoa 
+  CIDADE: Ilhéus
+  FATO: Em coro, a torcida do Barcelona de Ilhéus proferiu a palavra “viado” ao atacante Kayky Chagas do Bahia. O ato foi registrado em súmula.
+  DESDOBRAMENTO: Conforme o relato do árbitro Emerson Ricardo de Almeida Andrade, a partida chegou a ser paralisada aos vinte minutos do primeiro tempo. Foi solicitado ao capitão do Barcelona, Darlã, que conversasse com a torcida, o que foi feito, e os cantos encerraram. O Barcelona de Ilhéus foi denunciado à Justiça Desportiva por infração ao Art. 243-G, §2º, do CBJD.
+  COMO TERMINOU: Inicialmente, o Barcelona de Ilhéus foi punido pela comissão disciplinar do TJD-BA com uma multa de R$ 10 mil e a obrigação de realizar ações e campanhas socioeducativas junto à sua torcida. O clube recorreu, mas o Tribunal Pleno do TJD-BA manteve a decisão.
+- ID: 142.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Cânticos homofóbicos
+  DATA: 02/02/2023
+  JOGO: Vasco x Resende
+  CAMPEONATO: Campeonato Carioca
+  ONDE: Estádio Vasco da Gama (São Januário)
+  CIDADE: Rio de Janeiro
+  FATO: Em nota divulgada nas redes sociais, a torcida Mancha Negra Vasco repudiou os cantos homofóbicos proferidos por parteda torcida.
+  DESDOBRAMENTO: Ainda em nota, a torcida afirmou que a bateria da Mancha Negra parou de tocar no momento em que os cantos começaram a ganhar corpo, “para não dar continuidade ao desrespeito e preconceito onde todo vascaíno se sente acolhido.” O ato não foi registrado na súmula da partida.
+  COMO TERMINOU: O caso não teve sequência.
+- ID: 143.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Ação de combate à homofobia noCampeonato Paraense
+  DATA: 05/02/2023
+  JOGO: Remo x Independente-PA
+  CAMPEONATO: Paraense
+  ONDE: Estádio Evandro Almeida
+  CIDADE: Belém do Pará/PA
+  FATO: Na primeira rodada do Campeonato Paraense, foi promovida uma ação de combate à homofobia. No entanto, os capitães de Remo e Independente-PA não utilizaram a braçadeira colorida, e o Remo não usou bandeirinhas de escanteio coloridas.
+  DESDOBRAMENTO: Nas redes sociais, o coletivo de torcidas Canarinhos LGBTQ+ repudiou a atitude dos clubes. Procurado, o Remo não se manifestou. Rosalvo Fernandes, presidente do Independente, não soube informar o motivo pelo qual o capitão Martony não utilizou a braçadeira. A Federação Paraense de Futebol (FPF) se pronunciou, informando que as bandeirinhas da campanha não foram instaladas no estádio a pedido do Remo, e que o uso das braçadeiras não era obrigatório.
+  COMO TERMINOU: Não foram encontradas outras informações indicando que o caso teve sequência.
+- ID: 144.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Ausência da camisa 24 na Copa São Paulo de Futebol Jr.
+  DATA: 11/02/2023
+  JOGO: Sem Identificação
+  CAMPEONATO: Copa São Paulo de Futebol Júnior
+  ONDE: Sem Identificação
+  CIDADE: Sem Identificação
+  FATO: O Grupo Arco-Íris de Cidadania LGBT entrou com uma ação contra o Flamengo, pedindo R$ 1 milhão por danos morais coletivos devido às “reiteradas condutas em violação de direitos humanos, em especial homofobia.”
+  DESDOBRAMENTO: O grupo apontou uma ação de cunho homofóbico por parte do clube, devido à ausência da camisa 24 para uso dos jogadores na Copa São Paulo de Futebol Jr. em 2022. O Flamengo não se manifestou sobre a ação.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos.
+- ID: 145.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Joinville Esporte Clube
+  DATA: 12/02/2023
+  JOGO: Criciúma x Joinville
+  CAMPEONATO: Catarinense
+  ONDE: Estádio Heriberto Hülse (Majestoso)
+  CIDADE: Criciúma
+  FATO: Parte dos torcedores do Criciúma pendurou uma boneca bailarina com a camiseta do Joinville enforcada na arquibancada.
+  DESDOBRAMENTO: O caso gerou discussão nas redes sociais, com torcedores apontando o ato como homofobia. Os clubes não se manifestaram sobre o incidente.
+  COMO TERMINOU: O caso não teve sequência.
+- ID: 146.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Leonardo Sulzbach, atleta do São Francisco Futebol Clube
+  DATA: 05/03/2023
+  JOGO: Bragantino-PA X São Francisco
+  CAMPEONATO: Paraense
+  ONDE: Centro de Treinamento do Castanhal
+  CIDADE: Castanhal/PA
+  FATO: Gritos de “goleiro viado” foram proferidos por parte da torcida do Bragantino-PA ao goleiro Leonardo Sulzbach do São Francisco.
+  DESDOBRAMENTO: O ato foi registrado na súmula da partida pelo árbitro Joelson Nazareno Ferreira Cardoso. Segundo o registro, a partida foi paralisada e, após o pedido do árbitro, os gritos cessaram. O Bragantino-PA foi denunciado pela Justiça Desportiva por infração ao Art. 243-G do CBJD.
+  COMO TERMINOU: O STJD puniu o Bragantino Clube do Pará com uma multa de R$ 5 mil.
+- ID: 147.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO:  Hélio Cezar Pinto Dos Anjos, técnico da Associação Atlética Ponte Preta
+  DATA: 07/03/2023
+  JOGO: Brasil de Pelotas x Ponte Preta
+  CAMPEONATO: Copa do Brasil 
+  ONDE: Estádio Bento Freitas
+  CIDADE: Pelotas/RS
+  FATO: Hélio dos Anjos, técnico da Ponte Preta, relatou ter sido vítima de homofobia durante o jogo contra o Brasil de Pelotas, no retorno das equipes para o segundo tempo.
+  DESDOBRAMENTO: Conforme registrado na súmula pelo árbitro Felipe, durante a averiguação para identificar o autor da ofensa racista contra o técnico, a torcida do Brasil de Pelotas gritou em coro “Hélio, viado”. A CBF encaminhou a denúncia ao setor de Compliance da entidade e ao Superior Tribunal de Justiça Desportiva (STJD). O Brasil de Pelotas foi denunciado por infração ao Art. 243-G, §1º do CBJD.
+  COMO TERMINOU: O STJD puniu o Brasil de Pelotas com uma multa de R$ 7.500. Não foram encontradas informações sobre se o clube recorreu da decisão.
+- ID: 148.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Fluminense Football Club
+  DATA: 01/04/2023
+  JOGO: Flamengo x Fluminense
+  CAMPEONATO: Campeonato Carioca
+  ONDE: Estádio Jornalista Mário Filho (Maracanã)
+  CIDADE: Rio de Janeiro/RJ
+  FATO: No momento em que a partida foi paralisada para a saída de campo do lateral direito Samuel Xavier e do técnico Fernando Diniz, ambos do Fluminense, após suas expulsões, parte da torcida do Flamengo entoou um canto homofóbico em ofensa à torcida do Fluminense.
+  DESDOBRAMENTO: O ato foi registrado na súmula da partida pelo árbitro Wagner do Nascimento Magalhães. Os clubes não se manifestaram sobre o episódio. O Flamengo foi denunciado por infração ao Art. 243-G do CBJD.
+  COMO TERMINOU: Inicialmente, o TJD-RJ puniu o Flamengo com uma multa de R$ 20 mil. Após recurso, o Pleno do TJD-RJ reduziu a multa para R$ 10 mil.
+- ID: 149.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Jonathan Leão Morais Meireles, atleta do Bandeirante Esporte Clube
+  DATA: 22/04/2023
+  JOGO: José Bonifácio X Bandeirante EC
+  CAMPEONATO: Paulista - Sub 20
+  ONDE: Estádio Municipal Antônio Pereira Braga
+  CIDADE: José Bonifácio/SP
+  FATO: Durante a cobrança de um tiro de meta, parte da torcida do José Bonifacio gritou “bicha” para Jonathan, goleiro do Bandeirante.
+  DESDOBRAMENTO: O incidente foi registrado na súmula da partida pelo árbitro. O clube José Bonifácio foi denunciado pela Justiça Desportiva por infração ao Artigo 243-G, § 2º do CBJD.
+  COMO TERMINOU: O TJD-SP aplicou ao José Bonifácio Esporte uma multa de R$ 5 mil. Não há informações sobre um possível recurso por parte do clube.
+- ID: 150.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Sport Club do Recife
+  DATA: 03/05/2023 
+  JOGO: Sport x Ceará
+  CAMPEONATO: Copa do Nordeste 
+  ONDE: Estádio Adelmar da Costa Carvalho (Ilha do Retiro) 
+  CIDADE: Recife/PE
+  FATO: O Coletivo Canarinhos LGBTQ+ publicou uma nota denunciando cânticos homofóbicos proferidos pela torcida do Ceará. Em um vídeo nas redes sociais, é possível ouvir a torcida cantando “... A Jovem [torcida organizada do Sport] é gay, é gay, é gay...”.
+  DESDOBRAMENTO: O episódio não foi registrado na súmula da partida. O Coletivo encaminhou uma denúncia ao Superior Tribunal de Justiça Desportiva (STJD). Em nota, o Ceará repudiou o ato.
+  COMO TERMINOU: Não há informações de que o caso tenha sido julgado pelo STJD.
+- ID: 151.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Cântico homofóbico, contra o São Paulo Futebol Clube
+  DATA: 14/05/2023 
+  JOGO: Corinthians x São Paulo
+  CAMPEONATO: Brasileiro - Série A 
+  ONDE: Arena Corinthians 
+  CIDADE: São Paulo/SP
+  FATO: O árbitro Bruno Arleu de Araújo paralisou a partida aos 18 minutos do segundo tempo após a torcida do Corinthians entoar o cântico “vamos Corinthians dessas bichas teremos que ganhar”.
+  DESDOBRAMENTO: Após a paralisação, o telão e o sistema de som do estádio emitiram uma mensagem de alerta aos torcedores, que inicialmente aumentaram o volume dos cânticos. Depois que os cânticos cessaram, a partida foi retomada. O episódio foi registrado na súmula da partida. O Ministério Público de São Paulo (MP-SP) abriu uma investigação para apurar o caso, e o Corinthians foi denunciado pelo STJD, com base no Art. 243-G do CBJD.
+  COMO TERMINOU: O Corinthians foi punido com a perda de um mando de campo por violação do Art. 243-G § 3º do CBJD. Após recurso do clube, o Pleno do STJD manteve a punição.
+- ID: 152.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Caio Borges da Silva, atleta do Clube Atlético Joseense
+  DATA: 20/05/2023 
+  JOGO: Pinda FC x CA Joseense
+  CAMPEONATO: Paulista - Sub17 
+  ONDE: Estádio Dr. Antônio Pinheiro Júnior 
+  CIDADE: Pindamonhangaba/SP
+  FATO: Parte da torcida do Pinda proferiu insultos homofóbicos contra Caio, jogador do CA Joseense, gritando “Caio! Viado! Caio! Viado!”.
+  DESDOBRAMENTO: Após o sistema de som do estádio emitir uma mensagem pedindo que os cânticos parassem, não houve novos registros de insultos. O árbitro relatou o incidente na súmula da partida. O Pinda foi denunciado pela Justiça Desportiva.
+  COMO TERMINOU: O TJD-SP puniu o Pinda com uma multa de R$ 1.000 por violação do Art. 243-G do CBJD.
+- ID: 153.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Clube de Regatas do Flamengo
+  DATA: 06/06/2023 
+  JOGO: Vasco x Flamengo -
+  CAMPEONATO: Brasileiro - Série A 
+  ONDE: Estádio Jornalista Mário Filho (Maracanã) 
+  CIDADE: Rio de Janeiro/RJ
+  FATO: Durante o primeiro tempo, parte da torcida do Vasco entoou cânticos que chamam a torcida do Flamengo de “p***, viadoe ladrão”.
+  DESDOBRAMENTO: O sistema de som do estádio e o telão emitiram um alerta para que a torcida parasse com os cânticos. O episódio não foi relatado na súmula da partida.
+  COMO TERMINOU: Não foram encontradas outras informações sobre o caso.
+- ID: 154.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Nelson Marques da Silva, árbitro
+  DATA: 11/06/2023 
+  JOGO: XV Jaú x Independente
+  CAMPEONATO: 
+  ONDE: Estádio Zezinho Magalhães 
+  CIDADE: Jaú/SP
+  FATO: Após expulsão, Onofre Calixto, massagista do XV de Jaú, dirigiu-se ao árbitro Nelson Marques com as palavras “seu bicha, viadinho do car****”
+  DESDOBRAMENTO: A ofensa foi registrada na súmula da partida. Onofre Calixto foi denunciado pela Justiça Desportiva.
+  COMO TERMINOU: O TJD-SP puniu Onofre Calixto com suspensão de 5 partidas e multa de R$ 100 por infração ao Art. 243-G do CBJD.
+- ID: 155.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcedor do Clube Atlético Mineiro
+  DATA: 02/07/2023 
+  JOGO: Atlético-MG x América-MG
+  CAMPEONATO: Brasileiro - Série A
+  ONDE: Estádio Governador Magalhães Pinto (Mineirão) 
+  CIDADE: Belo Horizonte/MG
+  FATO: Um torcedor do Atlético-MG denunciou ter sofrido insultos homofóbicos de um membro da Galoucura. Segundo o relato, ele estava abraçado com outro torcedor quando um homem se aproximou dizendo que “não era ambiente para aquilo e que não combinava com o Atlético”.
+  DESDOBRAMENTO: O torcedor registrou um boletim de ocorrência. Em nota, o Mineirão repudiou o ato, informou que entrou em contato com a vítima para prestar atendimento e acolhimento, e declarou estar à disposição das autoridades policiais para a apuração dos fatos. A Polícia Civil de Minas Gerais iniciou uma investigação do caso.
+  COMO TERMINOU: Não foram encontradas informações adicionais sobre o caso. Em relação ao boletim de ocorrência, por se tratar de um caso de âmbito criminal, não é possível obter detalhes sobre seu desdobramento.
+- ID: 156.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Fortaleza Esporte Clube
+  DATA: 19/07/2023 
+  JOGO: Ceará x Vila Nova -
+  CAMPEONATO: Brasileiro - Série B 
+  ONDE: Estádio Governador Plácido Castelo (Arena Castelão)
+  CIDADE: Brasileiro - Série A
+  FATO: Durante uma partida contra o Vila Nova, uma parte da torcida do Ceará entoou cânticos homofóbicos dirigidos aos torcedores do Fortaleza. A cada vez que os cânticos eram iniciados, um aviso aparecia no telão seguido por um recado no sistema de som do estádio, porém os torcedores vaiavam os alertas e aumentavam o volume dos cânticos.
+  DESDOBRAMENTO: O episódio não foi registrado na súmula da partida, mas foi capturado em vídeo e relatado pela imprensa. Após denúncia feita pelo coletivo de torcidas Canarinhos LGBTQ+, a CBF notificou o Ceará, solicitando informações sobre as medidas tomadas para apuração do incidente.
+  COMO TERMINOU: A Comissão Disciplinar do STJD puniu o Ceará com multa de R$ 40 mil por infração ao Art. 243-G § 2º e § 3º do CBJD.
+- ID: 157.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Clube de Regatas do Flamengo
+  DATA: 29/07/2023 
+  JOGO: Atlético MG X Flamengo
+  CAMPEONATO: Brasileiro - Série A
+  ONDE: Estádio Raimundo Sampaio 
+  CIDADE: Belo Horizonte/MG
+  FATO: Parte da torcida do Atlético-MG entoou o cântico “Tú és time só de c*zão, p****, viado e ladrão” para torcida do Flamengo.
+  DESDOBRAMENTO: Vídeos que circularam nas redes sociais mostram que o episódio ocorreu antes do jogo e durante o primeiro tempo. O caso não foi registrado na súmula da partida.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre o caso.
+- ID: 158.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Ceará Sporting Club
+  DATA: 29/07/2023 
+  JOGO: Fortaleza x Red Bull Bragantino
+  CAMPEONATO: Brasileiro - Série A -
+  ONDE: Estádio Governador Plácido Castelo (Arena Castelão) 
+  CIDADE: Fortaleza/CE
+  FATO: A Torcida do Fortaleza entoou o cântico homofóbico “a Ceará é gay” como provocação à torcida do Ceará.
+  DESDOBRAMENTO: Os cânticos ocorreram em diferentes momentos da partida, mas o caso não foi registrado na súmula.
+  COMO TERMINOU: O caso não teve sequência.
+- ID: 159.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Sport Club do Recife
+  DATA: 06/08/2023 
+  JOGO: Naútico x CSA
+  CAMPEONATO: Série C 
+  ONDE: Estádio Eládio de Barros Carvalho (Estádio dos Aflitos) 
+  CIDADE: Recife/PE
+  FATO: Aos 11 minutos do primeiro tempo, o árbitro Dyorgines Jose Padovani de Andrade paralisou a partida devido ao cântico homofóbico “rema, rema, remador, vou botar no c* tricolor. Se o tricolor for sapatão vou botar na b**** do leão” entoado pela torcida do Náutico.
+  DESDOBRAMENTO: O ato foi registrado na súmula da partida. De acordo com o relato, o sistema de som do estádio pediu que a torcida parasse com os cânticos homofóbicos, o que foi atendido. O Náutico foi denunciado por infração ao Art. 243-G, §1º do CBJD.
+  COMO TERMINOU: A Comissão Disciplinar do STJD multou o Náutico em R$ 8 mil.
+- ID: 160.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Cântico homofóbico
+  DATA: 06/08/2023 
+  JOGO: Naútico x CSA
+  CAMPEONATO: Série C 
+  ONDE: Estádio Eládio de Barros Carvalho (Estádio dos Aflitos) 
+  CIDADE: Recife/PE
+  FATO: O árbitro Dyorgines Jose Padovani de Andrade relatou na súmula da partida que torcedores do CSA entoaram um cântico homofóbico que mencionava a frase “No c* da barbie”.
+  DESDOBRAMENTO: O ato foi informado pelo 4º árbitro no final da partida. O CSA foi denunciado por infração ao Art. 243-G, §1º do CBJD.
+  COMO TERMINOU: A Comissão Disciplinardo STJD multou o CSA em R$ 5 mil.
+- ID: 161.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Cântico homofóbico, contra o São Paulo Futebol Clube
+  DATA: 15/08/2023 
+  ONDE: Neo Química Arena
+  CIDADE: São Paulo/SP
+  FATO: Durante um treino aberto, a torcida do Corinthians entoou cânticos homofóbicos utilizando as palavras “bicha” e “bicharada” para se referir ao São Paulo.
+  DESDOBRAMENTO: Não foram encontrados outros desdobramentos.
+  COMO TERMINOU: O caso não teve sequência.
+- ID: 162.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Ceará Sporting Club
+  DATA: 27/08/2023 
+  JOGO: Fortaleza x Coritiba
+  CAMPEONATO: Brasileiro - Série A 
+  ONDE: Estádio Presidente Vargas 
+  CIDADE: Fortaleza/CE
+  FATO: Durante o primeiro e segundo tempo da partida contra o Coritiba, parte da torcida do Fortaleza entoou o cântico “ceará gay”.
+  DESDOBRAMENTO: O caso não foi registrado na súmula da partida. O Coletivo de Torcidas Canarinhos LGBTQ+ encaminhou uma denúncia à CBF e ao STJD. Em um vídeo publicado nas redes sociais, o presidente do Fortaleza, Marcelo Paz, repudiou o ato, e o clube informou que realiza campanhas de conscientização junto à torcida.
+  COMO TERMINOU: Não foram encontradas informações sobre o julgamento do caso pelo STJD.
+- ID: 163.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Kauê Vinicius de Souza Camargo, goleiro do Sport Club Corinthians Paulista
+  DATA: 29/08/2023 
+  JOGO: Santos X Corinthians
+  CAMPEONATO: Copa do Brasil - Sub-20 
+  ONDE: Estádio Urbano Caldeira (Vila Belmiro) 
+  CIDADE: Santos/SP
+  FATO: Aos 41 minutos do segundo tempo, parte da torcida do Santos proferiu gritos de “goleiro viado, goleiro viado...” direcionados a Kauê, goleiro do Corinthians.
+  DESDOBRAMENTO: O ato foi registrado na súmula pelo árbitro Fabiano Monteiro dos Santos. O Santos foi denunciado pela Justiça Desportiva por infração ao Art. 243-G, §§ 1º e 2º do CBJD.
+  COMO TERMINOU: O STJD puniu o Santos com multa de R$ 10 mil.
+- ID: 164.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Bruno Muller, árbitro assistente
+  DATA: 03/09/2023 
+  JOGO: Paysandu x Volta Redonda
+  CAMPEONATO: Série C 
+  ONDE: Estádio Leônidas Sodré de Castro 
+  CIDADE: Belém/PA
+  FATO: Após o final do jogo, o técnico Hélio dos Anjos dirigiu-se ao árbitro assistente Bruno Muller proferindo as palavras “seu veadinho, vai tomar no c*, veado, veadinho.”
+  DESDOBRAMENTO: O incidente foi registrado na súmula da partida. Em nota, o Paysandu negou a acusação e, através de sua assessoria de imprensa, informou que o técnico moveria um processo contra o árbitro assistente. Hélio dos Anjos foi denunciado pela Justiça Desportiva.
+  COMO TERMINOU: A Comissão Disciplinar do STJD puniu o técnico do Paysandu, Hélio dos Anjos, por infração ao Art. 243-G do CBJD, com uma multa de R$ 500 e suspensão de cinco partidas. Após recurso do clube, a multa foi majorada para R$ 10 mil, mantendo-se a suspensão de cinco partidas. O treinador chegou a cumprir uma partida de punição, mas, em nota divulgada em março de 2024, o Paysandu informou que a pena foi convertida apenas em multa.
+- ID: 165.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Botafogo Futebol Clube
+  DATA: 10/09/2023 
+  JOGO: Volta Redonda x Botafogo-PB
+  CAMPEONATO: Brasileiro - Série C
+  ONDE: Estádio Sylvio Raulino de Oliveira 
+  CIDADE: Volta Redonda/RJ
+  FATO: Parte da torcida do Volta Redonda entoou cânticos de cunho homofóbico direcionados a torcida do Botafogo-PB.
+  DESDOBRAMENTO: O ato não foi registrado na súmula da partida. Em nota nas redes sociais, o Botafogo-PB repudiou o ocorrido. A Federação Paraibana de Futebol (FPF-PB) também se manifestou, condenando os cânticos discriminatórios. O Botafogo-PB apresentou à Justiça Desportiva uma notícia de infração. O Volta Redonda foi denunciado por infração ao Art. 243-G, § 2º do CBJD.
+  COMO TERMINOU: A Comissão Disciplinar do STJD puniu o Volta Redonda com uma multa de R$ 4 mil pelos cânticos homofóbicos e xenofóbicos ocorridos na mesma partida.
+- ID: 166.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Atletas de futebol feminino de Barra de São Francisco
+  DATA: 13/09/2023 
+  ONDE: Estádio Municipal Joaquim Alves de Souza 
+  CIDADE: Barra de São Francisco/ES
+  FATO: Segundo relatos das jogadoras, enquanto treinavam no Estádio Municipal, jogadores da equipe masculina entraram em campo e as intimidaram para que saíssem, proferindo palavras homofóbicas, como “Bando de sapatão”.
+  DESDOBRAMENTO: As atletas registraram um boletim de ocorrência e enviaram um ofício ao prefeito, pedindo que a prefeitura tomasse providências.
+  COMO TERMINOU: Após a conclusão do inquérito, a Polícia Civil indiciou três homens por homofobia. Não foram encontradas outras informações sobre o caso. 
+- ID: 167.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Cânticos homofóbicos
+  DATA: 04/11/2023 
+  JOGO: Corinthians x São Paulo
+  CAMPEONATO: Paulista - Sub 17 
+  ONDE: Estádio Alfredo Schürig 
+  CIDADE: São Paulo/SP
+  FATO: Segundo relato em súmula pelo árbitro Michel de Camargo, parte da torcida do Corinthians proferiu cânticos homofóbicos durante a partida contra o São Paulo.
+  DESDOBRAMENTO: O Corinthians foi denunciado pela Justiça Desportiva por infração ao Art. 243-G, § 2º do CBJD.
+  COMO TERMINOU: A Comissão Disciplinar do STJD absolveu o Corinthians inicialmente, mas após recurso da Procuradoria de Justiça Desportiva, a decisão foi reformada, resultando na aplicação de uma multa de R$ 10 mil.
+- ID: 168.2025
+  TIPO: LGBTfobia
+  AMBIENTE: Físico
+  TÍTULO: Torcida do Fluminense Football Club
+  DATA: 11/11/0203 
+  JOGO: Flamengo x Fluminense
+  CAMPEONATO: Brasileiro Série A 
+  ONDE: Estádio Jornalista Mário Filho (Maracanã) 
+  CIDADE: Rio de Janeiro/RJ
+  FATO: Durante o clássico Fla-Flu, parte da torcida do Flamengo entoou o cântico homofóbico “Que palhaçada, esse pó de arroz… Tricolor v*ado”, se referindo à torcida do Fluminense.
+  DESDOBRAMENTO: O ato foi denunciado através de um vídeo publicado nas redes sociais, mas não foi registrado em súmula. O Grupo Arco-Íris de Cidadania LGBT protocolou uma notícia de infração disciplinar no STJD contra o Flamengo, denunciando os cânticos homofóbicos.
+  COMO TERMINOU: A notícia de infração foi arquivada pelo STJD, pois, segundo a entidade, o Grupo Arco-Íris de Cidadania LGBT não é jurisdicionado no tribunal desportivo.

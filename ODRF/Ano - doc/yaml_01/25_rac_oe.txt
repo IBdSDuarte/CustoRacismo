@@ -1,0 +1,156 @@
+- ID:  124.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Carlos Alberto Gomes de Jesus (Carlos Alberto), ex jogador de futebol
+  DATA: 07/02/2023 
+  ONDE: Restaurante
+  CIDADE: Rio de Janeiro/RJ
+  FATO: Após ser denunciado por agressão por um torcedor, o ex-jogador, Carlos Alberto, disse que a agressão ocorreu após ser vítima de insultos racistas.
+  DESDOBRAMENTO: Carlos Alberto foi até a Delegacia de Polícia prestar esclarecimentos sobre a acusação e relatou que foi chamado de “macaco de m*rda” pelo torcedor.
+  COMO TERMINOU: Por ser um caso de natureza criminal, o processo é mantido sob sigilo judicial, o que impossibilita a obtenção de informações sobre seu andamento.
+- ID:  125.2025
+  TIPO: Racismo
+  AMBIENTE: Mídia
+  TÍTULO: Expressão racista usada em PodCast
+  DATA: 27/02/2023
+  ONDE: Podcast - Podpah
+  CIDADE: São Paulo/SP
+  FATO: Rogér Guedes, atacante do Corinthians, usou a expressão “cabelo ruim” durante entrevista no podcast Podpah.
+  DESDOBRAMENTO: Rogér Guedes e o apresentador do programa, Igão, falavam sobre calvície, quando o jogador se referiu ao cabelo crespo do apresentador como “ruim”. Nas redes sociais, internautas viralizaram a fala, apontando que a mesma teria sido preconceituosa e cobrando retratação do clube e do jogador. O Podpah chegou a publicar a interação no seu canal de cortes, mas retirou do ar. O jogador e o programa não se manifestaram sobre o caso.
+  COMO TERMINOU: Não foram encontradas informações se o caso teve sequência.
+- ID:  126.2025
+  TIPO: Racismo
+  AMBIENTE: Mídia
+  TÍTULO: Sebastião Martins Oliveira Júnior (Arzul), preparador de goleiros do Santos Futebol Clube
+  DATA: 18/04/2023
+  ONDE: Programa de TV
+  CIDADE: São Paulo/SP
+  FATO: Durante o programa “Donos da Bola”, o apresentador Neto, disse que o técnico Jorge Sampaoli, foi racista durante a passagem pelo Santos. Neto continuou com as acusações no programa “Baita Amigos”, onde afirmou que Azurl, preparador de goleiros do Santos, era destratado e deixado de fora do vestiário por Sampaoli, e que o motivo seria a cor da sua pele.
+  DESDOBRAMENTO: Sampaoli entrou com duas ações na Justiça de São Paulo contra Neto. Na ação criminal cobrou uma retratação ao vivo e na ação civil pediu indenização de R$ 500 mil por danos morais. Em entrevista ao GE, Azurl defendeu Sampaoli e negou as acusações de Neto. Em audiência, durante o processo, o preparador de goleiros voltou a negar as acusações.
+  COMO TERMINOU: Na ação civil, Neto e a Rede Bandeirantes foram condenados a pagar solidariamente uma indenização por danos morais de R$ 500 mil a Sampaoli e a apresentar uma retratação nos mesmos programas onde a acusação foi praticada. O apresentador entrou com recurso, não foram encontradas informações sobre a decisão do recurso. Quanto à ação criminal, as partes chegaram a um acordo; em audiência, Neto se comprometeu a realizar uma contribuição em um evento beneficente realizado por Sampaoli e a divulgar o evento nas redes sociais.
+- ID:  127.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Luiz Ricardo Alves (Seedorf), conselheiro do Corinthians
+  DATA: 24/04/2023
+  ONDE: Parque São Jorge
+  CIDADE: São Paulo/SP
+  FATO: LuiZ Ricardo Alves, acusou o conselheiro Manoel Ramos Evangelista, conhecido como Mané da Carne, de ter proferido a ele a frase “cala a boca, neguinho, vai tomar no c*”, durante reunião do Conselho do clube.
+  DESDOBRAMENTO: Na saída da reunião, Luiz Ricardo relatou o caso a jornalistas presentes. O conselheiro registrou um boletim de ocorrência e enviou uma carta ao Conselho Deliberativo do clube, pedindo que medidas fossem tomadas. A imprensa, Mané da Carne disse que chamou Luís de “amiguinho”. A Polícia Civil abriu um inquérito para apurar o caso. Meses após a denúncia, Luiz disse que não foi procurado e nem ouvido pela Comissão de Ética do Conselho Deliberativo.
+  COMO TERMINOU: A apuração do caso ainda não foi concluída pela Comissão de Ética e Disciplina do Conselho Deliberativo do Corinthians. Após conclusão do inquérito, a Polícia Civil pediu o indiciamento de Manoel Ramos Evangelista.
+- ID:  128.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Aluno do Instituto de Ensino São Francisco de Assis (IESFA)
+  DATA: 12/05/2023
+  ONDE: Escola
+  CIDADE: São Paulo/SP
+  FATO: Durante um campeonato de futebol realizado na quadra do Instituto de Ensino São Francisco de Assis (IESFA), um adolescente de 14 anos foi alvo de uma ofensa racial. Enquanto estavam na arquibancada, um grupo de adolescentes em coro gritou “macaco” ao adolescente.
+  DESDOBRAMENTO: Ao término do campeonato, os colegas expuseram ao adolescente um vídeo contendo a ofensa. A vítima prontamente contatou sua família e procurou a coordenação da escola para relatar o incidente. Vitória, irmã do adolescente, comunicou que um Boletim de Ocorrência seria formalizado. Em comunicado, o IESFA declarou estar tomando medidas cabíveis e que, após o ocorrido, havia oferecido suporte às famílias, disponibilizando assistência jurídica. Entretanto, a irmã do jovem negou que o IESFA tenha contatado a família para oferecer auxílio.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID:  129.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Comentário racista feito durante evento de convocação da Seleção Brasileira
+  DATA: 28/05/2023
+  ONDE: Sede da CBF
+  CIDADE: Rio de Janeiro/RJ
+  FATO: O presidente da CBF, Ednaldo Rodrigues, afirmou que um caso de racismo ocorreu durante um evento de convocação da Seleção Brasileira.
+  DESDOBRAMENTO: Ednaldo Rodrigues não forneceu detalhes do incidente, mas garantiu que o departamento jurídico da entidade tomaria as devidas providências. Segundo o GE, o presidente teria ouvido comentários criticando a decoração do auditório com a temática “Com racismo não tem jogo”, campanha lançada pela CBF.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID:  130.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Guilherme Ribeiro Quintino Machado, atleta do Volta Redonda Futebol Clube
+  DATA: 18/06/2023
+  ONDE: Loja
+  CIDADE: Riode Janeiro/RJ
+  FATO: Guilherme Quintino, jogador do Volta Redonda, denunciou ter sido vítima de racismo em uma loja da Zara. O jogador declarou que foi impedido de sair da loja por um segurança e obrigado a mostrar onde havia deixado a sacola com as peças que desistiu de comprar.
+  DESDOBRAMENTO: O jogador expôs o caso nas redes sociais em um vídeo gravado por sua namorada. As imagens mostram o casal questionando a ação dos funcionários, sem receber respostas. O vídeo também mostra o segurança entregando a sacola com os itens para uma funcionária fazer a conferência. Após a conferência, Guilherme foi liberado. O jogador registrou um boletim de ocorrência, e clientes que presenciaram a ação prestaram depoimentos como testemunhas. O segurança e a gerente da loja também prestaram depoimento. Após a conclusão da investigação, o segurança foi indiciado por crime de racismo.
+  COMO TERMINOU: Com a Justiça do Rio de Janeiro aceitando a denúncia do Ministério Público, o segurança tornou-se réu pelo crime de racismo. Não foram encontradas informações sobre o andamento do processo, por se tratar de um caso de âmbito criminal, ele corre em segredo de justiça, impedindo a obtenção de informações sobre seu desenrolar.
+- ID:  131.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Wellington Aparecido Martins, atleta do Avaí Futebol Clube
+  DATA: 23/06/2023
+  ONDE: Casa do jogador
+  CIDADE: Florianópolis/SC
+  FATO: Nas redes sociais, o volante do Avaí, Wellington, denunciou um ataque racista sofrido por sua família. O atleta compartilhou uma foto de uma casca de banana encontrada por sua esposa na porta do apartamento da família.
+  DESDOBRAMENTO: Em nota, o Avaí manifestou solidariedade ao jogador e sua família, afirmando que o departamento jurídico do clube estava à disposição para auxiliá-los. Conforme a Polícia Civil, após análise das câmeras do local, foi constatado que crianças estavam brincando e que, após uma queda de energia, elas saíram correndo, resultando na queda da banana que uma delas estava comendo. Em resposta, nas redes sociais, Wellington questionou a conclusão do caso, alegando que ele e sua esposa não foram ouvidos e contestando que, nas imagens que possuem, não há evidência de queda de energia. Após a manifestação do jogador, a Polícia Civil informou que foram conduzidas investigações preliminares e que não havia sido instaurado um inquérito, pois as vítimas não registraram um boletim de ocorrência e que a continuidade da investigação estava condicionada ao registro do boletim de ocorrência,conforme determinado pela legislação.
+  COMO TERMINOU: Não foram encontradas informações sobre o registro de um boletim de ocorrência pelo jogador.
+- ID:  132.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Clube de Regatas do Flamengo
+  DATA: 10/08/2023
+  ONDE: Shopping
+  FATO: Torcedores do Flamengo que estavam no Paraguai para acompanhar a partida contra o Olímpia pela Libertadores acusaram um homem de insultá-los com o termo “macaco” em um shopping local.
+  DESDOBRAMENTO: Os torcedores reagiram, mas o homem foi protegido pelos seguranças do estabelecimento. Não foram encontrados outros desdobramentos sobre o incidente.
+  COMO TERMINOU: O caso não teve sequência.
+- ID:  133.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Goleiros do time Vila Elisa
+  DATA: 02/10/2023
+  ONDE: Campo do São Vicente
+  CIDADE: Gravataí/RS
+  FATO: Durante uma partida sub-13 dois goleiros do Vila Elisa foram chamados de “macacos” por torcedores do Boca São Vicente.
+  DESDOBRAMENTO: O incidente foi registrado em súmula, e os familiares dos atletas ofendidos fizeram um boletim de ocorrência. Os autores das ofensas não foram identificados.
+  COMO TERMINOU: Como punição, a Liga Gravataiense de Futebol, organizadora do evento, excluiu os times sub-11 e sub-13 do Boca São Vicente do Campeonato Municipal de Gravataí. Não foram encontradas informações de que o Boca São Vicente tenha entrado com recurso.
+- ID:  134.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedores do Fluminense Football Club
+  DATA: 02/11/2023
+  ONDE: Praia de Copacabana
+  CIDADE: Rio de Janeiro/RJ
+  FATO: Após uma briga generalizada entre as torcidas na Praia de Copacabana, um torcedor do Fluminense acusou um torcedor do Boca Juniors de chamá-lo de “macaquito”.
+  DESDOBRAMENTO: O torcedor do Boca Juniors foi detido ao gritos de “racista” e encaminhado para delegacia.
+  COMO TERMINOU: Não foram encontrados outros desdobramentos sobre a sequência do caso. 
+- ID:  135.2025
+  TIPO: Racismo
+  AMBIENTE: Mídia
+  TÍTULO: Torcedores do Fluminense Football Club
+  DATA: 03/11/2023
+  ONDE: Programa de TV
+  FATO: Durante uma entrevista ao canal TN da Argentina, um torcedor do Boca Juniors se referiu aos torcedores do Fluminense como “escravos” e “macacos de m****”.
+  DESDOBRAMENTO: Os jornalistas presentes no estúdio criticaram a fala do torcedor. As imagens da transmissão viralizaram nas redes sociais, levando a Polícia Civil a iniciar uma investigação. Após troca de informações com o consulado da Argentina, a Delegacia de Crimes Raciais e Delitos de Intolerância do Rio de Janeiro (Decradi) identificou o autor das ofensas e encaminhou à Justiça um pedido de prisão do torcedor.
+  COMO TERMINOU: Não foram encontradas informações sobre a detenção do torcedor ou outros desdobramentos do caso. 
+- ID:  136.2025
+  TIPO: Racismo
+  AMBIENTE: Mídia
+  TÍTULO: Torcedores do Sport Club Internacional
+  DATA: 14/12/2023
+  ONDE: Programa de TV
+  CIDADE: Porto Alegre/RS
+  FATO: Durante o programa Donos da Bola RS, o jornalista Farid Germano Filho imitou Kidiaba, goleiro do Mazembe que derrotou o Internacional no Mundial de Clubes da Fifa em 2010. Nas redes sociais, torcedores acusaram o jornalista de emitir sons de macaco durante a imitação.
+  DESDOBRAMENTO: Farid Germano Filho se pronunciou nas redes sociais, admitindo que errou, pedindo desculpas, e negando ser racista. Na edição seguinte do programa, o apresentador Filipe Gamba repudiou a atitude de Farid.
+  COMO TERMINOU: A Band demitiu o jornalista e retirou a edição do programa das redes sociais e do canal do YouTube.
+- ID:  245.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Vinicius José Paixão de Oliveira Júnior (Vini Jr.), atleta do Real Madrid Club de Fútbol
+  DATA: 26/01/2023
+  ONDE: Ponte - Próxima ao CT do Real Madrid
+  CIDADE: Madrid/ESPANHA
+  FATO: Um boneco simulando enforcamento e vestido a camiseta de Vini Jr. foi pendurado em uma ponte, próxima ao centro de treinamento do Real Madrid, com a faixa “Madri odeia o Real”, lema da “Frente Atlético”, um grupo de torcedores radicais do Atléticode Madrid.
+  DESDOBRAMENTO: Após repercussão, a Real Federação Espanhola de Futebol (RFEF), o Real Madrid e o Atlético de Madrid condenaram o ataque. A polícia e a Federação Espanhola abriram investigação sobre o caso, foram encontradas impressões digitais e DNA no boneco, além de imagens de veículos suspeitos com as placas dos carros. Quatro membros da “Frente Atletico” ligados ao caso foram presos, mas liberados após o pagamento de fiança. A Justiça espanhola emitiu uma ordem proibindo os quatro de se aproximarem ou se comunicarem com o jogador, e também os proibiu de se aproximarem de estádios de futebol durante os jogos da LaLiga. Após a identificação dos torcedores, o Atlético de Madrid suspendeu três sócios envolvidos no caso.
+  COMO TERMINOU: O Ministério Público de Madrid solicitou uma pena de quatro anos de prisão para os acusados, juntamente com o pagamento de uma indenização de 6 mil euros pelo dano moral causado ao jogador. No entanto, os quatro acusados ainda não foram julgados pelo caso.
+- ID:  246.2025
+  TIPO: Racismo
+  AMBIENTE: Físico
+  TÍTULO: Antonio Francisco das Chagas Honorato (Francisco Bobô), atleta do Cultural Leonesa
+  DATA: 09/06/2023
+  ONDE: Supermercado
+  FATO: Em entrevista ao GE, Fernando Bobô relatou que foi vítima de racismo em um supermercado na Espanha.
+  DESDOBRAMENTO: Segundo o jogador, ele foi ajudar uma senhora pegando a sacola dela, quando a mesma o insultou. No relato, o jogador disse que após o caso, chegou a pensar em desistir da carreira.
+  COMO TERMINOU: O caso não teve outros desdobramentos.
+- ID:  247.2025
+  TIPO: Racismo
+  AMBIENTE: Mídia
+  TÍTULO: Igor Guilherme Barbosa da Paixão, atleta do Feyenoord Rotterdam
+  DATA: 28/11/2023
+  ONDE: Site do jornal
+  FATO: Em uma matéria contando a história de vida de Igor Paixão, jogador do Feyenoord, o jornal espanhol AS o descreveu como “descendente de escravos”. A matéria foi postada na conta oficial do jornal no X (antigo Twitter).
+  DESDOBRAMENTO: Após receber críticas na rede social, o jornal espanhol excluiu a publicação e editou a matéria. Nas redes sociais, o jogador desabafou, afirmando “Fosse pelo que fosse, só há uma palavra para descrever isso, racismo.”
+  COMO TERMINOU: O caso não teve sequência.

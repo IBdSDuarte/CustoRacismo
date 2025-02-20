@@ -1,0 +1,81 @@
+- ID: 174.2025
+  TIPO: Machismo
+  AMBIENTE: Físico
+  TÍTULO: Torcedoras do Esporte Clube Bahia
+  DATA: 04/01/2023 
+  ONDE: Arena Fonte Nova
+  CIDADE: Salvador/BA
+  FATO: Durante a entrevista coletiva do atacante Everaldo, o YouTuber Tonn Bahia perguntou ao jogador como ele lidava com o fato de sua chegada ter “influenciado no aumento de sócias”.
+  DESDOBRAMENTO: Nas redes sociais, a pergunta foi contestada e considerada machista. A repórter Gabrielle Gomes, da TV Globo, única mulher presente na coletiva, relatou constrangimento com a fala. Depois da repercussão, Tonn Bahia se pronunciou emseu canal no YouTube, pedindo desculpas.
+  COMO TERMINOU: O caso nãoteve desdobramentos.
+- ID: 175.2025
+  TIPO: Machismo
+  AMBIENTE: Físico
+  TÍTULO: Ruthyanna Camila Medeiros da Silva, árbitra
+  DATA: 30/01/2023
+  JOGO: Botafogo-PB x Auto Esporte PB
+  CAMPEONATO: Paraibano - Série A
+  ONDE: Estádio José Américo de Almeida Filho (Almeidão)
+  CIDADE: João Pessoa/PB
+  FATO: Após ser expulso, ao sair de campo, o zagueiro do Auto Esporte-PB, Thiago Santos, proferiu a frase “é isso que dá botar mulher para apitar”.
+  DESDOBRAMENTO: O delegado da partida, Gerson Tomaz da Silva Júnior, relatou a ofensa à árbitra Ruthyanna Camila, que fez o registro em súmula. Em nota, a Federação Paraibana de Futebol (FPF-PB) e clubes do estado repudiaram a atitude do jogador. O Auto Esporte-PB anunciou o desligamento do atleta. Após a repercussão, Thiago Santos pediu desculpas à árbitra.
+  COMO TERMINOU: Apesar do registro em súmula, não foram encontradas informações de que o caso tenha sido julgado pela Justiça Desportiva.
+- ID: 176.2025
+  TIPO: Machismo
+  AMBIENTE: Mídia
+  TÍTULO: Comentário machista
+  DATA: 01/04/2023
+  ONDE: CT Ninho Do Galo - CRB
+  CIDADE: Barra de São Miguel/AL
+  FATO: Em entrevista, o presidente do CRB, Mário Marroquim, anunciou que iria colocar um trio elétrico para a festa de campeão e comentou sobre a superstição de fazer festa antecipada, dizendo “Azar quem tem é mulher da bunda pequena”.
+  DESDOBRAMENTO: O Coletivo de Mulheres Alagoanas divulgou uma nota de repúdio contra o presidente. Marroquim justificou sua fala como despretensiosa e afirmou que é muito “mimimi”, negando ter cometido qualquer crime, machismo ou discriminação.
+  COMO TERMINOU: O caso não teve sequência.
+- ID: 177.2025
+  TIPO: Machismo
+  AMBIENTE: Físico
+  TÍTULO: Carolina de Freitas Mendes, árbitra assistente
+  DATA: 11/06/2023
+  JOGO: XV Jaú X Independente
+  CAMPEONATO: Paulista - Sub 23 - Segunda Divisão
+  ONDE: Estádio Zezinho Magalhães
+  CIDADE: Jaú/SP
+  FATO: Bryan, atacante do XV de Jaú, chamou a árbitra assistente Caroline de Freitas de “sua biscate”.
+  DESDOBRAMENTO: A ofensa foi registrada na súmula pelo árbitro Nelson Marques da Silva. O atacante foi denunciado pela Justiça Desportiva por infração aos Artigos 243-G e 258 do CBJD.
+  COMO TERMINOU: Bryan Bernardo de Paula foi punido pelo TJD-SP com suspensão de cinco partidas e multa de R$ 100.
+- ID: 178.2025
+  TIPO: Machismo
+  AMBIENTE: Físico
+  TÍTULO: Atletas de futebol feminino de Barra de São Francisco
+  DATA: 13/09/2023
+  ONDE: Estádio Municipal Joaquim Alves de Souza
+  CIDADE: Barra de São Francisco/ES
+  FATO: Segundo relatos das jogadoras, enquanto treinavam no Estádio Municipal, jogadores da equipe masculina entraram em campo e as intimidaram para que saíssem, proferindo palavras machistas, como "O que essas mulheres estão fazendo aqui?”, “Campo de futebol não é lugar de mulher”.
+  DESDOBRAMENTO: As atletas registraram um boletim de ocorrência e enviaram um ofício ao prefeito, pedindo que a prefeitura tomasse providências.
+  COMO TERMINOU: Após a conclusão do inquérito, a Polícia Civil indiciou três homens por misoginia. Não foram encontradas outras informações sobre o caso.
+- ID: 179.2025
+  TIPO: Machismo
+  AMBIENTE: Físico
+  TÍTULO: Vivian Lourenço Padovani, jornalista
+  DATA: 21/03/2023
+  ONDE: Youtube
+  FATO: O influencer Sílvio Albertin Júnior, conhecido como ‘Véio Fanático do Tricolor’, ofendeu a jornalista Vivian Padovani em um ataque machista direcionado ao marido dela, Flávio, do canal Fala Bandana. Durante uma transmissão ao vivo, Sílvio disse “Bandana [Flávio], pergunta para a sua mulher qual foi a camisinha que eu usei quando eu c**** ela, seu filho da p*”.
+  DESDOBRAMENTO: Após repercussão da fala, o vídeo foi excluído pelo canal Coy o Corintiano. Sílvio justificou seu ato dizendo que estava respondendo a uma conta fake que se passava por Flávio e o perseguia, e afirmou que queria pedir desculpas pessoalmente, mas não conseguiu contatar o casal. Nas redes sociais, Vivian desabafou Vivian fez um desabafo “sete pessoas na mesa e nenhum deles se indignou?”, relatando que os ataques machistas influenciaram sua decisão de não participar mais dos vídeos no canal do marido e que estava buscando aconselhamento jurídico para tomar medidas contra Sílvio. Flávio condenou a fala e ressaltou que buscaria orientação sobre o que fazer.
+  COMO TERMINOU: O  caso nãoteve sequência.
+- ID: 180.2025
+  TIPO: Machismo
+  AMBIENTE: Mídia
+  TÍTULO: Comentários machistas na transmissão da Copa do Mundo Feminina
+  DATA: 20/07/2023
+  ONDE: Youtube
+  FATO: Durante o segundo tempo da partida entre Nova Zelândia e Noruega pela Copa do Mundo Feminina, o canal Cazé TV desativou o chat do YouTube devido aos comentários machistas e  preconceituosos direcionados às atletas.
+  DESDOBRAMENTO: Em nota, o canal repudiou os atos dos usuários e informou que os próximos jogos teriam mais moderadores para banir discursos discriminatórios.
+  COMO TERMINOU: O  caso não teve sequência.
+- ID: 181.2025
+  TIPO: Machismo
+  AMBIENTE: Físico
+  TÍTULO: Amanda Nunes,ex-namorada do atleta Pedro Gabriel Pereira Lopes (Pedrinho) do São Paulo Futebol Clube
+  DATA: 30/01/2023
+  ONDE: Sem identificação
+  FATO: Amanda Nunes, ex-namorada do jogador Pedrinho, do São Paulo, registrou um boletim de ocorrência contra o atleta por violência doméstica, ameaça, injúria e lesão corporal.
+  DESDOBRAMENTO: Após tomar conhecimento do BO, o São Paulo afirmou em nota que repudia qualquer tipo de agressão contra mulheres e que, se necessário, tomaria as medidas cabíveis. Em comum acordo com o clube, Pedrinho foi afastado para esclarecimento dos fatos. O atleta negou as acusações e afirmou ser a vítima das agressões.
+  COMO TERMINOU: Após a divulgação de prints de conversas em que Pedrinho ameaça Amanda, o São Paulo rescindiu o contrato com o atleta. Quanto ao boletim de ocorrência, por se tratar de um caso criminal, o processo corre em segredo de justiça, não sendo possível obter mais informações sobre o seu andamento.

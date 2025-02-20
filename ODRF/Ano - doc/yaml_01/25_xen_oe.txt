@@ -1,0 +1,48 @@
+- ID: 190.2025
+  TIPO: Xenofobia
+  AMBIENTE: Físico
+  TÍTULO: Técnicos portugueses
+  DATA: 02/03/2023
+  ONDE: TJD-PR
+  CIDADE: Curitiba/PR
+  FATO: Durante o julgamento da briga entre jogadores no clássico Atletiba, o auditor do TJD-PR, Rubens Dobranski, afirmou ao técnico do Coritiba, António Oliveira, que “os técnicos portugueses, que estão trabalhando atualmente no Brasil, parecem que estão querendo marcar território”, citando também Abel Ferreira, técnico do Palmeiras.
+  DESDOBRAMENTO: Em resposta ao auditor, o técnico António Oliveira, pontuou que “não olha as culturas, as raças e as nacionalidades”. Em nota divulgada em conjunto nas redes sociais, o Coritiba e o Athletico-PR afirmaram que o ato “preconceituoso direcionado ao profissional é inadmissível”. O Palmeiras também repudiou a fala. Rubens Dobranski disse que “não houve a intenção de ofender nenhuma nacionalidade”. A Cáritas Brasileira Regional Paraná, organismo da Conferência Nacional dos Bispos do Brasil (CNBB), denunciou o caso ao Ministério Público do Paraná (MP-PR) por suposta xenofobia. O auditor foi afastado pelo TJD-PR, que indicou uma comissão para instaurar um inquérito disciplinar.
+  COMO TERMINOU: Rubens Dobranski foi absolvido pelo TJD-PR. Em relação à denúncia ao MP-PR, não foram encontradas outras informações sobre o andamento do caso.
+- ID: 191.2025
+  TIPO: Xenofobia
+  AMBIENTE: Mídia
+  TÍTULO: Comentário xenofóbico, direcionado ao Águia de Marabá Futebol Clube
+  DATA: 16/03/2023
+  ONDE: Programa de rádio
+  CIDADE: Goiânia / GO
+  FATO: Durante o programa Esporte em Debate, da Rádio Bandeirantes de Goiás, o radialista Nilton César criticava o Goiás por ter sido eliminado pelo Águia de Marabá da Copa do Brasil e proferiu a frase “o Águia é o cocô do cavalo do bandido”.
+  DESDOBRAMENTO: Nas redes sociais, torcedores repudiaram a fala. A Federação Paraense de Futebol emitiu uma nota de repúdio, afirmando que o ato incita a “xenofobia contra times e povos da Região Norte do país” e se colocou à disposição do Águia para auxílio jurídico. Após a repercussão, Nilton César pediu desculpas aos torcedores do Águia e ao povo paraense.
+  COMO TERMINOU: Não foram encontradas informações sobre a sequência do caso.
+- ID: 192.2025
+  TIPO: Xenofobia
+  AMBIENTE: Mídia
+  TÍTULO: Wasley do Couto Leão, árbitro
+  DATA: 14/05/2023
+  ONDE: Programa de TV
+  FATO: Durante a transmissão da partida entre Sergipe e Jacupiense, o comentarista Odilon Junior, da TV Gipão, afirmou “Esse juiz, como eu disse antes da transmissão, veio de Roraima. Lá não tem... não sei... tradição de futebol”, durante uma crítica ao árbitro Wasley do Couto Leão.
+  DESDOBRAMENTO: Após a repercussão, a TV Gipão pediu desculpas pelo comentário.
+  COMO TERMINOU: Não foram encontradas informações sobre a continuidade do caso.
+- ID: 193.2025
+  TIPO: Xenofobia
+  AMBIENTE: Mídia
+  TÍTULO: Gustavo Grossi, diretor Executivo do Sport Club Internacional
+  DATA: 16/08/2023
+  ONDE: Programa de rádio
+  CIDADE: Porto Alegre/RS
+  FATO: Durante o programa Sala de Redação, da Rádio Gaúcha, o jornalista Adroaldo Guerra Filho proferiu a frase “Já mandaram esse gringo embora? Esse gringo que não ganha p**** nenhuma na base. Não mandaram embora ainda?”, referindo-se ao diretor executivo das categorias de base do Internacional, Gustavo Grossi, que é argentino.
+  DESDOBRAMENTO: A fala repercutiu nas redes sociais, e torcedores acusaram o jornalista de xenofobia.
+  COMO TERMINOU: O caso não teve sequência.
+- ID: 249.2025
+  TIPO: Xenofobia
+  AMBIENTE: Mídia
+  TÍTULO: Declarações xenofóbicas contra elenco brasileiro
+  DATA: 01/03/2023
+  ONDE: Programa de TV
+  FATO: Artem Dzyuba, ex-jogador do Zenit reclamou do excesso de brasileiros na equipe.
+  DESDOBRAMENTO: Em entrevista, o jogador afirmou “Entendi que o Zenit São Peterbsurgo estava se transformando no Zenit Rio de Janeiro, ou São Paulo.” e que uma equipe russa deveria ter uma base de jogadores russos.
+  COMO TERMINOU: O caso não teve sequência.
